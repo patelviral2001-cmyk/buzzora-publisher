@@ -1,0 +1,65 @@
+name: Buzzora publish queue
+
+# Instagram's Content Publishing API has no scheduled-publish parameter, so something must call it
+# at each slot. This replaces the local 30-minute task so publishing no longer depends on a PC.
+#
+# Window: 02:00-17:30 UTC = 07:30-23:00 IST, covering every slot from 08:00 to 22:00 IST.
+# Round-the-clock would be ~1,440 runs/month and would exceed the 2,000 free private-repo minutes.
+on:
+  schedule:
+    - cron: "*/30 2-17 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "List what would publish, send nothing"
+        type: boolean
+        default: true
+
+# Never let two runs publish at once: overlapping runs could double-post an item whose state has
+# not been committed back yet. A run in progress wins; the next scheduled tick is skipped.
+concurrency:
+  group: buzzora-publish
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Publish what is due
+        env:
+          BUZZORA_IG_USER_ID: ${{ secrets.BUZZORA_IG_USER_ID }}
+          BUZZORA_IG_ACCESS_TOKEN: ${{ secrets.BUZZORA_IG_ACCESS_TOKEN }}
+          BUZZORA_FB_PAGE_ID: ${{ secrets.BUZZORA_FB_PAGE_ID }}
+          BUZZORA_META_APP_ID: ${{ secrets.BUZZORA_META_APP_ID }}
+          BUZZORA_META_APP_SECRET: ${{ secrets.BUZZORA_META_APP_SECRET }}
+          BUZZORA_TOKEN_KIND: ${{ secrets.BUZZORA_TOKEN_KIND }}
+          BUZZORA_YT_CLIENT_ID: ${{ secrets.BUZZORA_YT_CLIENT_ID }}
+          BUZZORA_YT_CLIENT_SECRET: ${{ secrets.BUZZORA_YT_CLIENT_SECRET }}
+          BUZZORA_YT_REFRESH_TOKEN: ${{ secrets.BUZZORA_YT_REFRESH_TOKEN }}
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            python tools/publish.py run --dry-run
+          else
+            python tools/publish.py run
+          fi
+
+      - name: Commit updated queue state
+        if: always() && inputs.dry_run != true
+        run: |
+          # Runs even when publishing failed part-way: the queue records what already went out,
+          # and losing it would repost those items on the next run.
+          git config user.name  Buzzora
+          git config user.email buzzora72@gmail.com
+          git add .secrets/queue.json .secrets/published.json
+          git diff --cached --quiet || git commit -m "publish state $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
