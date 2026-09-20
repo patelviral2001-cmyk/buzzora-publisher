@@ -35,6 +35,20 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Check credentials
+        env:
+          BUZZORA_IG_USER_ID: ${{ secrets.BUZZORA_IG_USER_ID }}
+          BUZZORA_IG_ACCESS_TOKEN: ${{ secrets.BUZZORA_IG_ACCESS_TOKEN }}
+          BUZZORA_FB_PAGE_ID: ${{ secrets.BUZZORA_FB_PAGE_ID }}
+          BUZZORA_META_APP_ID: ${{ secrets.BUZZORA_META_APP_ID }}
+          BUZZORA_META_APP_SECRET: ${{ secrets.BUZZORA_META_APP_SECRET }}
+          BUZZORA_TOKEN_KIND: ${{ secrets.BUZZORA_TOKEN_KIND }}
+          BUZZORA_YT_CLIENT_ID: ${{ secrets.BUZZORA_YT_CLIENT_ID }}
+          BUZZORA_YT_CLIENT_SECRET: ${{ secrets.BUZZORA_YT_CLIENT_SECRET }}
+          BUZZORA_YT_REFRESH_TOKEN: ${{ secrets.BUZZORA_YT_REFRESH_TOKEN }}
+        # Hits the live API: proves the token reached CI intact and reports the 24h quota.
+        run: python tools/publish.py check
+
       - name: Publish what is due
         env:
           BUZZORA_IG_USER_ID: ${{ secrets.BUZZORA_IG_USER_ID }}
