@@ -226,7 +226,12 @@
     "yt_title": null,
     "tags": [],
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-21",
-    "status": "queued"
+    "status": "published",
+    "result": {
+      "instagram": "17988016410061201",
+      "facebook": "122107836009475707"
+    },
+    "published_at": "2026-09-21T18:30:21.965678+05:30"
   },
   {
     "id": "2026-09-21-R5",
