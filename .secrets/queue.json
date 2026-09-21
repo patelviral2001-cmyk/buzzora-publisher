@@ -150,7 +150,13 @@
       "Buzzora"
     ],
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-21",
-    "status": "queued"
+    "status": "published",
+    "result": {
+      "instagram": "17901875484664683",
+      "facebook": "2117696598859008",
+      "youtube": "ADrVu-1gcHw"
+    },
+    "published_at": "2026-09-21T17:20:38.521631+05:30"
   },
   {
     "id": "2026-09-21-C2",
@@ -169,7 +175,12 @@
     "yt_title": null,
     "tags": [],
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-21",
-    "status": "queued"
+    "status": "published",
+    "result": {
+      "instagram": "18075721823470706",
+      "facebook": "1383947794794733_122107739379475707"
+    },
+    "published_at": "2026-09-21T17:21:20.385244+05:30"
   },
   {
     "id": "2026-09-21-R4",
@@ -194,7 +205,13 @@
       "Buzzora"
     ],
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-21",
-    "status": "queued"
+    "status": "published",
+    "result": {
+      "instagram": "18128763931826661",
+      "facebook": "3250326061832661",
+      "youtube": "p0nryB54vu8"
+    },
+    "published_at": "2026-09-21T17:22:55.905654+05:30"
   },
   {
     "id": "2026-09-21-P3",
