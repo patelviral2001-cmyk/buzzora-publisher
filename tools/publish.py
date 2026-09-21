@@ -12,8 +12,10 @@ Usage:
   python tools/publish.py queue editions/<date>          # build queue.json from that edition
   python tools/publish.py run [--due-only] [--dry-run]   # publish what's due
   python tools/publish.py one editions/<date> R1         # publish a single item now
+  python tools/publish.py serve [--hours 5.75]           # cloud runner: stay up, publish each slot on time
+  python tools/publish.py stage <id>                     # natively schedule one item on Facebook + YouTube
 """
-import json, os, sys, tempfile, time, urllib.error, urllib.parse, urllib.request
+import json, os, subprocess, sys, tempfile, time, urllib.error, urllib.parse, urllib.request
 from datetime import datetime, timedelta, timezone
 
 # Windows consoles default to cp1252; captions carry ₹ and other non-latin1 text, and a print
@@ -190,6 +192,68 @@ def fb_post(c, item):
                 data={"url": f"{base}/{files[0]}", "caption": caption, "access_token": tok})["id"]
 
 
+def _fb_find_scheduled(c, when, caption):
+    """Id of an already-scheduled Page post with this slot and caption, or None.
+
+    Guards against scheduling the same item twice (e.g. state failed to save after the API call),
+    and resolves the real id when /feed answers with a placeholder like '<page>_1'.
+    """
+    try:
+        d = _req(f"{GRAPH}/{c['fb_page_id']}/scheduled_posts?fields=id,message,scheduled_publish_time"
+                 f"&limit=100&access_token={c['ig_access_token']}")
+    except SystemExit:
+        return None
+    ts, head = int(when.timestamp()), caption[:80]
+    for p in d.get("data", []):
+        spt = p.get("scheduled_publish_time")
+        if isinstance(spt, str):
+            try:
+                spt = int(datetime.fromisoformat(spt.replace("+0000", "+00:00")).timestamp())
+            except ValueError:
+                spt = None
+        if spt == ts and (p.get("message") or "")[:80] == head:
+            return p["id"]
+    return None
+
+
+def fb_schedule(c, item, when):
+    """Hand the post to Facebook with its publish time, so it goes out on time with no runner awake.
+
+    Same three shapes as fb_post, created unpublished with scheduled_publish_time (Facebook needs it
+    10 minutes to 30 days ahead). Carousel photos are uploaded as temporary, as scheduled multi-photo
+    posts require.
+    """
+    page, tok = c["fb_page_id"], c["ig_access_token"]
+    kind, files, caption, base = item["kind"], item["files"], item["text"], item["media_base"]
+    existing = _fb_find_scheduled(c, when, caption)
+    if existing:
+        return existing
+    ts = str(int(when.timestamp()))
+    if kind == "reel":
+        return _req(f"{GRAPH}/{page}/videos",
+                    data={"file_url": f"{base}/{files[0]}", "description": caption, "published": "false",
+                          "scheduled_publish_time": ts, "access_token": tok}, timeout=600)["id"]
+    if kind == "carousel":
+        ids = [_req(f"{GRAPH}/{page}/photos",
+                    data={"url": f"{base}/{f}", "published": "false", "temporary": "true",
+                          "access_token": tok})["id"] for f in files]
+        params = {"message": caption, "published": "false", "scheduled_publish_time": ts, "access_token": tok}
+        for i, mid in enumerate(ids):
+            params[f"attached_media[{i}]"] = json.dumps({"media_fbid": mid})
+        pid = _req(f"{GRAPH}/{page}/feed", data=params)["id"]
+        if pid.endswith("_1"):  # placeholder answer seen on 21 Sept; look up the real id
+            pid = _fb_find_scheduled(c, when, caption) or pid
+        return pid
+    return _req(f"{GRAPH}/{page}/photos",
+                data={"url": f"{base}/{files[0]}", "caption": caption, "published": "false",
+                      "scheduled_publish_time": ts, "access_token": tok})["id"]
+
+
+def fb_cancel(c, fid):
+    """Remove a scheduled (not yet public) Page post - used when an item is held."""
+    return _req(f"{GRAPH}/{fid}?access_token={c['ig_access_token']}", method="DELETE")
+
+
 # ---------------------------------------------------------------- youtube
 def yt_access_token(c):
     d = _req("https://oauth2.googleapis.com/token", data={
@@ -198,11 +262,16 @@ def yt_access_token(c):
     return d["access_token"]
 
 
-def yt_upload(c, item, local_video):
+def yt_upload(c, item, local_video, publish_at=None):
+    """Upload a Short. With publish_at it is uploaded private and YouTube itself makes it public then."""
     token = yt_access_token(c)
+    status = {"privacyStatus": "public", "selfDeclaredMadeForKids": False}
+    if publish_at:
+        status = {"privacyStatus": "private", "selfDeclaredMadeForKids": False,
+                  "publishAt": publish_at.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")}
     meta = {"snippet": {"title": item["yt_title"], "description": item["text"],
                         "tags": item.get("tags", []), "categoryId": "24"},
-            "status": {"privacyStatus": "public", "selfDeclaredMadeForKids": False}}
+            "status": status}
     size = os.path.getsize(local_video)
     # resumable upload: initiate, then PUT the bytes at the returned Location
     r = urllib.request.Request("https://www.googleapis.com/upload/youtube/v3/videos"
@@ -221,6 +290,15 @@ def yt_upload(c, item, local_video):
                                           "Content-Type": "video/mp4", "Content-Length": str(size)})
     with urllib.request.urlopen(put, timeout=900) as resp:
         return json.loads(resp.read())["id"]
+
+
+def yt_unschedule(c, vid):
+    """Cancel a scheduled Short: it stays uploaded but private, with no publish time. Nothing is deleted."""
+    token = yt_access_token(c)
+    body = json.dumps({"id": vid, "status": {"privacyStatus": "private",
+                                             "selfDeclaredMadeForKids": False}}).encode()
+    return _req("https://www.googleapis.com/youtube/v3/videos?part=status", data=body, method="PUT",
+                headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json"})
 
 
 # ---------------------------------------------------------------- queue
@@ -252,6 +330,9 @@ def build_queue(edition_dir):
             # partly sent: carry the per-network ids across so the retry does not repeat them
             row["status"] = "partial"
             row["result"] = old["result"]
+        elif old.get("status") == "held":
+            # an editor pulled it (push_queue.py --hold); re-queuing must not silently put it back
+            row["status"] = "held"
     q.sort(key=lambda x: x["due_ist"])
     save(QUEUE, q)
     return q
@@ -302,6 +383,10 @@ def publish_item(c, x, dry=False):
         print(f"DRY {x['id']}  {x['kind']:<8} {x['files'][0]}  -> {', '.join(todo) or 'nothing left'}")
         return {"dry": True}
     res = dict(x.get("result") or {})
+    # Networks natively scheduled ahead of time (see stage_item) publish themselves at the slot;
+    # their ids carry across so the runner never posts them a second time.
+    for net, sid in (x.get("staged") or {}).items():
+        res.setdefault(net, sid)
     if "instagram" not in res:
         res["instagram"] = ig_post(c, x, x["media_base"])
         x["result"] = dict(res)
@@ -312,6 +397,193 @@ def publish_item(c, x, dry=False):
         res["youtube"] = yt_upload(c, x, local_video(x))
         x["result"] = dict(res)
     return res
+
+
+# ---------------------------------------------------------------- cloud runner (serve)
+# The GitHub Actions cron fired once in ~10 hours on 21 Sept, so slots went out 2-5 hours late in
+# bursts. `serve` removes the dependency: one job stays up ~5.75 h, sleeps until each slot and
+# publishes on the minute, then the workflow hands over to a fresh job. State is the git repo itself:
+# every change is re-applied on top of origin/main and pushed at once, so a hold or a new queue
+# pushed from the PC mid-run is picked up, and nothing is ever published twice.
+STAGE_MIN = timedelta(minutes=20)    # closer than this, just publish live at the slot
+STAGE_MAX = timedelta(hours=26)      # far enough to cover tomorrow's whole edition once it is pushed
+STAGE_ON = os.environ.get("BUZZORA_STAGE", "0") == "1"
+
+
+def _git(*args):
+    return subprocess.run(["git", *args], cwd=ROOT, capture_output=True, text=True)
+
+
+def pull_state():
+    _git("fetch", "--quiet", "origin", "main")
+    _git("reset", "--quiet", "--hard", "origin/main")
+
+
+def commit_state(mutate, msg):
+    """Apply mutate(queue, log) to the latest origin state and push it; retry if someone pushed first.
+
+    Returns False if it could not be saved - callers then stop making API calls whose record would
+    be lost (that is how a lost save turns into a duplicate post).
+    """
+    for attempt in range(6):
+        pull_state()
+        q, log = load(QUEUE, []), load(LOG, [])
+        mutate(q, log)
+        save(QUEUE, q)
+        save(LOG, log)
+        _git("add", ".secrets/queue.json", ".secrets/published.json")
+        if _git("diff", "--cached", "--quiet").returncode == 0:
+            return True
+        _git("-c", "user.name=Buzzora", "-c", "user.email=buzzora72@gmail.com", "commit", "--quiet", "-m", msg)
+        if _git("push", "--quiet", "origin", "HEAD:main").returncode == 0:
+            return True
+        time.sleep(3 + 2 * attempt)
+    print(f"!! could not save state after retries: {msg}")
+    return False
+
+
+def _row(q, item_id):
+    return next((r for r in q if r["id"] == item_id), None)
+
+
+def _due_at(x):
+    return datetime.fromisoformat(x["due_ist"]).replace(tzinfo=IST)
+
+
+def stage_item(c, x, save_fn):
+    """Natively schedule one item on Facebook (and YouTube for reels). Instagram still posts at the slot.
+
+    Each network is recorded the moment it succeeds. Failures are reported and left for the slot:
+    an unstaged network simply publishes live, as before.
+    """
+    when = _due_at(x)
+    staged = dict(x.get("staged") or {})
+    ok = True
+
+    def record(net, sid):
+        staged[net] = sid
+
+        def m(q, log):
+            r = _row(q, x["id"])
+            if r is not None:
+                r.setdefault("staged", {})[net] = sid
+        return save_fn(m, f"stage {x['id']} {net}")
+
+    if c.get("fb_page_id") and "facebook" not in staged:
+        try:
+            ok = record("facebook", fb_schedule(c, x, when)) and ok
+            print(f"STAGED {x['id']} facebook for {when:%d %b %H:%M} IST")
+        except SystemExit as e:
+            print(f"stage failed {x['id']} facebook (will post live at slot): {e}")
+    if ok and x["kind"] == "reel" and c.get("yt_refresh_token") and "youtube" not in staged:
+        try:
+            ok = record("youtube", yt_upload(c, x, local_video(x), publish_at=when)) and ok
+            print(f"STAGED {x['id']} youtube for {when:%d %b %H:%M} IST")
+        except SystemExit as e:
+            print(f"stage failed {x['id']} youtube (will post live at slot): {e}")
+    return ok
+
+
+def unstage_item(c, x, save_fn):
+    """Cancel an item's native schedules (it was held, or its slot/copy changed after staging)."""
+    staged = dict(x.get("staged") or {})
+    if "facebook" in staged:
+        try:
+            fb_cancel(c, staged["facebook"])
+        except SystemExit as e:
+            print(f"!! could not cancel facebook schedule for {x['id']}: {e}")
+            return False
+    if "youtube" in staged:
+        try:
+            yt_unschedule(c, staged["youtube"])
+        except SystemExit as e:
+            print(f"!! could not cancel youtube schedule for {x['id']}: {e}")
+            return False
+
+    def m(q, log):
+        r = _row(q, x["id"])
+        if r is not None:
+            r.pop("staged", None)
+            r.pop("restage", None)
+    print(f"UNSTAGED {x['id']} ({', '.join(staged)})")
+    return save_fn(m, f"unstage {x['id']}")
+
+
+def publish_due(c, q, save_fn):
+    items = due(q)
+    if not items:
+        return
+    used, total = ig_limit(c)
+    if used + len(items) > total:
+        print(f"Instagram 24h limit: {used}/{total} used - publishing only what fits")
+        items = items[: max(0, total - used)]
+    for x in items:
+        fields = {}
+        try:
+            res = publish_item(c, x)
+            fields = {"status": "published", "result": res, "published_at": datetime.now(IST).isoformat()}
+            print(f"OK  {x['id']} -> {res}")
+        except SystemExit as e:
+            part = bool(x.get("result"))
+            fields = {"status": "partial" if part else "failed", "result": x.get("result"), "error": str(e)}
+            print(f"{'PARTIAL' if part else 'FAIL'} {x['id']}: {e}")
+        except Exception as e:  # noqa: BLE001 - an unexpected error must not hide a live post
+            fields = {"status": "unknown", "result": x.get("result"), "error": f"{type(e).__name__}: {e}"}
+            print(f"ERROR {x['id']}: {fields['error']} - VERIFY on the account")
+
+        def m(q2, log, x=x, fields=fields):
+            r = _row(q2, x["id"])
+            if r is None:
+                return
+            r.update({k: v for k, v in fields.items() if v is not None})
+            if fields.get("status") == "published" and not any(e.get("id") == x["id"] for e in log):
+                log.append({k: r[k] for k in ("id", "kind", "published_at", "result") if k in r})
+        if not save_fn(m, f"publish {x['id']} {fields.get('status')}"):
+            raise SystemExit("state could not be saved - stopping so nothing is posted twice")
+
+
+def serve(hours):
+    c = creds()
+    start = datetime.now(IST)
+    end = start + timedelta(hours=hours)
+    stage_ok = STAGE_ON
+    print(f"serve: {start:%d %b %H:%M} -> {end:%H:%M} IST · native FB/YT scheduling {'ON' if STAGE_ON else 'off'}")
+    while True:
+        now = datetime.now(IST)
+        if now >= end - timedelta(minutes=12):   # leave room for one slow reel before the job limit
+            break
+        try:
+            pull_state()
+            q = load(QUEUE, [])
+            for x in q:   # holds and edits made after staging
+                if x.get("staged") and (x["status"] == "held" or x.get("restage")):
+                    unstage_item(c, x, commit_state)
+            pull_state()
+            publish_due(c, load(QUEUE, []), commit_state)
+            if stage_ok:
+                pull_state()
+                for x in load(QUEUE, []):
+                    t = _due_at(x)
+                    if (x["status"] == "queued" and not x.get("staged")
+                            and now + STAGE_MIN <= t <= now + STAGE_MAX):
+                        if not stage_item(c, x, commit_state):
+                            stage_ok = False   # a lost record could mean a duplicate: stop staging
+                            break
+        except SystemExit as e:
+            print(f"!! {e}")
+            if "state could not be saved" in str(e):
+                raise
+        except Exception as e:  # noqa: BLE001 - a network blip must not end the shift
+            print(f"!! {type(e).__name__}: {e}")
+        q = load(QUEUE, [])
+        upcoming = [_due_at(x) for x in q if x["status"] in ("queued", "partial") and _due_at(x) > now]
+        wake = min([now + timedelta(minutes=10), end - timedelta(minutes=12)] + upcoming)
+        time.sleep(max(20, (wake - datetime.now(IST)).total_seconds() + 5))
+    ran = datetime.now(IST) - start
+    print(f"serve: shift over after {ran}")
+    if ran < timedelta(minutes=30):
+        # never hand over from a run that ended almost at once, or a fault becomes a dispatch loop
+        raise SystemExit("serve ended early - not handing over")
 
 
 def main():
@@ -381,6 +653,23 @@ def main():
             if not dry:
                 save(QUEUE, q)
                 save(LOG, log)
+
+    elif cmd == "serve":
+        hours = float(sys.argv[sys.argv.index("--hours") + 1]) if "--hours" in sys.argv else 5.75
+        serve(hours)
+
+    elif cmd == "stage":
+        c = creds()
+        pull_state()
+        x = _row(load(QUEUE, []), sys.argv[2])
+        if x is None:
+            raise SystemExit(f"{sys.argv[2]} not in queue")
+        if x.get("staged"):
+            print(f"{x['id']} already staged: {x['staged']}")
+            return
+        if not (datetime.now(IST) + STAGE_MIN <= _due_at(x)):
+            raise SystemExit(f"{x['id']} is due too soon to schedule natively")
+        stage_item(c, x, commit_state)
 
     else:
         print(__doc__)

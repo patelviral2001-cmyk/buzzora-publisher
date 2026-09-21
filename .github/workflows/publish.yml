@@ -1,15 +1,19 @@
 name: Buzzora publish queue
 
-# Instagram's Content Publishing API has no scheduled-publish parameter, so something must call it
-# at each slot. This replaces the local 30-minute task so publishing no longer depends on a PC.
+# Instagram's Content Publishing API has no scheduled-publish parameter, so something has to be awake
+# at each slot. GitHub's cron cannot be trusted for that: on 21 Sept it fired once in ~10 hours and
+# slots went out 2-5 hours late in bursts. So the runner times itself:
 #
-# Window: 02:00-17:30 UTC = 07:30-23:00 IST, covering every slot from 08:00 to 22:00 IST.
-# Round-the-clock would be ~1,440 runs/month and would exceed the 2,000 free private-repo minutes.
+#   serve  - one job stays up ~5.75 h, sleeps until each slot and publishes on the minute. Facebook and
+#            YouTube are also handed their exact publish time ahead of the slot (native scheduling,
+#            switched by the repo variable BUZZORA_STAGE=1), so they post on time even if this is down.
+#   hand-over - before the 6 h job limit, the job dispatches the next shift. The chain runs round the
+#            clock; this repo is public, so Actions minutes are free.
+#   cron   - backstop only: restarts the chain if a hand-over was ever lost. While a shift is running,
+#            these runs just wait (concurrency) and are replaced by the hand-over.
 on:
-  # If the schedule ever stops firing, a commit touching this file re-registers it with GitHub
-  # (that was needed on 21 Sept: the first schedule never ran).
   schedule:
-    - cron: "*/30 2-17 * * *"
+    - cron: "17 */3 * * *"
   workflow_dispatch:
     inputs:
       dry_run:
@@ -17,19 +21,31 @@ on:
         type: boolean
         default: true
 
-# Never let two runs publish at once: overlapping runs could double-post an item whose state has
-# not been committed back yet. A run in progress wins; the next scheduled tick is skipped.
+# Never let two runs publish at once. A run in progress wins; newer ones wait for it.
 concurrency:
   group: buzzora-publish
   cancel-in-progress: false
 
 permissions:
-  contents: write
+  contents: write   # commit queue state after every post
+  actions: write    # dispatch the next shift
+
+env:
+  BUZZORA_IG_USER_ID: ${{ secrets.BUZZORA_IG_USER_ID }}
+  BUZZORA_IG_ACCESS_TOKEN: ${{ secrets.BUZZORA_IG_ACCESS_TOKEN }}
+  BUZZORA_FB_PAGE_ID: ${{ secrets.BUZZORA_FB_PAGE_ID }}
+  BUZZORA_META_APP_ID: ${{ secrets.BUZZORA_META_APP_ID }}
+  BUZZORA_META_APP_SECRET: ${{ secrets.BUZZORA_META_APP_SECRET }}
+  BUZZORA_TOKEN_KIND: ${{ secrets.BUZZORA_TOKEN_KIND }}
+  BUZZORA_YT_CLIENT_ID: ${{ secrets.BUZZORA_YT_CLIENT_ID }}
+  BUZZORA_YT_CLIENT_SECRET: ${{ secrets.BUZZORA_YT_CLIENT_SECRET }}
+  BUZZORA_YT_REFRESH_TOKEN: ${{ secrets.BUZZORA_YT_REFRESH_TOKEN }}
+  BUZZORA_STAGE: ${{ vars.BUZZORA_STAGE }}
 
 jobs:
   publish:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 358
     steps:
       - uses: actions/checkout@v4
 
@@ -37,45 +53,23 @@ jobs:
         with:
           python-version: "3.11"
 
+      # Hits the live API: proves the token reached CI intact and reports the 24h quota.
       - name: Check credentials
-        env:
-          BUZZORA_IG_USER_ID: ${{ secrets.BUZZORA_IG_USER_ID }}
-          BUZZORA_IG_ACCESS_TOKEN: ${{ secrets.BUZZORA_IG_ACCESS_TOKEN }}
-          BUZZORA_FB_PAGE_ID: ${{ secrets.BUZZORA_FB_PAGE_ID }}
-          BUZZORA_META_APP_ID: ${{ secrets.BUZZORA_META_APP_ID }}
-          BUZZORA_META_APP_SECRET: ${{ secrets.BUZZORA_META_APP_SECRET }}
-          BUZZORA_TOKEN_KIND: ${{ secrets.BUZZORA_TOKEN_KIND }}
-          BUZZORA_YT_CLIENT_ID: ${{ secrets.BUZZORA_YT_CLIENT_ID }}
-          BUZZORA_YT_CLIENT_SECRET: ${{ secrets.BUZZORA_YT_CLIENT_SECRET }}
-          BUZZORA_YT_REFRESH_TOKEN: ${{ secrets.BUZZORA_YT_REFRESH_TOKEN }}
-        # Hits the live API: proves the token reached CI intact and reports the 24h quota.
         run: python tools/publish.py check
 
-      - name: Publish what is due
-        env:
-          BUZZORA_IG_USER_ID: ${{ secrets.BUZZORA_IG_USER_ID }}
-          BUZZORA_IG_ACCESS_TOKEN: ${{ secrets.BUZZORA_IG_ACCESS_TOKEN }}
-          BUZZORA_FB_PAGE_ID: ${{ secrets.BUZZORA_FB_PAGE_ID }}
-          BUZZORA_META_APP_ID: ${{ secrets.BUZZORA_META_APP_ID }}
-          BUZZORA_META_APP_SECRET: ${{ secrets.BUZZORA_META_APP_SECRET }}
-          BUZZORA_TOKEN_KIND: ${{ secrets.BUZZORA_TOKEN_KIND }}
-          BUZZORA_YT_CLIENT_ID: ${{ secrets.BUZZORA_YT_CLIENT_ID }}
-          BUZZORA_YT_CLIENT_SECRET: ${{ secrets.BUZZORA_YT_CLIENT_SECRET }}
-          BUZZORA_YT_REFRESH_TOKEN: ${{ secrets.BUZZORA_YT_REFRESH_TOKEN }}
-        run: |
-          if [ "${{ inputs.dry_run }}" = "true" ]; then
-            python tools/publish.py run --dry-run
-          else
-            python tools/publish.py run
-          fi
+      - name: Dry run
+        if: inputs.dry_run == true
+        run: python tools/publish.py run --dry-run
 
-      - name: Commit updated queue state
-        if: always() && inputs.dry_run != true
-        run: |
-          # Runs even when publishing failed part-way: the queue records what already went out,
-          # and losing it would repost those items on the next run.
-          git config user.name  Buzzora
-          git config user.email buzzora72@gmail.com
-          git add .secrets/queue.json .secrets/published.json
-          git diff --cached --quiet || git commit -m "publish state $(date -u +%Y-%m-%dT%H:%MZ)"
-          git push
+      # Commits state itself after every post, so nothing is lost if the job dies mid-shift.
+      - name: Serve (publish each slot on time)
+        if: inputs.dry_run != true
+        run: python -u tools/publish.py serve --hours 5.75
+
+      # Only after a clean, full shift: a run that failed or ended early never re-dispatches, so a fault
+      # cannot become a loop. The cron backstop restarts the chain within 3 hours instead.
+      - name: Hand over to the next shift
+        if: success() && inputs.dry_run != true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run publish.yml --repo "${{ github.repository }}" -f dry_run=false
