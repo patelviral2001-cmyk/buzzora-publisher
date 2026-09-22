@@ -368,7 +368,7 @@ def local_video(x):
     return tmp
 
 
-def publish_item(c, x, dry=False):
+def publish_item(c, x, dry=False, skip_meta=False):
     """Publish to every configured network, resuming rather than repeating.
 
     Each network's id is written back onto the item as soon as it succeeds, and a network already
@@ -387,15 +387,26 @@ def publish_item(c, x, dry=False):
     # their ids carry across so the runner never posts them a second time.
     for net, sid in (x.get("staged") or {}).items():
         res.setdefault(net, sid)
-    if "instagram" not in res:
-        res["instagram"] = ig_post(c, x, x["media_base"])
-        x["result"] = dict(res)
-    if c.get("fb_page_id") and "facebook" not in res:
-        res["facebook"] = fb_post(c, x)
-        x["result"] = dict(res)
-    if x["kind"] == "reel" and c.get("yt_refresh_token") and "youtube" not in res:
-        res["youtube"] = yt_upload(c, x, local_video(x))
-        x["result"] = dict(res)
+    # Networks are independent: Meta blocking the app (22 Sept) must not also stop YouTube. Every
+    # network is attempted; failures are collected and raised together after the others have gone.
+    steps = []
+    if not skip_meta:
+        steps.append(("instagram", lambda: ig_post(c, x, x["media_base"])))
+        if c.get("fb_page_id"):
+            steps.append(("facebook", lambda: fb_post(c, x)))
+    if x["kind"] == "reel" and c.get("yt_refresh_token"):
+        steps.append(("youtube", lambda: yt_upload(c, x, local_video(x))))
+    errors = ["instagram/facebook: skipped - Meta API unavailable"] if skip_meta else []
+    for net, fn in steps:
+        if net in res:
+            continue
+        try:
+            res[net] = fn()
+            x["result"] = dict(res)
+        except SystemExit as e:
+            errors.append(f"{net}: {e}")
+    if errors:
+        raise SystemExit(" | ".join(errors))
     return res
 
 
@@ -509,18 +520,43 @@ def unstage_item(c, x, save_fn):
     return save_fn(m, f"unstage {x['id']}")
 
 
+LATE_MAX = timedelta(hours=3)   # later than this, an item needs a human decision, not an auto-post
+
+
 def publish_due(c, q, save_fn):
     items = due(q)
     if not items:
         return
-    used, total = ig_limit(c)
-    if used + len(items) > total:
-        print(f"Instagram 24h limit: {used}/{total} used - publishing only what fits")
-        items = items[: max(0, total - used)]
+    # Never auto-post stale items in a burst when a long outage ends: copy says "today", slots pile
+    # up. Mark them 'missed'; `push_queue.py --unhold <id>` re-queues one deliberately.
+    now = datetime.now(IST)
+    for x in [x for x in items if now - _due_at(x) > LATE_MAX]:
+        print(f"MISSED {x['id']} (due {x['due_ist'][5:16]}) - over {LATE_MAX} late, not auto-posting")
+
+        def m(q2, log, i=x["id"]):
+            r = _row(q2, i)
+            if r is not None and r["status"] in ("queued", "partial"):
+                r["status"] = "missed"
+        save_fn(m, f"missed {x['id']}")
+    items = [x for x in items if now - _due_at(x) <= LATE_MAX]
+    if not items:
+        return
+    skip_meta = False
+    try:
+        used, total = ig_limit(c)
+        if used + len(items) > total:
+            print(f"Instagram 24h limit: {used}/{total} used - publishing only what fits")
+            items = items[: max(0, total - used)]
+    except SystemExit as e:
+        # Meta down or blocking the app: still send what does not depend on it (YouTube Shorts).
+        print(f"!! Meta unavailable, YouTube only this round: {str(e)[:200]}")
+        skip_meta = True
+        items = [x for x in items if x["kind"] == "reel" and "youtube" not in (x.get("result") or {})
+                 and "youtube" not in (x.get("staged") or {})]
     for x in items:
         fields = {}
         try:
-            res = publish_item(c, x)
+            res = publish_item(c, x, skip_meta=skip_meta)
             fields = {"status": "published", "result": res, "published_at": datetime.now(IST).isoformat()}
             print(f"OK  {x['id']} -> {res}")
         except SystemExit as e:

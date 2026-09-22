@@ -53,8 +53,10 @@ jobs:
         with:
           python-version: "3.11"
 
-      # Hits the live API: proves the token reached CI intact and reports the 24h quota.
+      # Hits the live API: proves the token reached CI intact and reports the 24h quota. Informational
+      # only - if Meta is down or blocks the app (22 Sept), serve still runs and keeps YouTube going.
       - name: Check credentials
+        continue-on-error: true
         run: python tools/publish.py check
 
       - name: Dry run
