@@ -488,7 +488,10 @@
       "Buzzora"
     ],
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-22",
-    "status": "queued"
+    "status": "queued",
+    "staged": {
+      "youtube": "tuwO_FV_DAo"
+    }
   },
   {
     "id": "2026-09-22-P3",
