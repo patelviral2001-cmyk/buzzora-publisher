@@ -876,11 +876,17 @@
       "Buzzora"
     ],
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-23",
-    "status": "queued",
+    "status": "published",
     "staged": {
       "youtube": "UPLOADED-ID-UNKNOWN"
     },
-    "staged_note": "Uploaded private with publishAt at its slot on 23 Sep; video id lost (state save failed). Real id in YouTube Studio > Content > Scheduled."
+    "staged_note": "Uploaded private with publishAt at its slot on 23 Sep; video id lost (state save failed). Real id in YouTube Studio > Content > Scheduled.",
+    "result": {
+      "youtube": "UPLOADED-ID-UNKNOWN",
+      "instagram": "17963544671984518",
+      "facebook": "1387919373515383"
+    },
+    "published_at": "2026-09-23T22:01:20.498583+05:30"
   },
   {
     "id": "2026-09-24-P1",
