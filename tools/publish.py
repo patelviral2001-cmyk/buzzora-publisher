@@ -430,12 +430,27 @@ def pull_state():
     _git("reset", "--quiet", "--hard", "origin/main")
 
 
+def is_git_checkout():
+    return _git("rev-parse", "--git-dir").returncode == 0
+
+
 def commit_state(mutate, msg):
     """Apply mutate(queue, log) to the latest origin state and push it; retry if someone pushed first.
 
     Returns False if it could not be saved - callers then stop making API calls whose record would
     be lost (that is how a lost save turns into a duplicate post).
+
+    On the editing machine ROOT is not a git checkout (only the cloud runner has one), so every git
+    call would fail and the record of a post that already went out would be lost. There we write the
+    local files instead; `push_queue.py` carries them to the cloud.
     """
+    if not is_git_checkout():
+        q, log = load(QUEUE, []), load(LOG, [])
+        mutate(q, log)
+        save(QUEUE, q)
+        save(LOG, log)
+        print(f"   saved locally ({msg}) - run: python tools/push_queue.py")
+        return True
     for attempt in range(6):
         pull_state()
         q, log = load(QUEUE, []), load(LOG, [])
