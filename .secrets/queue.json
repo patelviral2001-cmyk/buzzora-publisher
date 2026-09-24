@@ -1196,10 +1196,15 @@
     "yt_title": null,
     "tags": [],
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-24",
-    "status": "queued",
+    "status": "published",
     "staged": {
       "facebook": "1383947794794733_122109793791475707"
-    }
+    },
+    "result": {
+      "facebook": "1383947794794733_122109793791475707",
+      "instagram": "18113544047605639"
+    },
+    "published_at": "2026-09-24T21:00:52.585998+05:30"
   },
   {
     "id": "2026-09-24-R6",
