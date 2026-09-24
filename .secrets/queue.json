@@ -1112,10 +1112,16 @@
       "Buzzora"
     ],
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-24",
-    "status": "queued",
+    "status": "published",
     "staged": {
       "youtube": "zNUtbOYdV_4"
-    }
+    },
+    "result": {
+      "youtube": "zNUtbOYdV_4",
+      "instagram": "18166630534484155",
+      "facebook": "1121189783579054"
+    },
+    "published_at": "2026-09-24T17:00:54.770234+05:30"
   },
   {
     "id": "2026-09-24-P3",
