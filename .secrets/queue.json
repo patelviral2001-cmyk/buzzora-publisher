@@ -1251,10 +1251,15 @@
     "yt_title": null,
     "tags": [],
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-25",
-    "status": "queued",
+    "status": "published",
     "staged": {
       "facebook": "122110200771475707"
-    }
+    },
+    "result": {
+      "facebook": "122110200771475707",
+      "instagram": "17908017006480406"
+    },
+    "published_at": "2026-09-25T08:00:17.701752+05:30"
   },
   {
     "id": "2026-09-25-R1",
