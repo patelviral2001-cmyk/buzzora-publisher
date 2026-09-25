@@ -1399,11 +1399,17 @@
       "Buzzora"
     ],
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-25",
-    "status": "queued",
+    "status": "published",
     "staged": {
       "facebook": "2585328058558752",
       "youtube": "nnxAVmnc6o0"
-    }
+    },
+    "result": {
+      "facebook": "2585328058558752",
+      "youtube": "nnxAVmnc6o0",
+      "instagram": "18112360991098797"
+    },
+    "published_at": "2026-09-25T14:01:19.939277+05:30"
   },
   {
     "id": "2026-09-25-C2",
