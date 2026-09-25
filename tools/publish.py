@@ -318,6 +318,7 @@ def build_queue(edition_dir):
                   "due_ist": f"{date}T{item['slot']}:00", "kind": item["kind"],
                   "files": item["files"], "text": item["text"],
                   "yt_title": item.get("yt_title"), "tags": item.get("tags", []),
+                  "meta": item.get("meta", {}),   # editorial tags for tools/metrics.py
                   "media_base": f"{MEDIA_BASE}/{date}", "status": "queued"})
         row = q[-1]
         old = prev.get(row["id"], {})
