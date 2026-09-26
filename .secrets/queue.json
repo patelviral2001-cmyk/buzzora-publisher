@@ -1913,11 +1913,17 @@
       "hook_type": "number"
     },
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-26",
-    "status": "queued",
+    "status": "published",
     "staged": {
       "facebook": "2286617302176390",
       "youtube": "UGDYNWUxXCI"
-    }
+    },
+    "result": {
+      "facebook": "2286617302176390",
+      "youtube": "UGDYNWUxXCI",
+      "instagram": "18027758060692186"
+    },
+    "published_at": "2026-09-26T19:30:49.769182+05:30"
   },
   {
     "id": "2026-09-26-C3",
