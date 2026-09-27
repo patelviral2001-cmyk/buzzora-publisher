@@ -2126,11 +2126,17 @@
       "hook_type": "number"
     },
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-27",
-    "status": "queued",
+    "status": "published",
     "staged": {
       "facebook": "1757713895507003",
       "youtube": "ZimguoTh89U"
-    }
+    },
+    "result": {
+      "facebook": "1757713895507003",
+      "youtube": "ZimguoTh89U",
+      "instagram": "18173317261450157"
+    },
+    "published_at": "2026-09-27T11:30:50.593994+05:30"
   },
   {
     "id": "2026-09-27-P2",
