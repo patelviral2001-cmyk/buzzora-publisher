@@ -2548,11 +2548,17 @@
       "length": "short"
     },
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-28",
-    "status": "queued",
+    "status": "published",
     "staged": {
       "facebook": "2085698932031101",
       "youtube": "xecR3AvFpjw"
-    }
+    },
+    "result": {
+      "facebook": "2085698932031101",
+      "youtube": "xecR3AvFpjw",
+      "instagram": "18111630080018974"
+    },
+    "published_at": "2026-09-28T11:30:53.903804+05:30"
   },
   {
     "id": "2026-09-28-P2",
