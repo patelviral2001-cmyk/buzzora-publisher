@@ -3175,7 +3175,10 @@
       "hook_type": "number"
     },
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-29",
-    "status": "queued"
+    "status": "queued",
+    "staged": {
+      "facebook": "1383947794794733_122112904167475707"
+    }
   },
   {
     "id": "2026-09-29-R6",
