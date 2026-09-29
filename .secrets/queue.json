@@ -2904,10 +2904,15 @@
       "length": "short"
     },
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-29",
-    "status": "queued",
+    "status": "partial",
     "staged": {
       "facebook": "2462991134190390"
-    }
+    },
+    "result": {
+      "facebook": "2462991134190390",
+      "instagram": "18636630031041307"
+    },
+    "error": "youtube: HTTP 400 on https://oauth2.googleapis.com/token\n{\n  \"error\": \"invalid_grant\",\n  \"error_description\": \"Token has been expired or revoked.\"\n}"
   },
   {
     "id": "2026-09-29-C1",
