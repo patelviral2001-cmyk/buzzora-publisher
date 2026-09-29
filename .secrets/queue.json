@@ -3385,7 +3385,10 @@
       "hook_type": "claim"
     },
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-30",
-    "status": "queued"
+    "status": "queued",
+    "staged": {
+      "facebook": "122113241505475707"
+    }
   },
   {
     "id": "2026-09-30-R3",
