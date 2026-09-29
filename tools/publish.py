@@ -269,7 +269,10 @@ def yt_upload(c, item, local_video, publish_at=None):
     if publish_at:
         status = {"privacyStatus": "private", "selfDeclaredMadeForKids": False,
                   "publishAt": publish_at.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")}
-    meta = {"snippet": {"title": item["yt_title"], "description": item["text"],
+    title = item["yt_title"]
+    if len(title) > 100:  # YouTube rejects titles over 100 chars with a bare HTTP 400 (29 Sept R1)
+        title = title[:100].rsplit(" | ", 1)[0].rstrip(" |")[:100]
+    meta = {"snippet": {"title": title, "description": item["text"][:4900],
                         "tags": item.get("tags", []), "categoryId": "24"},
             "status": status}
     size = os.path.getsize(local_video)
