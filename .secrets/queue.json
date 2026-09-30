@@ -3469,11 +3469,17 @@
       "length": "short"
     },
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-30",
-    "status": "queued",
+    "status": "published",
     "staged": {
       "facebook": "2010153029700788",
       "youtube": "DRUs-lDewR0"
-    }
+    },
+    "result": {
+      "facebook": "2010153029700788",
+      "youtube": "DRUs-lDewR0",
+      "instagram": "18066533243786891"
+    },
+    "published_at": "2026-09-30T14:00:46.875346+05:30"
   },
   {
     "id": "2026-09-30-C2",
