@@ -3328,10 +3328,16 @@
       "length": "short"
     },
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-30",
-    "status": "queued",
+    "status": "published",
     "staged": {
       "facebook": "1430271315720676"
-    }
+    },
+    "result": {
+      "facebook": "1430271315720676",
+      "instagram": "17999210430006765",
+      "youtube": "MLmNfSqWRLc"
+    },
+    "published_at": "2026-09-30T09:00:52.389916+05:30"
   },
   {
     "id": "2026-09-30-C1",
