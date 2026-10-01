@@ -3699,5 +3699,347 @@
       "instagram": "17902957170597386"
     },
     "published_at": "2026-09-30T22:00:52.159979+05:30"
+  },
+  {
+    "id": "2026-10-01-P1",
+    "edition": "editions/2026-10-01",
+    "key": "P1",
+    "due_ist": "2026-10-01T08:00:00",
+    "kind": "post",
+    "files": [
+      "pyre.jpg"
+    ],
+    "text": "18 awards abroad. Now, India.\n\nVinod Kapri's Pyre opens in Indian cinemas on Friday, 23 October, through Cinépolis. It follows an elderly couple in a Kumaon Himalayan village, and the children who left for the cities. The leads are first-time actors: Padam Singh Kapri, 80, and Heera Devi, 70. Oscar winner Mychael Danna (Life of Pi) scores it; Gulzar writes the lyrics. It premiered at Tallinn Black Nights, where it won the audience award for best film.\nAdding it to your October list?\n\nSource: The Hollywood Reporter India, Outlook India, Bollywood Hungama\nPhoto: Vinod Kapri, BFPL, CC BY-SA 4.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #Pyre #VinodKapri #IndieFilm #Kumaon #Gulzar #BuzzNow",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-10-01-pyre-india-release",
+      "vertical": "BUZZ NOW",
+      "format": "news",
+      "industry": "indie",
+      "hook_type": "number"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-01",
+    "status": "held"
+  },
+  {
+    "id": "2026-10-01-C1",
+    "edition": "editions/2026-10-01",
+    "key": "C1",
+    "due_ist": "2026-10-01T10:30:00",
+    "kind": "carousel",
+    "files": [
+      "sdburman-01.jpg",
+      "sdburman-02.jpg",
+      "sdburman-03.jpg",
+      "sdburman-04.jpg",
+      "sdburman-05.jpg",
+      "sdburman-06.jpg"
+    ],
+    "text": "He left a royal family. For music.\n\nS. D. Burman was born 120 years ago today, on 1 October 1906, in Comilla, into Tripura's royal family. He scored about 89 Hindi films. Four to start with:\n1957: Pyaasa. Guru Dutt's unpublished poet; Waheeda Rehman as Gulabo.\n1965: Guide. \"Wahan Kaun Hai Tera\" is Burman's own voice.\n1969: Aradhana. \"Mere Sapnon Ki Rani\", and a National Award for his singing on \"Safal Hogi Teri Aradhana\".\n1973: Abhimaan. His second Filmfare for Best Music.\nHis son R. D. Burman took it from there.\nYour S. D. Burman song?\n\nSource: Wikipedia (S. D. Burman, Pyaasa, Guide, Aradhana, Abhimaan)\nPhotos: S. D. Burman, unknown author, public domain · Waheeda Rehman, Bollywood Hungama, CC BY 3.0 · Dev Anand, Bollywood Hungama, CC BY 3.0 · Sharmila Tagore, Bollywood Hungama, CC BY 3.0 · Jaya Bachchan, Bollywood Hungama, CC BY 3.0 · R. D. Burman, Aditijain, public domain · via Wikimedia Commons. There is no licensed photo of Guru Dutt or Kishore Kumar; the cards show the films' stars.\n\n#Buzzora #SDBurman #DeepCut #Guide #Pyaasa #Aradhana #Abhimaan #RDBurman #OldIsGold #Bollywood",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-10-01-sd-burman-120",
+      "vertical": "DEEP CUT",
+      "format": "deep-cut",
+      "industry": "music",
+      "hook_type": "claim"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-01",
+    "status": "held"
+  },
+  {
+    "id": "2026-10-01-R1",
+    "edition": "editions/2026-10-01",
+    "key": "R1",
+    "due_ist": "2026-10-01T13:00:00",
+    "kind": "reel",
+    "files": [
+      "vidya-balki-tamil-post.mp4"
+    ],
+    "text": "R. Balki has only made Hindi films. Until now.\n\nVidya Balan has started shooting a new Tamil film directed by R. Balki, his first in Tamil. She shared the first photo from the set on 29 September: \"New Beginnings. New Tamil Film with R. Balki.\" The title, cast and release date haven't been announced. It's their first film together since Paa (2009), where she played mother to Amitabh Bachchan's Auro.\nBalki in Tamil. Are you in?\n\nSource: The Hollywood Reporter India, Variety India, India TV\nPhotos: Vidya Balan, Bollywood Hungama, CC BY 3.0 · R. Balki, Bollywood Hungama, CC BY 3.0 · Amitabh Bachchan, Studio Harcourt, CC BY 3.0 · via Wikimedia Commons.\n\n#Buzzora #VidyaBalan #RBalki #Paa #TamilCinema #Kollywood #BuzzNow",
+    "yt_title": "Vidya Balan × R. Balki: His First Tamil Film, 17 Years After Paa | Buzzora",
+    "tags": [
+      "Vidya Balan",
+      "R. Balki",
+      "Vidya Balan Tamil film",
+      "R Balki Tamil film",
+      "Paa",
+      "Amitabh Bachchan",
+      "Tamil cinema",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-10-01-vidya-balki-tamil",
+      "vertical": "BUZZ NOW",
+      "format": "news",
+      "industry": "tamil",
+      "hook_type": "claim",
+      "length": "short"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-01",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-01-P2",
+    "edition": "editions/2026-10-01",
+    "key": "P2",
+    "due_ist": "2026-10-01T13:00:00",
+    "kind": "post",
+    "files": [
+      "thevar-magan.jpg"
+    ],
+    "text": "Why have you not seen Thevar Magan?\n\nSivaji Ganesan was born on this day in 1928. Start with the film he made with Kamal Haasan in 1992: a London-educated son comes home with city plans, and his father, the village chief, needs him to stay. Kamal wrote and produced it; Bharathan directed. It won five National Awards and was India's Oscar entry. Sivaji refused the jury's special award.\nWatch it for the father. Stay for the son.\n\nSource: Wikipedia (Thevar Magan, Sivaji Ganesan)\nPhotos: Sivaji Ganesan, Mohan V Raman, CC BY-SA 4.0 · Kamal Haasan, Gage Skidmore, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #SivajiGanesan #ThevarMagan #KamalHaasan #Tamil #Kollywood #DeepCut",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-10-01-thevar-magan",
+      "vertical": "WATCH THIS",
+      "format": "recommendation",
+      "industry": "tamil",
+      "hook_type": "question"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-01",
+    "status": "held"
+  },
+  {
+    "id": "2026-10-01-R3",
+    "edition": "editions/2026-10-01",
+    "key": "R3",
+    "due_ist": "2026-10-01T14:00:00",
+    "kind": "reel",
+    "files": [
+      "king100-villain-post.mp4"
+    ],
+    "text": "Nagarjuna's 100th film has its villain. He usually plays the nice guy.\n\nREPORTED: Tamil star Ashok Selvan (Oh My Kadavule, Por Thozhil) plays the antagonist in King 100, according to a THR India source close to the film. Tabu is also in it: her first film with Nagarjuna since Aavida Maa Aavide (1998). R.A. Karthik writes and directs, Devi Sri Prasad does the music, and Annapurna Studios produces. It opens worldwide on 24 December.\nKing vs the nice guy. Who wins?\n\nSource: The Hollywood Reporter India (exclusive), 123Telugu, Pinkvilla\nPhotos: Nagarjuna Akkineni, Bollywood Hungama, CC BY 3.0 · Ashok Selvan, Karthik sk, CC BY-SA 4.0 · Tabu, Bollywood Hungama, CC BY 3.0 · Ashok Selvan, Dani Charles Silverscreen Media, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #King100 #Nagarjuna #AshokSelvan #Tabu #Tollywood #Telugu #BuzzNow",
+    "yt_title": "King 100: Ashok Selvan Is Nagarjuna's Villain? Tabu Returns | 24 December | Buzzora",
+    "tags": [
+      "King 100",
+      "Nagarjuna 100th film",
+      "Nagarjuna",
+      "Ashok Selvan",
+      "Tabu",
+      "R.A. Karthik",
+      "Telugu cinema",
+      "Tollywood",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-10-01-king100-villain",
+      "vertical": "BUZZ NOW",
+      "format": "news",
+      "industry": "telugu",
+      "hook_type": "claim",
+      "length": "standard"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-01",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-01-R2",
+    "edition": "editions/2026-10-01",
+    "key": "R2",
+    "due_ist": "2026-10-01T15:30:00",
+    "kind": "reel",
+    "files": [
+      "maheshinte-prathikaaram-post.mp4"
+    ],
+    "text": "He lost a fight in the street. So he stopped wearing slippers.\n\nThat's Maheshinte Prathikaaram (2016). Fahadh Faasil's Mahesh, a small-town photographer in Idukki, vows to go barefoot until he gets his revenge. Then the rival moves to Dubai. It won two National Awards, including Best Original Screenplay for Syam Pushkaran.\nWhy now: director Dileesh Pothan's next is Nedumkandam Miracle with Mohanlal. He told THR India the script is in its third draft, aiming for 2027.\nOne fight. No slippers. Seen it yet?\n\nSource: Wikipedia, The Hollywood Reporter India\nPhotos: Fahadh Faasil, Asianet, CC BY 3.0 · Soubin Shahir, Asianet, CC BY 3.0 · Aparna Balamurali, Asianet, CC BY 3.0 · Dileesh Pothan, Asianet, CC BY 3.0 · via Wikimedia Commons.\n\n#Buzzora #MaheshintePrathikaaram #FahadhFaasil #DileeshPothan #Mohanlal #Malayalam #Mollywood #WatchThis",
+    "yt_title": "Why Have You Not Seen Maheshinte Prathikaaram? Fahadh Faasil | Dileesh Pothan | Buzzora",
+    "tags": [
+      "Maheshinte Prathikaaram",
+      "Fahadh Faasil",
+      "Dileesh Pothan",
+      "Nedumkandam Miracle",
+      "Mohanlal",
+      "Aparna Balamurali",
+      "Malayalam movie recommendation",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-10-01-maheshinte-prathikaaram",
+      "vertical": "WATCH THIS",
+      "format": "recommendation",
+      "industry": "malayalam",
+      "hook_type": "claim",
+      "length": "standard"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-01",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-01-C2",
+    "edition": "editions/2026-10-01",
+    "key": "C2",
+    "due_ist": "2026-10-01T15:30:00",
+    "kind": "carousel",
+    "files": [
+      "ramayana-01.jpg",
+      "ramayana-02.jpg",
+      "ramayana-03.jpg",
+      "ramayana-04.jpg",
+      "ramayana-05.jpg",
+      "ramayana-06.jpg"
+    ],
+    "text": "Ramayana finally has its full title.\n\n1. Part 1 is Ramayana: Rise of a Legend, announced on 28 September, Ranbir Kapoor's birthday.\n2. It was filmed for IMAX and releases in 3D, IMAX and premium large formats.\n3. It opens worldwide on 6 November, Diwali weekend, in Hindi and English.\n4. Ranbir Kapoor is Ram, Yash is Raavan, Sai Pallavi is Sita, Sunny Deol is Hanuman.\n5. Hans Zimmer and A. R. Rahman do the music. Nitesh Tiwari directs; Namit Malhotra produces.\nIMAX or regular 3D?\n\nSource: The Hollywood Reporter India, Outlook India, WION, Sacnilk\nPhotos: Ranbir Kapoor, Bollywood Hungama, CC BY 3.0 · Yash, Bollywood Hungama, CC BY 3.0 · Nitesh Tiwari, Bollywood Hungama, CC BY 3.0 · Sai Pallavi, Madhuram Videos, CC BY 3.0 · Sunny Deol, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons.\n\n#Buzzora #Ramayana #RamayanaRiseOfALegend #RanbirKapoor #Yash #SaiPallavi #SunnyDeol #NiteshTiwari #Bollywood",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-10-01-ramayana-title",
+      "vertical": "WHY IS EVERYONE TALKING ABOUT THIS?",
+      "format": "list",
+      "industry": "bollywood",
+      "hook_type": "claim"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-01",
+    "status": "held"
+  },
+  {
+    "id": "2026-10-01-R4",
+    "edition": "editions/2026-10-01",
+    "key": "R4",
+    "due_ist": "2026-10-01T17:00:00",
+    "kind": "reel",
+    "files": [
+      "stevie-key-of-life-post.mp4"
+    ],
+    "text": "Stevie Wonder kept four songs to himself for 50 years.\n\nNow they're out. Songs in the Key of Life 50: The EP has four unreleased recordings from the 1976 sessions, chosen by Wonder himself: \"It's Easier\", \"My Life Story of Love\", \"I Can See the Sun in Late December\" and \"I'm Into Livin'\". They went live at 4:54 a.m. Pacific time on 29 September, which Rolling Stone says is when the original sessions wrapped. The album turned 50 on 28 September, and he's touring all 17 original tracks.\nWhich one are you playing first?\n\nSource: Rolling Stone, Rolling Stone India, The Irish Times, Euronews\nPhotos: Stevie Wonder (1973), Motown Records, public domain · Stevie Wonder, Nan Palmero, CC BY 2.0 · Stevie Wonder, Antonio Cruz/ABr, CC BY 3.0 br · Stevie Wonder, White House Photo Office, public domain · via Wikimedia Commons.\n\n#Buzzora #StevieWonder #SongsInTheKeyOfLife #NewMusic #Motown #ListenUp",
+    "yt_title": "Stevie Wonder's 4 Unheard Songs in the Key of Life Tracks, 50 Years Later | Buzzora",
+    "tags": [
+      "Stevie Wonder",
+      "Songs in the Key of Life",
+      "Songs in the Key of Life 50",
+      "Stevie Wonder new songs",
+      "It's Easier",
+      "I Can See the Sun in Late December",
+      "Motown",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-10-01-stevie-key-of-life-ep",
+      "vertical": "LISTEN UP",
+      "format": "news",
+      "industry": "music",
+      "hook_type": "claim",
+      "length": "standard"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-01",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-01-P3",
+    "edition": "editions/2026-10-01",
+    "key": "P3",
+    "due_ist": "2026-10-01T18:30:00",
+    "kind": "post",
+    "files": [
+      "ten-million.jpg"
+    ],
+    "text": "10 million views. Only two Tamil films.\n\nSuriya's Vishwanath & Sons (Netflix) and Vijay's Jana Nayagan (ZEE5) are the first Tamil films of 2026 to cross 10 million streaming views, according to Ormax Media's StreamView data, reported by Variety India.\nWhich one did you stream?\n\nSource: Variety India (Ormax Media StreamView data)\nPhotos: Suriya, Shiva CK, CC BY-SA 4.0 · Vijay, U.S. Consulate General Chennai, public domain · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #VishwanathAndSons #JanaNayagan #Suriya #Vijay #Netflix #ZEE5 #Tamil #CultureCheck",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-10-01-tamil-10m-views",
+      "vertical": "CULTURE CHECK",
+      "format": "news",
+      "industry": "tamil",
+      "hook_type": "number"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-01",
+    "status": "held"
+  },
+  {
+    "id": "2026-10-01-R5",
+    "edition": "editions/2026-10-01",
+    "key": "R5",
+    "due_ist": "2026-10-01T19:30:00",
+    "kind": "reel",
+    "files": [
+      "room-brie-larson-post.mp4"
+    ],
+    "text": "A five-year-old thinks one room is the whole world.\n\nThat's Room (2015), and Brie Larson turns 37 today. She plays Ma, held captive for seven years; her son Jack has never seen outside. Lenny Abrahamson directs from Emma Donoghue's novel. Larson won the Best Actress Oscar, plus the Golden Globe, BAFTA and SAG. Jacob Tremblay was seven during filming.\nHeavy, but full of hope. Seen it yet?\n\nSource: Wikipedia (Room, Brie Larson)\nPhotos: Brie Larson, Gage Skidmore, CC BY-SA 2.0 · Brie Larson, Ian Smith (derivative: RanZag), CC BY-SA 2.0 · Jacob Tremblay, Gage Skidmore, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #Room #BrieLarson #JacobTremblay #WatchThis #BrainOnCinema #Hollywood",
+    "yt_title": "Why Have You Not Seen Room? Brie Larson's Oscar Film | Brie Larson Turns 37 | Buzzora",
+    "tags": [
+      "Room",
+      "Room 2015",
+      "Brie Larson",
+      "Jacob Tremblay",
+      "Lenny Abrahamson",
+      "Oscar winning movies",
+      "movie recommendation",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-10-01-room-brie-larson",
+      "vertical": "WATCH THIS",
+      "format": "recommendation",
+      "industry": "hollywood",
+      "hook_type": "claim",
+      "length": "short"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-01",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-01-C3",
+    "edition": "editions/2026-10-01",
+    "key": "C3",
+    "due_ist": "2026-10-01T21:00:00",
+    "kind": "carousel",
+    "files": [
+      "julie-01.jpg",
+      "julie-02.jpg",
+      "julie-03.jpg",
+      "julie-04.jpg",
+      "julie-05.jpg",
+      "julie-06.jpg"
+    ],
+    "text": "Hollywood once said no to Julie Andrews.\n\nShe turns 91 today. The role she lost, and four that made up for it:\n1956: My Fair Lady. She created Eliza on Broadway; Jack Warner cast Audrey Hepburn in the film.\n1964: Mary Poppins. Her first film, and a Best Actress Oscar, in the same season My Fair Lady won Best Picture.\n1965: The Sound of Music. Maria, opposite Christopher Plummer.\n2001: The Princess Diaries. Queen Clarisse, in Anne Hathaway's first film.\nNow: Lady Whistledown's voice in Bridgerton, which won her an Emmy at 89.\nPoppins, Maria or Whistledown?\n\nSource: Wikipedia (Julie Andrews, My Fair Lady, Mary Poppins, The Sound of Music, The Princess Diaries)\nPhotos: Julie Andrews (1965), Los Angeles Times, CC BY-SA 4.0 · Julie Andrews and Rex Harrison, Friedman-Abeles, public domain · Dick Van Dyke, unknown author, public domain · Christopher Plummer, MiamiFilmFestival, CC BY-SA 2.0 · Anne Hathaway, Harald Krichel, CC BY-SA 3.0 · Julie Andrews (2013), Eva Rinaldi, CC BY-SA 2.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #JulieAndrews #MaryPoppins #TheSoundOfMusic #PrincessDiaries #Bridgerton #CultureCheck #Hollywood",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-10-01-julie-andrews-91",
+      "vertical": "CULTURE CHECK",
+      "format": "list",
+      "industry": "hollywood",
+      "hook_type": "claim"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-01",
+    "status": "held"
+  },
+  {
+    "id": "2026-10-01-R6",
+    "edition": "editions/2026-10-01",
+    "key": "R6",
+    "due_ist": "2026-10-01T22:00:00",
+    "kind": "reel",
+    "files": [
+      "drishyam-global-post.mp4"
+    ],
+    "text": "One cover-up has fooled audiences in seven languages. It's not done.\n\nDirector Abhishek Pathak told THR India that Drishyam's Korean remake goes into production in about a month, a Spanish version is underway, and a Hollywood version is being written, all with Panorama Studios.\nIt started with Jeethu Joseph's Malayalam film with Mohanlal (2013), the first Malayalam film to make ₹50 crore. Then came Kannada, Telugu, Tamil (Papanasam) and Hindi, plus Sri Lanka's Dharmayuddhaya and China's Sheep Without a Shepherd. Drishyam: The Conclusion opens tomorrow, Friday 2 October.\nWhich version did you see first?\n\nSource: The Hollywood Reporter India (exclusive), Wikipedia (Drishyam)\nPhotos: Mohanlal, Sanu N, CC BY-SA 4.0 · Ajay Devgn, Bollywood Hungama, CC BY 3.0 · Jeethu Joseph, Sicp, CC BY 3.0 · V. Ravichandran, Jhankar Music, CC BY 3.0 · Venkatesh, Bollywood Hungama, CC BY 3.0 · Kamal Haasan, Gage Skidmore, CC BY-SA 3.0 · Joan Chen, ReverendPoppins, CC BY 4.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #Drishyam #DrishyamTheConclusion #Drishyam3 #Mohanlal #AjayDevgn #KamalHaasan #Papanasam #WhyIsEveryoneTalkingAboutThis",
+    "yt_title": "Drishyam Goes Global: Korean, Spanish and Hollywood Remakes | Drishyam 3 Out Tomorrow | Buzzora",
+    "tags": [
+      "Drishyam",
+      "Drishyam remake",
+      "Drishyam Korean remake",
+      "Drishyam Hollywood remake",
+      "Drishyam The Conclusion",
+      "Drishyam 3",
+      "Mohanlal",
+      "Ajay Devgn",
+      "Papanasam",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-10-01-drishyam-global-remakes",
+      "vertical": "WHY IS EVERYONE TALKING ABOUT THIS?",
+      "format": "news",
+      "industry": "malayalam",
+      "hook_type": "claim",
+      "length": "standard"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-01",
+    "status": "queued"
   }
 ]
