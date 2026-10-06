@@ -4533,7 +4533,10 @@
       "audio": "temp"
     },
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-07",
-    "status": "queued"
+    "status": "queued",
+    "staged": {
+      "facebook": "1992380608121051"
+    }
   },
   {
     "id": "2026-10-07-C3",
