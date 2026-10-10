@@ -4429,11 +4429,17 @@
       "audio": "matched"
     },
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-10",
-    "status": "queued",
+    "status": "published",
     "staged": {
       "facebook": "2326865804733912",
       "youtube": "JReGWDv-0KU"
-    }
+    },
+    "result": {
+      "facebook": "2326865804733912",
+      "youtube": "JReGWDv-0KU",
+      "instagram": "18269544625305248"
+    },
+    "published_at": "2026-10-10T11:30:51.056832+05:30"
   },
   {
     "id": "2026-10-10-P2",
