@@ -4901,11 +4901,17 @@
       "audio": "matched"
     },
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-11",
-    "status": "queued",
+    "status": "published",
     "staged": {
       "facebook": "1834908067665535",
       "youtube": "Qar_C4RVE8o"
-    }
+    },
+    "result": {
+      "facebook": "1834908067665535",
+      "youtube": "Qar_C4RVE8o",
+      "instagram": "18107339666362808"
+    },
+    "published_at": "2026-10-11T14:00:46.924415+05:30"
   },
   {
     "id": "2026-10-11-C2",
