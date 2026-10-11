@@ -4791,11 +4791,17 @@
       "audio": "matched"
     },
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-11",
-    "status": "queued",
+    "status": "published",
     "staged": {
       "facebook": "2533372863826928",
       "youtube": "0XICI3-GEgo"
-    }
+    },
+    "result": {
+      "facebook": "2533372863826928",
+      "youtube": "0XICI3-GEgo",
+      "instagram": "18095313725138501"
+    },
+    "published_at": "2026-10-11T19:30:50.449241+05:30"
   },
   {
     "id": "2026-10-11-C3",
