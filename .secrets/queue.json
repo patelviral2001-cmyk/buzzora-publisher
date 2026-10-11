@@ -586,47 +586,6 @@
     "error": "instagram: HTTP 403 on https://graph.facebook.com/v21.0/17841423692689376/media_publish\n{\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think that we've made a mistake.\",\"fbtrace_id\":\"AKlJlZ0oFHViD3EBtQrUAXn\"}}"
   },
   {
-    "id": "2026-09-26-R1",
-    "edition": "editions/2026-09-26",
-    "key": "R1",
-    "due_ist": "2026-09-26T09:00:00",
-    "kind": "reel",
-    "files": [
-      "jailer2-single-post.mp4"
-    ],
-    "text": "Jailer 2, song number two.\n\nOne Sun One Moon is out on 25 September. Anirudh Ravichander composes it and sings it with MS Krsna; Heisenberg and Super Subu wrote the lyrics.\nIn the promo, Nelson asks Anirudh for an \"international-style mass track\". This is the answer.\nIt's Nelson and Anirudh's fifth film together. Jailer 2 opens on 15 October.\nHukum set the bar. Does this clear it?\n\nSource: Pinkvilla, Kumudam, Chennai Vision\nPhotos: Anirudh Ravichander, Surajram Kumaravel, CC BY 3.0 · Rajinikanth, Dani Charles/Silverscreen Media, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #Jailer2 #OneSunOneMoon #Rajinikanth #Anirudh #Nelson #ListenUp #TamilCinema",
-    "yt_title": "Jailer 2 Second Single: One Sun One Moon | Anirudh x Nelson | Buzzora",
-    "tags": [
-      "Jailer 2",
-      "One Sun One Moon",
-      "Rajinikanth",
-      "Anirudh Ravichander",
-      "Nelson Dilipkumar",
-      "MS Krsna",
-      "Tamil songs",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-09-26-jailer2-single",
-      "vertical": "LISTEN UP",
-      "format": "news",
-      "industry": "tamil",
-      "hook_type": "name-first"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-26",
-    "status": "published",
-    "staged": {
-      "facebook": "1390691729934574",
-      "youtube": "hEEPWXe1lWM"
-    },
-    "result": {
-      "facebook": "1390691729934574",
-      "youtube": "hEEPWXe1lWM",
-      "instagram": "18143170759593480"
-    },
-    "published_at": "2026-09-26T09:00:49.058435+05:30"
-  },
-  {
     "id": "2026-09-26-C1",
     "edition": "editions/2026-09-26",
     "key": "C1",
@@ -657,47 +616,6 @@
     "error": "instagram: HTTP 403 on https://graph.facebook.com/v21.0/17841423692689376/media_publish\n{\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think that we've made a mistake.\",\"fbtrace_id\":\"AK51H_RftXPUQJgrboPJSkI\"}}"
   },
   {
-    "id": "2026-09-26-R2",
-    "edition": "editions/2026-09-26",
-    "key": "R2",
-    "due_ist": "2026-09-26T11:30:00",
-    "kind": "reel",
-    "files": [
-      "linda-70-post.mp4"
-    ],
-    "text": "Sarah Connor turns 70.\n\nLinda Hamilton was born on 26 September 1956. In The Terminator (1984) Sarah is the one being hunted. By Terminator 2 (1991) she's the threat.\nShe has said she trained so hard for T2 that she'd cry in the bathroom, then go back. A gunshot scene without earplugs cost her the hearing in one ear.\nThen Dante's Peak, Chuck, Dark Fate (2019) and Stranger Things season 5. Three Golden Globe nominations along the way.\n1984 Sarah or 1991 Sarah?\n\nSource: Wikipedia\nPhotos: Linda Hamilton, Gage Skidmore, CC BY-SA 3.0 · Linda Hamilton, Tabercil, CC BY-SA 2.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #LindaHamilton #SarahConnor #Terminator #T2 #DeepCut #BornToday",
-    "yt_title": "Linda Hamilton Turns 70: How Sarah Connor Changed Action Movies | Buzzora",
-    "tags": [
-      "Linda Hamilton",
-      "Sarah Connor",
-      "Terminator",
-      "Terminator 2",
-      "Dark Fate",
-      "Stranger Things",
-      "birthday",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-09-26-linda-hamilton-70",
-      "vertical": "DEEP CUT",
-      "format": "anniversary",
-      "industry": "hollywood",
-      "hook_type": "name-first"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-26",
-    "status": "published",
-    "staged": {
-      "facebook": "2058950734742831",
-      "youtube": "NMwOge6bowU"
-    },
-    "result": {
-      "facebook": "2058950734742831",
-      "youtube": "NMwOge6bowU",
-      "instagram": "18450151957134255"
-    },
-    "published_at": "2026-09-26T11:31:15.607847+05:30"
-  },
-  {
     "id": "2026-09-26-P2",
     "edition": "editions/2026-09-26",
     "key": "P2",
@@ -722,47 +640,6 @@
       "facebook": "122110844985475707"
     },
     "error": "instagram: HTTP 403 on https://graph.facebook.com/v21.0/17841423692689376/media_publish\n{\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think that we've made a mistake.\",\"fbtrace_id\":\"ADUpd0n4mrqk8f6rousQLbC\"}}"
-  },
-  {
-    "id": "2026-09-26-R3",
-    "edition": "editions/2026-09-26",
-    "key": "R3",
-    "due_ist": "2026-09-26T14:00:00",
-    "kind": "reel",
-    "files": [
-      "comeback-post.mp4"
-    ],
-    "text": "The Valimai villain is directing now.\n\nKartikeya Gummakonda announced his first film as director, Comeback, on his birthday, 21 September. In the glimpse he plays a boxer who has been out of the sport for three years.\nHis wife Lohitha Reddy produces under Kartikeya Creative Works. It's due in 2027, his first film back after a two-year gap.\nRX 100 made him; then he played the villain opposite Nani in Gang Leader and Ajith in Valimai.\nActor-directors: bold or risky?\n\nSource: Pinkvilla, IndiaGlitz, Tupaki\nPhoto: Kartikeya Gummakonda, Film Jalsa, CC BY 3.0, via Wikimedia Commons\n\n#Buzzora #KartikeyaGummakonda #Comeback #TeluguCinema #Valimai #RX100 #BuzzNow",
-    "yt_title": "Kartikeya Gummakonda Turns Director: Comeback | RX 100, Valimai Star's Boxing Film | Buzzora",
-    "tags": [
-      "Kartikeya Gummakonda",
-      "Comeback",
-      "Valimai",
-      "RX 100",
-      "Telugu cinema",
-      "directorial debut",
-      "boxing film",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-09-26-kartikeya-comeback",
-      "vertical": "BUZZ NOW",
-      "format": "news",
-      "industry": "telugu",
-      "hook_type": "claim"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-26",
-    "status": "published",
-    "staged": {
-      "facebook": "1585428469997209",
-      "youtube": "emG4HRH3w54"
-    },
-    "result": {
-      "facebook": "1585428469997209",
-      "youtube": "emG4HRH3w54",
-      "instagram": "17915490999451466"
-    },
-    "published_at": "2026-09-26T14:00:53.511624+05:30"
   },
   {
     "id": "2026-09-26-C2",
@@ -795,47 +672,6 @@
     "error": "instagram: HTTP 403 on https://graph.facebook.com/v21.0/17841423692689376/media_publish\n{\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think that we've made a mistake.\",\"fbtrace_id\":\"AVXmHfnHrwZVb85Z3VoDILI\"}}"
   },
   {
-    "id": "2026-09-26-R4",
-    "edition": "editions/2026-09-26",
-    "key": "R4",
-    "due_ist": "2026-09-26T17:00:00",
-    "kind": "reel",
-    "files": [
-      "guide-post.mp4"
-    ],
-    "text": "Dev Anand was born on 26 September 1923. Why have you not seen Guide?\n\nGuide (1965): Dev Anand as Raju, a tour guide. Waheeda Rehman as Rosie, a wife who walks out to dance. Based on R.K. Narayan's novel, directed by Dev's brother Vijay Anand.\nThe first film to win all four big Filmfare awards: Film, Director, Actor, Actress. S.D. Burman's music, Shailendra's lyrics. India's Oscar entry, with an English version written by Pearl S. Buck. Back at Cannes in 2007.\nCategory: brain-on cinema.\nYour favourite Dev Anand film?\n\nSource: Wikipedia\nPhotos: Dev Anand and Waheeda Rehman, Bollywood Hungama, CC BY 3.0, via Wikimedia Commons\n\n#Buzzora #DevAnand #Guide #WaheedaRehman #SDBurman #WhyHaveYouNotSeenThis #OldIsGold",
-    "yt_title": "Dev Anand's Guide (1965): Why Have You Not Seen It? | Buzzora",
-    "tags": [
-      "Guide",
-      "Dev Anand",
-      "Waheeda Rehman",
-      "Vijay Anand",
-      "SD Burman",
-      "RK Narayan",
-      "classic Hindi films",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-09-26-guide-dev-anand",
-      "vertical": "WATCH THIS",
-      "format": "recommendation",
-      "industry": "bollywood",
-      "hook_type": "question"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-26",
-    "status": "published",
-    "staged": {
-      "facebook": "1961784125208312",
-      "youtube": "gGxV9eTeGQ8"
-    },
-    "result": {
-      "facebook": "1961784125208312",
-      "youtube": "gGxV9eTeGQ8",
-      "instagram": "18170309944405242"
-    },
-    "published_at": "2026-09-26T17:00:50.525509+05:30"
-  },
-  {
     "id": "2026-09-26-P3",
     "edition": "editions/2026-09-26",
     "key": "P3",
@@ -860,48 +696,6 @@
       "facebook": "122110962807475707"
     },
     "error": "instagram: HTTP 403 on https://graph.facebook.com/v21.0/17841423692689376/media_publish\n{\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think that we've made a mistake.\",\"fbtrace_id\":\"ASN8WKK6gdyRNkrTGFstrvL\"}}"
-  },
-  {
-    "id": "2026-09-26-R5",
-    "edition": "editions/2026-09-26",
-    "key": "R5",
-    "due_ist": "2026-09-26T19:30:00",
-    "kind": "reel",
-    "files": [
-      "south-ott-post.mp4"
-    ],
-    "text": "5 South films new on streaming. All out now.\n\n1 Hi (ZEE5): Kavin and Nayanthara's rom-com, also in Telugu, Kannada and Malayalam.\n2 Agadha (ZEE5): Telugu horror. An exorcist goes home to find out why people keep dying there.\n3 Ramba Oorvasi Menaka (Prime Video): Allari Naresh summons three celestial nymphs to become a star.\n4 Angikaaram (Sun NXT): a runner dropped from the Commonwealth Games squad fights to get back on it.\n5 Habeebi (SonyLIV): a weaver, his handloom, and a love story across four decades.\n\nWhich one are you pressing play on?\n\nSource: Pinkvilla, NewsBytes, Esquire India\nPhotos: Kavin, Inandoutcinema, CC BY 3.0 · Kamakshi Bhaskarla, Rudhra Varma, CC BY-SA 2.0 · Allari Naresh, SkyVideos Telugu, CC BY 3.0 · Mansoor Ali Khan, Karungalikuppam Agni siragugal, CC0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #TheWeekendList #OTTReleases #Hi #Agadha #RambaOorvasiMenaka #Angikaaram #Habeebi",
-    "yt_title": "Hi, Agadha & 3 More: 5 New South Films on OTT This Weekend | Buzzora",
-    "tags": [
-      "Hi",
-      "Kavin",
-      "Nayanthara",
-      "Agadha",
-      "Ramba Oorvasi Menaka",
-      "Angikaaram",
-      "Habeebi",
-      "OTT releases",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-09-26-south-ott",
-      "vertical": "5 THINGS",
-      "format": "list",
-      "industry": "ott",
-      "hook_type": "number"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-26",
-    "status": "published",
-    "staged": {
-      "facebook": "2286617302176390",
-      "youtube": "UGDYNWUxXCI"
-    },
-    "result": {
-      "facebook": "2286617302176390",
-      "youtube": "UGDYNWUxXCI",
-      "instagram": "18027758060692186"
-    },
-    "published_at": "2026-09-26T19:30:49.769182+05:30"
   },
   {
     "id": "2026-09-26-C3",
@@ -933,47 +727,6 @@
       "facebook": "1383947794794733_122111056371475707"
     },
     "error": "instagram: HTTP 403 on https://graph.facebook.com/v21.0/17841423692689376/media_publish\n{\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think that we've made a mistake.\",\"fbtrace_id\":\"AA_WhTvsg9GYtG76AakYHnR\"}}"
-  },
-  {
-    "id": "2026-09-26-R6",
-    "edition": "editions/2026-09-26",
-    "key": "R6",
-    "due_ist": "2026-09-26T22:00:00",
-    "kind": "reel",
-    "files": [
-      "abbey-road-post.mp4"
-    ],
-    "text": "10 minutes. 6 frames. 1 zebra crossing.\n\nAbbey Road came out in the UK on 26 September 1969: the last album the Beatles recorded together.\nThe cover was shot on 8 August 1969 by Iain Macmillan from a stepladder, in about ten minutes. McCartney's bare feet fed the \"Paul is dead\" theory. He wasn't. The white Beetle belonged to a neighbour.\nThe crossing got heritage listing in 2010. The album spent 17 weeks at No. 1 in the UK.\nSomething, or Here Comes the Sun?\n\nSource: Wikipedia\nPhotos: Abbey Road crossing, Misterweiss, public domain · Abbey Road, m.caimary, CC BY 2.0 · The Beatles (1964), United Press International, public domain · via Wikimedia Commons\n\n#Buzzora #AbbeyRoad #TheBeatles #OnThisDay #DeepCut #ClassicAlbums #ListenUp",
-    "yt_title": "The Beatles' Abbey Road Came Out 57 Years Ago: 10 Minutes, 6 Frames | Buzzora",
-    "tags": [
-      "Abbey Road",
-      "The Beatles",
-      "Paul McCartney",
-      "Iain Macmillan",
-      "Paul is dead",
-      "Here Comes the Sun",
-      "classic albums",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-09-26-abbey-road",
-      "vertical": "DEEP CUT",
-      "format": "anniversary",
-      "industry": "music",
-      "hook_type": "number"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-26",
-    "status": "published",
-    "staged": {
-      "facebook": "1111021355188863",
-      "youtube": "-empOGeBMuU"
-    },
-    "result": {
-      "facebook": "1111021355188863",
-      "youtube": "-empOGeBMuU",
-      "instagram": "18194663347390149"
-    },
-    "published_at": "2026-09-26T22:01:48.087585+05:30"
   },
   {
     "id": "2026-09-27-P1",
@@ -5108,5 +4861,364 @@
       "facebook": "1827533041592925",
       "youtube": "GNsc3_da9jo"
     }
+  },
+  {
+    "id": "2026-10-12-P1",
+    "edition": "editions/2026-10-12",
+    "key": "P1",
+    "due_ist": "2026-10-12T08:00:00",
+    "kind": "post",
+    "files": [
+      "pdk-netflix.jpg"
+    ],
+    "text": "This time, the cops are hiding something.\n\nPradhama Drishtya Kuttakkar, Shahad Nilambur's Malayalam thriller and an Onam hit in cinemas, has streamed on Netflix since 9 October, in Malayalam with Tamil, Telugu, Kannada and Hindi dubs.\nParvathy Thiruvothu plays Aleena Abraham, a police officer caught up in a cover-up after a death at her station. Mathew Thomas co-stars.\nWeekend sorted?\n\nSource: The Week, Esquire India\nPhoto: Parvathy Thiruvothu (with Irrfan Khan), Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons.\n\n#Buzzora #PradhamaDrishtyaKuttakkar #ParvathyThiruvothu #Malayalam #Netflix #WatchThis",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-10-12-pdk-netflix",
+      "vertical": "WATCH THIS",
+      "format": "recommendation",
+      "industry": "malayalam",
+      "hook_type": "claim"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-12",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-12-R1",
+    "edition": "editions/2026-10-12",
+    "key": "R1",
+    "due_ist": "2026-10-12T09:00:00",
+    "kind": "reel",
+    "files": [
+      "bhool-bhulaiyaa-post.mp4"
+    ],
+    "text": "Bhool Bhulaiyaa turns 19 today. The original is 14 years older.\n\nBhool Bhulaiyaa (Priyadarshan, released 12 October 2007) is a remake of Manichitrathazhu, Fazil's 1993 Malayalam film, written by Madhu Muttam.\nShobana won the National Award for Best Actress for the original, and it won the National Award for Best Popular Film. Mohanlal co-stars. It was the highest-grossing Malayalam film of its time.\nIt was remade four times: Apthamitra (Kannada, 2004), Chandramukhi (Tamil, 2005), Rajmohol (Bengali, 2005) and Bhool Bhulaiyaa, with Vidya Balan in the role Shobana made famous.\nBhool Bhulaiyaa: 19. The original: 32.\n\nSource: Wikipedia (Bhool Bhulaiyaa, Manichitrathazhu, Rajmohol)\nPhotos: Shobana, Augustus Binu, CC BY-SA 3.0 · Vidya Balan, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\nFootage: monsoon rain on a tiled roof in Kerala (Ramesh Kunnappully, CC BY-SA 4.0) and rain in Thiruvananthapuram (Shishirdasika, CC BY-SA 4.0), via Wikimedia Commons. The footage is not from the films.\n\n#Buzzora #BhoolBhulaiyaa #Manichitrathazhu #Shobana #Mohanlal #VidyaBalan #Malayalam #WatchThis",
+    "yt_title": "Bhool Bhulaiyaa Turns 19: Watch Manichitrathazhu, the Original | Shobana, Mohanlal | Buzzora",
+    "tags": [
+      "Bhool Bhulaiyaa",
+      "Bhool Bhulaiyaa 19 years",
+      "Manichitrathazhu",
+      "Shobana",
+      "Mohanlal",
+      "Vidya Balan",
+      "Chandramukhi",
+      "Apthamitra",
+      "Fazil",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-10-12-bhool-bhulaiyaa",
+      "vertical": "WATCH THIS",
+      "format": "recommendation",
+      "industry": "malayalam",
+      "hook_type": "claim",
+      "length": "standard",
+      "visual": "motion",
+      "audio": "temp",
+      "cut": "early"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-12",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-12-C1",
+    "edition": "editions/2026-10-12",
+    "key": "C1",
+    "due_ist": "2026-10-12T10:30:00",
+    "kind": "carousel",
+    "files": [
+      "mc-01.jpg",
+      "mc-02.jpg",
+      "mc-03.jpg",
+      "mc-04.jpg",
+      "mc-05.jpg",
+      "mc-06.jpg"
+    ],
+    "text": "One haunted mansion. Five languages.\n\nBhool Bhulaiyaa turns 19 today. It's one of four remakes of a 1993 Malayalam film.\nManichitrathazhu (Malayalam, 1993): Fazil directs; Shobana wins Best Actress at the National Awards; Mohanlal plays the psychiatrist.\nApthamitra (Kannada, 2004): P. Vasu directs Vishnuvardhan.\nChandramukhi (Tamil, 2005): P. Vasu again, with Rajinikanth; Jyothika takes Shobana's role.\nBhool Bhulaiyaa (Hindi, 12 October 2007): Priyadarshan, with Vidya Balan and Akshay Kumar.\nRajmohol (Bengali, 2005): Swapan Saha, with Prosenjit Chatterjee.\nWhich one did you see first?\n\nSource: Wikipedia (Manichitrathazhu, Apthamitra, Chandramukhi, Bhool Bhulaiyaa, Rajmohol)\nPhotos: Shobana, Augustus Binu, CC BY-SA 3.0 · Mohanlal, SidhardhRamesh, CC BY-SA 3.0 · Vishnuvardhan, Jhankar Music, CC BY 3.0 · Jyothika, Sicp, CC BY 3.0 · Vidya Balan, Bollywood Hungama, CC BY 3.0 · Prosenjit Chatterjee, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #Manichitrathazhu #BhoolBhulaiyaa #Chandramukhi #Apthamitra #Rajmohol #Shobana #DeepCut",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-10-12-manichitrathazhu-remakes",
+      "vertical": "DEEP CUT",
+      "format": "list",
+      "industry": "malayalam",
+      "hook_type": "claim"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-12",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-12-R2",
+    "edition": "editions/2026-10-12",
+    "key": "R2",
+    "due_ist": "2026-10-12T11:30:00",
+    "kind": "reel",
+    "files": [
+      "kaaka-anurag-post.mp4"
+    ],
+    "text": "Chiranjeevi's Sankranti film just signed Bollywood's least mainstream director.\n\nAnurag Kashyap (Gangs of Wasseypur) has joined Kaaka, Bobby Kolli's film with Chiranjeevi, in what the makers call a \"pivotal\" role. They haven't said who he plays. Fans are guessing villain; nothing is confirmed.\nChiranjeevi plays the supervisor of a shrimp farm, a man with a violent past. Anaswara Rajan, Nivetha Pethuraj and Sunil co-star; Thaman S scores; KVN Productions produces.\nKaaka is due on 13 January 2027, for Sankranti. Bobby Kolli made Waltair Veerayya with Chiranjeevi in 2023.\nWasseypur's director. The Megastar's Sankranti.\n\nSource: The Hollywood Reporter India, Outlook\nPhotos: Anurag Kashyap, Sanu N, CC BY-SA 4.0 · Chiranjeevi, Bollywood Hungama, CC BY 3.0 · Anaswara Rajan, OORUTHENDI . com, CC BY 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #Kaaka #Chiranjeevi #AnuragKashyap #BobbyKolli #Telugu #Tollywood #Sankranti2027 #BuzzNow",
+    "yt_title": "Anurag Kashyap Joins Chiranjeevi's Kaaka | Bobby Kolli, Sankranti 2027 | Buzzora",
+    "tags": [
+      "Kaaka",
+      "Chiranjeevi",
+      "Anurag Kashyap",
+      "Kaaka movie",
+      "Bobby Kolli",
+      "Anaswara Rajan",
+      "Sankranti 2027",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-10-12-kaaka-anurag",
+      "vertical": "BUZZ NOW",
+      "format": "news",
+      "industry": "telugu",
+      "hook_type": "claim",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp",
+      "cut": "early"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-12",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-12-P2",
+    "edition": "editions/2026-10-12",
+    "key": "P2",
+    "due_ist": "2026-10-12T13:00:00",
+    "kind": "post",
+    "files": [
+      "baththa-oscars.jpg"
+    ],
+    "text": "Atlee wants Baththa at the Oscars.\n\nBaththa, Vijay Sethupathi and director Balaji Tharaneetharan's third film together (after Naduvula Konjam Pakkatha Kaanom and Seethakaathi), is set in 1980s Madras and opened on 1 October. It made about ₹14 crore net in India in its first week (Sacnilk estimate).\nAtlee, who produced it, said at the success meet that he'd love to take a film like Baththa to the Oscars. That's an ambition: nothing has been submitted.\nSeen it yet?\n\nSource: Outlook, The Week\nPhoto: Vijay Sethupathi, Silverscreen, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #Baththa #VijaySethupathi #Atlee #BalajiTharaneetharan #Tamil #Kollywood #BuzzNow",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-10-12-baththa-oscars",
+      "vertical": "BUZZ NOW",
+      "format": "news",
+      "industry": "tamil",
+      "hook_type": "name-first"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-12",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-12-R3",
+    "edition": "editions/2026-10-12",
+    "key": "R3",
+    "due_ist": "2026-10-12T14:00:00",
+    "kind": "reel",
+    "files": [
+      "dhurandhar-grammy-post.mp4"
+    ],
+    "text": "An Indian film album just entered eight Grammy categories. One of them is rap.\n\nAditya Dhar's B62 Studios submitted the Dhurandhar: The Revenge soundtrack for Grammy consideration on 9 October: nine entries across eight categories.\nThe album goes in for Best Compilation Soundtrack for Visual Media. Arijit Singh's \"Phir Se\" for Best Song Written for Visual Media. \"Destiny – Mann Atkeya\" for Best Rap Performance. \"Vaari Jaavan\" for Dance/Electronic Recording. \"Hum Pyaar Karne Wale\" for Best Remixed Recording. Plus \"Aari Aari\", \"Jaiye Sajana\", \"Jaan Se Guzarte Hain\" and \"Kanhaiyya\".\nShashwat Sachdev composed it. Submitted isn't nominated: Recording Academy voters pick the nominees.\nEight categories. One Indian album. Rap included.\n\nSource: DT Next, NewsBytes, B62 Studios on X\nPhotos: Ranveer Singh, Bollywood Hungama, CC BY 3.0 · Aditya Dhar, Bollywood Hungama, CC BY 3.0 · Arijit Singh, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons.\n\n#Buzzora #DhurandharTheRevenge #Grammys #ShashwatSachdev #ArijitSingh #PhirSe #AdityaDhar #ListenUp",
+    "yt_title": "Dhurandhar: The Revenge Soundtrack Enters 8 Grammy Categories | Phir Se, Arijit Singh | Buzzora",
+    "tags": [
+      "Dhurandhar The Revenge",
+      "Dhurandhar Grammy",
+      "Grammys 2027",
+      "Shashwat Sachdev",
+      "Phir Se",
+      "Arijit Singh",
+      "Dhurandhar songs",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-10-12-dhurandhar-grammy",
+      "vertical": "LISTEN UP",
+      "format": "news",
+      "industry": "music",
+      "hook_type": "number",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp",
+      "cut": "early"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-12",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-12-C2",
+    "edition": "editions/2026-10-12",
+    "key": "C2",
+    "due_ist": "2026-10-12T15:30:00",
+    "kind": "carousel",
+    "files": [
+      "ott-01.jpg",
+      "ott-02.jpg",
+      "ott-03.jpg",
+      "ott-04.jpg",
+      "ott-05.jpg"
+    ],
+    "text": "Your couch, sorted. Streaming between Monday 12 and Friday 16 October.\n\nDisclosure Day (REPORTED for today, 12 October, on JioHotstar, with a Hindi dub): Steven Spielberg's alien cover-up thriller with Emily Blunt and Josh O'Connor. It's been a Prime Video rental since July.\nTenzing (Apple TV, Friday 16 October): the 1953 Everest climb, told from Tenzing Norgay's side. Genden Phuntsok plays him, Tom Hiddleston plays Edmund Hillary, and Jennifer Peedom directs.\nMasterplan (Prime Video, Friday 16 October): Stanley Tucci's thief goes after the Mona Lisa, helped by a hacker and an explosives expert who turn out to be his long-lost kids.\nPick your Friday.\n\nSource: NewsBytes (Disclosure Day, single report), Apple TV press, Wikipedia (Tenzing), Amazon (Masterplan)\nPhotos: Emily Blunt, Kevin Paul, CC BY 4.0 · Steven Spielberg, Gage Skidmore, CC BY-SA 3.0 · Tenzing Norgay, SAS Scandinavian Airlines, public domain · Tom Hiddleston, Gage Skidmore, CC BY-SA 2.0 · Stanley Tucci, Martin Kraft, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #DisclosureDay #Tenzing #TomHiddleston #Masterplan #StanleyTucci #JioHotstar #AppleTV #PrimeVideo #TheDrop",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-10-12-ott-12-16-oct",
+      "vertical": "THE DROP",
+      "format": "list",
+      "industry": "ott",
+      "hook_type": "claim"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-12",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-12-R4",
+    "edition": "editions/2026-10-12",
+    "key": "R4",
+    "due_ist": "2026-10-12T17:00:00",
+    "kind": "reel",
+    "files": [
+      "jailer2-ua16-post.mp4"
+    ],
+    "text": "Jailer 2 is three days away. The censor board just set the terms.\n\nUA 16+: the CBFC certificate, per its website. Not an A. Under-16s can watch with a parent's guidance.\nRuntime: 165 minutes 18 seconds, about 2 hours 45. Nelson Dilipkumar's first Jailer ran about three minutes longer.\nIt opens on Thursday, 15 October, in regular and IMAX screens, reported as Rajinikanth's widest IMAX release yet. S. J. Suryah joins as the villain; Ramya Krishnan returns; Anirudh scores.\nUA 16+. 165 minutes. Thursday.\n\nSource: DT Next, Outlook, UNI, Sacnilk\nPhotos: Rajinikanth, Dani Charles, Silverscreen, CC BY-SA 3.0 · Nelson Dilipkumar, Naveen Thavaneshwar, CC0 · Rajinikanth, Bollywood Hungama, CC BY 3.0 · S. J. Suryah, Selvakumar, CC0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #Jailer2 #Rajinikanth #Nelson #Anirudh #SJSuryah #Tamil #Kollywood #BuzzNow",
+    "yt_title": "Jailer 2 Censor Certificate: UA 16+, 165 Minutes, IMAX Release on 15 October | Rajinikanth | Buzzora",
+    "tags": [
+      "Jailer 2",
+      "Jailer 2 certificate",
+      "Jailer 2 runtime",
+      "Jailer 2 censor",
+      "Jailer 2 IMAX",
+      "Rajinikanth",
+      "Nelson Dilipkumar",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-10-12-jailer2-ua16",
+      "vertical": "BUZZ NOW",
+      "format": "news",
+      "industry": "tamil",
+      "hook_type": "claim",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp",
+      "cut": "late"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-12",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-12-P3",
+    "edition": "editions/2026-10-12",
+    "key": "P3",
+    "due_ist": "2026-10-12T18:30:00",
+    "kind": "post",
+    "files": [
+      "ipop-cover.jpg"
+    ],
+    "text": "Half of India's top 10 songs on Spotify weren't from films.\n\nSpotify's Loud & Clear India report says I-Pop, music made outside films, was half its 2025 year-end Top 10 in India, and Marathi royalties on the platform grew nearly 50 per cent.\nRolling Stone India's new cover puts three of its faces up front: Sanju Rathod (\"Gulabi Sadi\", 100 million YouTube views in three months), Farhan Khan (the Urdu hip-hop album Alif Laila) and Anurag Saikia (the new EP Pardesi).\nWho's on your playlist?\n\nSource: Rolling Stone India\n\n\n#Buzzora #IPop #RollingStoneIndia #SanjuRathod #AnuragSaikia #FarhanKhan #IndieMusic #ListenUp",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-10-12-ipop-cover",
+      "vertical": "LISTEN UP",
+      "format": "news",
+      "industry": "music",
+      "hook_type": "number"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-12",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-12-R5",
+    "edition": "editions/2026-10-12",
+    "key": "R5",
+    "due_ist": "2026-10-12T19:30:00",
+    "kind": "reel",
+    "files": [
+      "indian-1996-post.mp4"
+    ],
+    "text": "Indian 3 is back. The film it has to beat is 30 years old.\n\nIndian (1996, Tamil), directed by S. Shankar: Kamal Haasan plays two parts, Senapathy, an old freedom fighter hunting corrupt officials, and his son. He won Best Actor at the National Awards for it.\nA. R. Rahman scored it. The film won three National Awards, was India's entry for the Oscars that year, and was the highest-grossing Tamil film at the time. Manisha Koirala and Urmila Matondkar co-star. The Hindi dub is Hindustani.\nOn 8 October, Lyca's \"War Mode\" poster said work on Indian 3 has resumed. Shankar's prequel goes back to Senapathy's father, Veerasekaran. No release date yet.\n1996 set the bar. Indian 3 is next.\n\nSource: Wikipedia (Indian), Outlook, DT Next, Deccan Herald\nPhotos: Kamal Haasan, Gage Skidmore, CC BY-SA 3.0 · A. R. Rahman, Bollywood Hungama, CC BY 3.0 · Manisha Koirala, Bollywood Hungama, CC BY 3.0 · S. Shankar, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #Indian #Indian3 #KamalHaasan #Shankar #ARRahman #Tamil #Kollywood #WatchThis",
+    "yt_title": "Watch Indian (1996) Before Indian 3 | Kamal Haasan, Shankar, A. R. Rahman | Buzzora",
+    "tags": [
+      "Indian 3",
+      "Indian 1996",
+      "Indian movie",
+      "Kamal Haasan",
+      "Shankar",
+      "A R Rahman",
+      "Senapathy",
+      "Indian 3 update",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-10-12-indian-1996",
+      "vertical": "WATCH THIS",
+      "format": "recommendation",
+      "industry": "tamil",
+      "hook_type": "claim",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp",
+      "cut": "late"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-12",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-12-C3",
+    "edition": "editions/2026-10-12",
+    "key": "C3",
+    "due_ist": "2026-10-12T21:00:00",
+    "kind": "carousel",
+    "files": [
+      "sel-01.jpg",
+      "sel-02.jpg",
+      "sel-03.jpg",
+      "sel-04.jpg",
+      "sel-05.jpg",
+      "sel-06.jpg"
+    ],
+    "text": "Ehsaan Noorani turns 63 today. Start here.\n\nHe was born on 12 October 1963 in Mumbai, and he's the guitarist in Shankar–Ehsaan–Loy. Five albums to begin with:\nDil Chahta Hai (2001): Farhan Akhtar's first film as director.\nKal Ho Naa Ho (2003): the title song, and a National Award for Best Music Direction.\nTaare Zameen Par (2007): Aamir Khan's first film as director.\nZindagi Na Milegi Dobara (2011): Señorita, Dil Dhadakne Do.\nBhaag Milkha Bhaag (2013): Zinda.\nWhich album is yours?\n\nSource: Wikipedia (Ehsaan Noorani, Shankar–Ehsaan–Loy)\nPhotos: Shankar-Ehsaan-Loy, Bollywood Hungama, CC BY 3.0 · Farhan Akhtar, Satdeep Gill, CC BY-SA 4.0 · Shah Rukh Khan, Bollywood Hungama, CC BY 3.0 · Aamir Khan, Bollywood Hungama, CC BY 3.0 · Hrithik Roshan, Bollywood Hungama, CC BY 3.0 · Ehsaan Noorani, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #EhsaanNoorani #ShankarEhsaanLoy #DilChahtaHai #KalHoNaaHo #TaareZameenPar #ZNMD #ListenUp",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-10-12-sel-start-here",
+      "vertical": "LISTEN UP",
+      "format": "list",
+      "industry": "music",
+      "hook_type": "name-first"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-12",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-12-R6",
+    "edition": "editions/2026-10-12",
+    "key": "R6",
+    "due_ist": "2026-10-12T22:00:00",
+    "kind": "reel",
+    "files": [
+      "diljit-aura-post.mp4"
+    ],
+    "text": "Diljit is bringing Aura home. One stop is the world's biggest cricket stadium.\n\nAhmedabad, 21 November: Narendra Modi Stadium, built for 1.32 lakh cricket fans. Diljit Dosanjh announced the show on stage at Wembley.\nThe India leg of the Aura tour opens in Delhi on 1 November at JLN Stadium, then Indore (15 November), Ahmedabad (21), Mumbai's Mahalaxmi Race Course (27), Bengaluru's NICE Grounds (29) and Lucknow (5 December). Chandigarh is confirmed; its date and venue aren't out yet.\nTickets are on BookMyShow; Live Nation and BookMyShow Live co-produce.\nSeven cities. One cricket stadium. 21 November.\n\nSource: Outlook, ThePrint, Business Today, WION, Wikipedia (Narendra Modi Stadium)\nPhotos: Diljit Dosanjh, Bollywood Hungama, CC BY 3.0 · Narendra Modi Stadium, Ahmedabad, Ishi6181, CC0 · via Wikimedia Commons.\nFootage: a concert crowd in Zenica, 2019 (Obsuser, CC BY-SA 4.0), via Wikimedia Commons. It is not from Diljit Dosanjh's shows.\n\n#Buzzora #DiljitDosanjh #AuraTour #AuraIndiaTour #Ahmedabad #NarendraModiStadium #ListenUp",
+    "yt_title": "Diljit Dosanjh Aura India Tour 2026: 7 Cities, Dates, Narendra Modi Stadium | Buzzora",
+    "tags": [
+      "Diljit Dosanjh",
+      "Diljit Dosanjh Aura tour",
+      "Aura India tour",
+      "Diljit concert",
+      "Diljit Ahmedabad",
+      "Diljit Delhi concert",
+      "Narendra Modi Stadium",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-10-12-diljit-aura",
+      "vertical": "LISTEN UP",
+      "format": "news",
+      "industry": "music",
+      "hook_type": "claim",
+      "length": "standard",
+      "visual": "motion",
+      "audio": "temp",
+      "cut": "early"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-12",
+    "status": "queued"
   }
 ]
