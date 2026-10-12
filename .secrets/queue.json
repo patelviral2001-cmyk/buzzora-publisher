@@ -755,48 +755,6 @@
     "error": "instagram: HTTP 403 on https://graph.facebook.com/v21.0/17841423692689376/media_publish\n{\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think that we've made a mistake.\",\"fbtrace_id\":\"A0Ovi-lfBekw0ctAsFB9HES\"}}"
   },
   {
-    "id": "2026-09-27-R1",
-    "edition": "editions/2026-09-27",
-    "key": "R1",
-    "due_ist": "2026-09-27T09:00:00",
-    "kind": "reel",
-    "files": [
-      "sigma-post.mp4"
-    ],
-    "text": "Vijay's son is a director now. His first film is out on Friday.\n\nJason Sanjay's Sigma opens on 2 October. Sundeep Kishan leads; Faria Abdullah and Sampath Raj co-star; Thaman S scores it. Lyca Productions is behind it. The trailer, out on 18 September, promises gambling, drugs and a heist.\nWould he ever direct his dad? He told Galatta Plus that if he does, he'd want to show Vijay's funny side.\nWould you watch a Vijay comedy directed by his son?\n\nSource: India TV, Glamsham, Gulte, Pinkvilla (Galatta Plus interview)\nPhotos: Vijay, U.S. Consulate General Chennai, public domain · Sundeep Kishan, Bollywood Hungama, CC BY 3.0 · Thaman S, Gowrishanker Siva/Silverscreen Media, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #Sigma #JasonSanjay #Vijay #SundeepKishan #Thaman #BuzzNow #TamilCinema",
-    "yt_title": "Sigma: Vijay's Son Jason Sanjay's Directorial Debut Releases 2 October | Sundeep Kishan | Buzzora",
-    "tags": [
-      "Sigma",
-      "Jason Sanjay",
-      "Vijay",
-      "Thalapathy Vijay",
-      "Sundeep Kishan",
-      "Thaman S",
-      "Lyca Productions",
-      "Tamil cinema",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-09-27-sigma-jason-sanjay",
-      "vertical": "BUZZ NOW",
-      "format": "news",
-      "industry": "tamil",
-      "hook_type": "name-first"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-27",
-    "status": "published",
-    "staged": {
-      "facebook": "1656850132712800",
-      "youtube": "COylHLEWsxU"
-    },
-    "result": {
-      "facebook": "1656850132712800",
-      "youtube": "COylHLEWsxU",
-      "instagram": "18135258601639339"
-    },
-    "published_at": "2026-09-27T09:00:51.169871+05:30"
-  },
-  {
     "id": "2026-09-27-C1",
     "edition": "editions/2026-09-27",
     "key": "C1",
@@ -829,47 +787,6 @@
     "error": "instagram: HTTP 403 on https://graph.facebook.com/v21.0/17841423692689376/media_publish\n{\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think that we've made a mistake.\",\"fbtrace_id\":\"AxlvK-GcQxKrOwESGK9dVLr\"}}"
   },
   {
-    "id": "2026-09-27-R2",
-    "edition": "editions/2026-09-27",
-    "key": "R2",
-    "due_ist": "2026-09-27T11:30:00",
-    "kind": "reel",
-    "files": [
-      "week-recap-post.mp4"
-    ],
-    "text": "Five things you missed this week.\n\n1. Love & War: three first looks in three days (Ranbir, Alia, Vicky). It opens on 21 January 2027.\n2. Jailer 2's second single, \"One Sun One Moon\", is out. The film opens on 15 October.\n3. Nani's The Paradise led the Friday box office despite mixed reviews.\n4. Dhanush's OM: Chapter 1 is off 16 October, so no Jailer 2 clash. There's no new date yet.\n5. India got two International Emmy nominations, including Vir Das's third.\nWhich one did you miss?\n\nSource: Pinkvilla, IANS, Variety India, India TV (Sacnilk figures)\nPhotos: Ranbir Kapoor, Nani, Dhanush and Vir Das: Bollywood Hungama, CC BY 3.0 · Rajinikanth, Dani Charles/Silverscreen Media, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #TheCultureRecap #LoveAndWar #Jailer2 #TheParadise #OMChapter1 #VirDas",
-    "yt_title": "Love & War, Jailer 2, The Paradise: 5 Indian Cinema Stories You Missed This Week | Buzzora",
-    "tags": [
-      "Love and War",
-      "Jailer 2",
-      "The Paradise",
-      "OM Chapter 1",
-      "Vir Das",
-      "International Emmy",
-      "Indian cinema news",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-09-27-week-recap",
-      "vertical": "5 THINGS",
-      "format": "list",
-      "industry": "other",
-      "hook_type": "number"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-27",
-    "status": "published",
-    "staged": {
-      "facebook": "1757713895507003",
-      "youtube": "ZimguoTh89U"
-    },
-    "result": {
-      "facebook": "1757713895507003",
-      "youtube": "ZimguoTh89U",
-      "instagram": "18173317261450157"
-    },
-    "published_at": "2026-09-27T11:30:50.593994+05:30"
-  },
-  {
     "id": "2026-09-27-P2",
     "edition": "editions/2026-09-27",
     "key": "P2",
@@ -894,47 +811,6 @@
       "facebook": "122111633289475707"
     },
     "error": "instagram: HTTP 403 on https://graph.facebook.com/v21.0/17841423692689376/media_publish\n{\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think that we've made a mistake.\",\"fbtrace_id\":\"AHCB4PCmx2K5jpI2OmOJUiy\"}}"
-  },
-  {
-    "id": "2026-09-27-R3",
-    "edition": "editions/2026-09-27",
-    "key": "R3",
-    "due_ist": "2026-09-27T14:00:00",
-    "kind": "reel",
-    "files": [
-      "emraan-himesh-post.mp4"
-    ],
-    "text": "2005: Aashiq Banaya Aapne. 2026: Afsaana Banaaya Aapne.\n\nSame star (Emraan Hashmi), same composer (Himesh Reshammiya), same director (Aditya Datt). The 2005 title track was Himesh's debut as a Bollywood singer.\nThe new one, from Gunmaaster G9, is composed, written and sung by Himesh with Asees Kaur. Emraan and Genelia D'Souza are on screen. The film opens on 27 November. So far the reactions are split.\nDoes the nostalgia still hit?\n\nSource: India TV, Bollywood Hungama, Free Press Journal, Wikipedia\nPhotos: Emraan Hashmi and Genelia D'Souza, Bollywood Hungama, CC BY 3.0 · Himesh Reshammiya, Kaladurga, public domain · via Wikimedia Commons\n\n#Buzzora #EmraanHashmi #HimeshReshammiya #AfsaanaBanaayaAapne #GunmaasterG9 #ListenUp #Bollywood",
-    "yt_title": "Emraan Hashmi x Himesh Reshammiya Again: Afsaana Banaaya Aapne (Gunmaaster G9) | Buzzora",
-    "tags": [
-      "Emraan Hashmi",
-      "Himesh Reshammiya",
-      "Afsaana Banaaya Aapne",
-      "Gunmaaster G9",
-      "Aashiq Banaya Aapne",
-      "Genelia D'Souza",
-      "Bollywood songs",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-09-27-afsaana-banaaya-aapne",
-      "vertical": "LISTEN UP",
-      "format": "news",
-      "industry": "bollywood",
-      "hook_type": "name-first"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-27",
-    "status": "published",
-    "staged": {
-      "facebook": "1638786341097434",
-      "youtube": "2l4_HlYd1vs"
-    },
-    "result": {
-      "facebook": "1638786341097434",
-      "youtube": "2l4_HlYd1vs",
-      "instagram": "18069824885579811"
-    },
-    "published_at": "2026-09-27T14:00:52.045956+05:30"
   },
   {
     "id": "2026-09-27-C2",
@@ -967,47 +843,6 @@
     "error": "instagram: HTTP 403 on https://graph.facebook.com/v21.0/17841423692689376/media_publish\n{\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think that we've made a mistake.\",\"fbtrace_id\":\"AxuN9txSDriJPvfxbiPEXhW\"}}"
   },
   {
-    "id": "2026-09-27-R4",
-    "edition": "editions/2026-09-27",
-    "key": "R4",
-    "due_ist": "2026-09-27T17:00:00",
-    "kind": "reel",
-    "files": [
-      "mullum-malarum-post.mp4"
-    ],
-    "text": "Why have you not seen Mullum Malarum?\n\nThis week Karthik Subbaraj told THR India that a straight remake of Rajinikanth's 1978 film \"would be a Cannes winner or something like that.\"\nIt was J. Mahendran's first film as director. Rajinikanth plays Kali, a short-tempered man devoted to his younger sister, and he counts it among his five favourite films. Ilaiyaraaja did the music and Balu Mahendra shot it. It won Filmfare's Best Tamil Film, and K. Balachander praised its silences.\nYour favourite early Rajini film?\n\nSource: THR India (Anupama Chopra interview), Wikipedia\nPhotos: Rajinikanth, Dani Charles/Silverscreen Media, CC BY-SA 3.0 · Karthik Subbaraj and J. Mahendran, Silverscreen Media, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #MullumMalarum #Rajinikanth #KarthikSubbaraj #Mahendran #WatchThis #TamilCinema",
-    "yt_title": "Rajinikanth's Mullum Malarum: Why Karthik Subbaraj Says It Could Win Cannes | Buzzora",
-    "tags": [
-      "Mullum Malarum",
-      "Rajinikanth",
-      "Karthik Subbaraj",
-      "J Mahendran",
-      "Ilaiyaraaja",
-      "Balu Mahendra",
-      "Tamil classics",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-09-27-mullum-malarum",
-      "vertical": "WATCH THIS",
-      "format": "recommendation",
-      "industry": "tamil",
-      "hook_type": "question"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-27",
-    "status": "published",
-    "staged": {
-      "facebook": "28631336863186338",
-      "youtube": "0PTO_dgBlSs"
-    },
-    "result": {
-      "facebook": "28631336863186338",
-      "youtube": "0PTO_dgBlSs",
-      "instagram": "18086995592496285"
-    },
-    "published_at": "2026-09-27T17:00:56.443233+05:30"
-  },
-  {
     "id": "2026-09-27-P3",
     "edition": "editions/2026-09-27",
     "key": "P3",
@@ -1032,48 +867,6 @@
       "facebook": "122111655753475707"
     },
     "error": "instagram: HTTP 403 on https://graph.facebook.com/v21.0/17841423692689376/media_publish\n{\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think that we've made a mistake.\",\"fbtrace_id\":\"AdmS1hjgf8-T-PTKAhk1jeN\"}}"
-  },
-  {
-    "id": "2026-09-27-R5",
-    "edition": "editions/2026-09-27",
-    "key": "R5",
-    "due_ist": "2026-09-27T19:30:00",
-    "kind": "reel",
-    "files": [
-      "vmas-2026-post.mp4"
-    ],
-    "text": "The VMAs: five things to know before you wake up.\n\nThe show is on 27 September in Los Angeles, which is 5 AM on Monday in India.\n1. Madonna opens it, her first VMA performance in 23 years. She's also the most-nominated artist, with 13.\n2. Snoop Dogg hosts at the Peacock Theater, live on CBS and MTV and streaming on Paramount+.\n3. Taylor Swift premieres the \"Patient Zero\" video and gets the first-ever Artist Director Honors.\n4. Nirvana get the Michael Jackson Video Vanguard Award.\n5. Lisa performs.\nWho are you watching for?\n\nSource: Wikipedia, Today, Yahoo Entertainment, LatestLY\nPhotos: Madonna, chrisweger, CC BY-SA 2.0 · Snoop Dogg, Glenn Francis, CC BY-SA 4.0 · Taylor Swift, iHeartRadioCA, CC BY 3.0 · Kurt Cobain, U.S. Embassy Bern, public domain · Lisa, The Ghost Orchid, CC BY-SA 4.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #VMAs #Madonna #TaylorSwift #SnoopDogg #Nirvana #Lisa #BuzzNow",
-    "yt_title": "VMAs 2026: Madonna Opens, Taylor Swift's Patient Zero Video, Nirvana, Lisa | 5 Things | Buzzora",
-    "tags": [
-      "VMAs 2026",
-      "MTV VMAs",
-      "Madonna",
-      "Taylor Swift",
-      "Snoop Dogg",
-      "Nirvana",
-      "Lisa",
-      "Patient Zero",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-09-27-vmas-2026",
-      "vertical": "BUZZ NOW",
-      "format": "list",
-      "industry": "music",
-      "hook_type": "number"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-27",
-    "status": "published",
-    "staged": {
-      "facebook": "1776638549921870",
-      "youtube": "0WP7zsMazyE"
-    },
-    "result": {
-      "facebook": "1776638549921870",
-      "youtube": "0WP7zsMazyE",
-      "instagram": "18158797816516259"
-    },
-    "published_at": "2026-09-27T19:31:02.314455+05:30"
   },
   {
     "id": "2026-09-27-C3",
@@ -1104,47 +897,6 @@
       "facebook": "1383947794794733_122111731389475707"
     },
     "error": "instagram: HTTP 403 on https://graph.facebook.com/v21.0/17841423692689376/media_publish\n{\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think that we've made a mistake.\",\"fbtrace_id\":\"A_toe5oq98-xMbCNN_aUz73\"}}"
-  },
-  {
-    "id": "2026-09-27-R6",
-    "edition": "editions/2026-09-27",
-    "key": "R6",
-    "due_ist": "2026-09-27T22:00:00",
-    "kind": "reel",
-    "files": [
-      "jenna-24-post.mp4"
-    ],
-    "text": "Jenna Ortega is 24. Only 24.\n\nBorn 27 September 2002, she's been acting since she was nine: young Jane in Jane the Virgin, a Disney Channel lead, then Ellie in You.\n2022 was the year of Scream, X and then Wednesday, which drew over a billion viewing hours in its first month and got her Golden Globe, Emmy and SAG nominations. By season two she's a producer too.\nBeetlejuice Beetlejuice made $451 million worldwide in 2024.\nWednesday or Scream?\n\nSource: Wikipedia\nPhotos: Jenna Ortega: Harald Krichel, CC BY-SA 4.0 · ATTN:, CC BY 3.0 · StayTunedNBC, CC BY 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #JennaOrtega #Wednesday #Scream #BeetlejuiceBeetlejuice #BornToday",
-    "yt_title": "Jenna Ortega Turns 24: From Jane the Virgin to Wednesday | Buzzora",
-    "tags": [
-      "Jenna Ortega",
-      "Wednesday",
-      "Scream",
-      "X",
-      "Beetlejuice Beetlejuice",
-      "Jane the Virgin",
-      "birthday",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-09-27-jenna-ortega-24",
-      "vertical": "BUZZ NOW",
-      "format": "anniversary",
-      "industry": "hollywood",
-      "hook_type": "name-first"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-27",
-    "status": "published",
-    "staged": {
-      "facebook": "2181552639057658",
-      "youtube": "QrlO9now1gI"
-    },
-    "result": {
-      "facebook": "2181552639057658",
-      "youtube": "QrlO9now1gI",
-      "instagram": "18216444382346894"
-    },
-    "published_at": "2026-09-27T22:00:45.139266+05:30"
   },
   {
     "id": "2026-09-28-P1",
