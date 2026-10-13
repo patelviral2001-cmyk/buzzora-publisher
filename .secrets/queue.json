@@ -925,51 +925,6 @@
     "error": "instagram: HTTP 403 on https://graph.facebook.com/v21.0/17841423692689376/media_publish\n{\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think that we've made a mistake.\",\"fbtrace_id\":\"AwW0s1XQzEy6NmS5H5_WGpT\"}}"
   },
   {
-    "id": "2026-09-28-R1",
-    "edition": "editions/2026-09-28",
-    "key": "R1",
-    "due_ist": "2026-09-28T09:00:00",
-    "kind": "reel",
-    "files": [
-      "parking-sk27-post.mp4"
-    ],
-    "text": "Sivakarthikeyan's next director made a film about one parking spot.\n\nParking (2023): two tenants, one car space, and neither backs down. Ramkumar Balakrishnan's debut was made for ₹6 crore and won three National Awards, including Best Tamil Film and Best Supporting Actor for M.S. Bhaskar.\nOn 25 September he started shooting SK27 with Sivakarthikeyan and Kayadu Lohar.\nParking is on JioHotstar. Remakes were announced in Telugu, Malayalam, Hindi and Kannada.\nSeen it?\n\nSource: Wikipedia; DT Next, NewsToday (SK27)\nPhotos: Sivakarthikeyan, Dani Charles/Silverscreen Media, CC BY-SA 3.0 · M.S. Bhaskar, Sriram Narasimhan/Silverscreen Media, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #Parking #SK27 #Sivakarthikeyan #MSBhaskar #HarishKalyan #TamilCinema #WatchThis",
-    "yt_title": "Watch Parking Before SK27 | Sivakarthikeyan x Ramkumar Balakrishnan | Tamil Hidden Gem | Buzzora",
-    "tags": [
-      "Parking",
-      "Parking movie",
-      "SK27",
-      "Sivakarthikeyan",
-      "Ramkumar Balakrishnan",
-      "Harish Kalyan",
-      "M.S. Bhaskar",
-      "Kayadu Lohar",
-      "Tamil cinema",
-      "National Film Awards",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-09-28-parking-sk27",
-      "vertical": "WATCH THIS",
-      "format": "recommendation",
-      "industry": "tamil",
-      "hook_type": "name-first",
-      "length": "standard"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-28",
-    "status": "published",
-    "staged": {
-      "facebook": "2145628396058051",
-      "youtube": "FtKUt6mm8TU"
-    },
-    "result": {
-      "facebook": "2145628396058051",
-      "youtube": "FtKUt6mm8TU",
-      "instagram": "17912781672281910"
-    },
-    "published_at": "2026-09-28T09:00:49.816535+05:30"
-  },
-  {
     "id": "2026-09-28-C1",
     "edition": "editions/2026-09-28",
     "key": "C1",
@@ -1001,49 +956,6 @@
     "error": "instagram: HTTP 403 on https://graph.facebook.com/v21.0/17841423692689376/media_publish\n{\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think that we've made a mistake.\",\"fbtrace_id\":\"AM7qkPykx40Qg0J0XCubZTj\"}}"
   },
   {
-    "id": "2026-09-28-R2",
-    "edition": "editions/2026-09-28",
-    "key": "R2",
-    "due_ist": "2026-09-28T11:30:00",
-    "kind": "reel",
-    "files": [
-      "d56-vadivelu-post.mp4"
-    ],
-    "text": "Dhanush has never made a film with Vadivelu. Until now.\n\nD56 started shooting in Madurai on 25 September. Tamizharasan Pachamuthu (Lubber Pandhu) directs, SJ Suryah is in it too, and Sai Abhyankkar does the music. It's aimed at summer 2027.\nWho gets the bigger laughs?\n\nSource: DT Next, Sacnilk\nPhotos: Dhanush, Bollywood Hungama, CC BY 3.0 · Vadivelu, Sriram Narasimhan/Silverscreen Media, CC BY-SA 3.0 · SJ Suryah, Silverscreen Media, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #D56 #Dhanush #Vadivelu #SJSuryah #TamilCinema #BuzzNow",
-    "yt_title": "D56: Dhanush and Vadivelu Together for the First Time | SJ Suryah | Lubber Pandhu Director | Buzzora",
-    "tags": [
-      "D56",
-      "Dhanush",
-      "Vadivelu",
-      "SJ Suryah",
-      "Tamizharasan Pachamuthu",
-      "Lubber Pandhu",
-      "Sai Abhyankkar",
-      "Tamil cinema",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-09-28-d56-dhanush-vadivelu",
-      "vertical": "BUZZ NOW",
-      "format": "news",
-      "industry": "tamil",
-      "hook_type": "name-first",
-      "length": "short"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-28",
-    "status": "published",
-    "staged": {
-      "facebook": "2085698932031101",
-      "youtube": "xecR3AvFpjw"
-    },
-    "result": {
-      "facebook": "2085698932031101",
-      "youtube": "xecR3AvFpjw",
-      "instagram": "18111630080018974"
-    },
-    "published_at": "2026-09-28T11:30:53.903804+05:30"
-  },
-  {
     "id": "2026-09-28-P2",
     "edition": "editions/2026-09-28",
     "key": "P2",
@@ -1068,49 +980,6 @@
       "facebook": "122112137433475707"
     },
     "error": "instagram: HTTP 403 on https://graph.facebook.com/v21.0/17841423692689376/media_publish\n{\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think that we've made a mistake.\",\"fbtrace_id\":\"AzxWdn7AaoYN9LODd6ttLKZ\"}}"
-  },
-  {
-    "id": "2026-09-28-R3",
-    "edition": "editions/2026-09-28",
-    "key": "R3",
-    "due_ist": "2026-09-28T14:00:00",
-    "kind": "reel",
-    "files": [
-      "kaaka-sankranti-post.mp4"
-    ],
-    "text": "Chiranjeevi made a promise about Sankranti. Two words.\n\n\"Sankranti manade\" (Sankranti is ours), he said about Kaaka, his second film with director Bobby Kolli after Waltair Veerayya. He said the first half is shot, and about 30% of the second. Thaman has started the background score.\nCan he keep it?\n\nSource: Great Andhra, Gulte (speech at the Sigma pre-release event)\nPhotos: Chiranjeevi, Bollywood Hungama, CC BY 3.0 · Thaman S, Gowrishanker Siva/Silverscreen Media, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #Kaaka #Chiranjeevi #BobbyKolli #Thaman #Sankranti2027 #TeluguCinema #BuzzNow",
-    "yt_title": "Kaaka: Chiranjeevi Promises Sankranti 2027 | Bobby Kolli | Thaman | Buzzora",
-    "tags": [
-      "Kaaka",
-      "Chiranjeevi",
-      "Megastar Chiranjeevi",
-      "Bobby Kolli",
-      "Thaman",
-      "Sankranti 2027",
-      "Telugu cinema",
-      "Waltair Veerayya",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-09-28-kaaka-sankranti",
-      "vertical": "BUZZ NOW",
-      "format": "news",
-      "industry": "telugu",
-      "hook_type": "name-first",
-      "length": "standard"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-28",
-    "status": "published",
-    "staged": {
-      "facebook": "1384638600510318",
-      "youtube": "UHiWtZQJRyM"
-    },
-    "result": {
-      "facebook": "1384638600510318",
-      "youtube": "UHiWtZQJRyM",
-      "instagram": "18116687722785103"
-    },
-    "published_at": "2026-09-28T14:00:52.545801+05:30"
   },
   {
     "id": "2026-09-28-C2",
@@ -1145,51 +1014,6 @@
     "error": "instagram: HTTP 403 on https://graph.facebook.com/v21.0/17841423692689376/media_publish\n{\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think that we've made a mistake.\",\"fbtrace_id\":\"AVd0wcdJBn-jFeJZXwm4r_9\"}}"
   },
   {
-    "id": "2026-09-28-R4",
-    "edition": "editions/2026-09-28",
-    "key": "R4",
-    "due_ist": "2026-09-28T17:00:00",
-    "kind": "reel",
-    "files": [
-      "ranbir-start-post.mp4"
-    ],
-    "text": "Before Rama, watch the three that made him.\n\nRanbir Kapoor turns 44 today.\nRockstar (2011): Imtiaz Ali's heartbreak musical. Filmfare Best Actor and the Critics award.\nBarfi! (2012): a deaf-and-mute hero, for Anurag Basu. India's Oscar entry.\nWake Up Sid (2009): Ayan Mukerji's debut. The comfort watch.\nNitesh Tiwari's Ramayana: Part 1 is out on 6 November.\nRockstar, Barfi! or Sid?\n\nSource: Wikipedia, Variety\nPhotos: Ranbir Kapoor, Imtiaz Ali, Anurag Basu, Ayan Mukerji, all Bollywood Hungama, CC BY 3.0, via Wikimedia Commons.\n\n#Buzzora #RanbirKapoor #Rockstar #Barfi #WakeUpSid #Ramayana #WatchThis #HappyBirthdayRanbirKapoor",
-    "yt_title": "Ranbir Kapoor Turns 44: Watch These 3 Before Ramayana | Rockstar, Barfi!, Wake Up Sid | Buzzora",
-    "tags": [
-      "Ranbir Kapoor",
-      "Ranbir Kapoor birthday",
-      "Ramayana",
-      "Rockstar",
-      "Barfi",
-      "Wake Up Sid",
-      "Imtiaz Ali",
-      "Anurag Basu",
-      "Ayan Mukerji",
-      "Bollywood",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-09-28-ranbir-where-to-start",
-      "vertical": "WATCH THIS",
-      "format": "recommendation",
-      "industry": "bollywood",
-      "hook_type": "claim",
-      "length": "standard"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-28",
-    "status": "published",
-    "staged": {
-      "facebook": "1086299877726819",
-      "youtube": "J9lM4suo1_Y"
-    },
-    "result": {
-      "facebook": "1086299877726819",
-      "youtube": "J9lM4suo1_Y",
-      "instagram": "18102238415570379"
-    },
-    "published_at": "2026-09-28T17:01:19.999826+05:30"
-  },
-  {
     "id": "2026-09-28-P3",
     "edition": "editions/2026-09-28",
     "key": "P3",
@@ -1214,48 +1038,6 @@
       "facebook": "122112257625475707"
     },
     "error": "instagram: HTTP 403 on https://graph.facebook.com/v21.0/17841423692689376/media_publish\n{\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think that we've made a mistake.\",\"fbtrace_id\":\"AMjnQKif79R67K0-wLbc6ok\"}}"
-  },
-  {
-    "id": "2026-09-28-R5",
-    "edition": "editions/2026-09-28",
-    "key": "R5",
-    "due_ist": "2026-09-28T19:30:00",
-    "kind": "reel",
-    "files": [
-      "endgame-encore-post.mp4"
-    ],
-    "text": "A seven-year-old Marvel film just set an Indian record.\n\nAvengers: Endgame Encore opened with ₹7.25 crore net on day one (25 September) on 3,600+ screens: the biggest opening for a Hollywood re-release in India. Among all re-releases, only Baahubali: The Epic (₹10.8 crore) did better. The new cut adds about four minutes and an Avengers: Doomsday tease after the credits.\nWould you pay to see it again?\n\nSource: Koimoi, Pinkvilla, India TV (Sacnilk figures)\nPhotos: Robert Downey Jr., David Torcivia, CC BY-SA 3.0 · Scarlett Johansson, Elen Nivrae (retouched by Light show), CC BY 2.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #AvengersEndgame #EndgameEncore #Marvel #AvengersDoomsday #BoxOffice",
-    "yt_title": "Avengers: Endgame Encore Sets an India Record | Biggest Hollywood Re-Release Opening | Buzzora",
-    "tags": [
-      "Avengers Endgame",
-      "Endgame Encore",
-      "Avengers Doomsday",
-      "Marvel",
-      "box office India",
-      "re-release",
-      "Baahubali The Epic",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-09-28-endgame-encore-record",
-      "vertical": "WHY IS EVERYONE TALKING ABOUT THIS?",
-      "format": "news",
-      "industry": "hollywood",
-      "hook_type": "claim",
-      "length": "standard"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-28",
-    "status": "published",
-    "staged": {
-      "facebook": "1995983737784576",
-      "youtube": "c9OC--9TY3s"
-    },
-    "result": {
-      "facebook": "1995983737784576",
-      "youtube": "c9OC--9TY3s",
-      "instagram": "18108674066606333"
-    },
-    "published_at": "2026-09-28T19:30:49.438807+05:30"
   },
   {
     "id": "2026-09-28-C3",
@@ -1288,47 +1070,6 @@
       "facebook": "1383947794794733_122112320565475707"
     },
     "error": "instagram: HTTP 403 on https://graph.facebook.com/v21.0/17841423692689376/media_publish\n{\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think that we've made a mistake.\",\"fbtrace_id\":\"ALHa74FS7l_GZfnnhVHgxrb\"}}"
-  },
-  {
-    "id": "2026-09-28-R6",
-    "edition": "editions/2026-09-28",
-    "key": "R6",
-    "due_ist": "2026-09-28T22:00:00",
-    "kind": "reel",
-    "files": [
-      "kannur-squad-post.mp4"
-    ],
-    "text": "Three years ago today, Mammootty took a demotion.\n\nKannur Squad came out on 28 September 2023. He plays ASI George Martin, his first role below Sub-Inspector in over a decade. It's based on the real Kannur Squad, set up by SP S. Sreejith, and the chase was shot across five states. Roby Varghese Raj's debut.\nIt's on JioHotstar. Why haven't you seen it?\n\nSource: Wikipedia\nPhoto: Mammootty, Anees Kodiyathur, CC BY 3.0, via Wikimedia Commons.\n\n#Buzzora #KannurSquad #Mammootty #MalayalamCinema #WatchThis",
-    "yt_title": "Why Have You Not Seen Kannur Squad? Mammootty's Real-Life Cop Thriller | Buzzora",
-    "tags": [
-      "Kannur Squad",
-      "Mammootty",
-      "Roby Varghese Raj",
-      "Malayalam cinema",
-      "Malayalam thriller",
-      "JioHotstar",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-09-28-kannur-squad",
-      "vertical": "WATCH THIS",
-      "format": "recommendation",
-      "industry": "malayalam",
-      "hook_type": "number",
-      "length": "short"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-28",
-    "status": "published",
-    "staged": {
-      "facebook": "1538118821331739",
-      "youtube": "_O3EF8X-gXE"
-    },
-    "result": {
-      "facebook": "1538118821331739",
-      "youtube": "_O3EF8X-gXE",
-      "instagram": "18126592399836238"
-    },
-    "published_at": "2026-09-28T22:00:51.353247+05:30"
   },
   {
     "id": "2026-09-29-P1",
@@ -5443,5 +5184,366 @@
       "facebook": "1113636181216351",
       "youtube": "uRWyepcxv8g"
     }
+  },
+  {
+    "id": "2026-10-14-P1",
+    "edition": "editions/2026-10-14",
+    "key": "P1",
+    "due_ist": "2026-10-14T08:00:00",
+    "kind": "post",
+    "files": [
+      "koffee-9.jpg"
+    ],
+    "text": "Koffee With Karan 9 starts today.\n\nThe ninth and final season of Karan Johar's chat show premieres on JioHotstar on 14 October, and Salman Khan is the first guest: he announces it himself in the promo.\nHe opened Season 4 in 2013, and came back with Arbaaz and Sohail Khan for the 100th episode in Season 5. The couch has been around since 2004.\nWho should close the show?\n\nSource: JioHotstar promo, Variety India, Pinkvilla, India TV\nPhoto: Salman Khan, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons.\n\n#Buzzora #KoffeeWithKaran #KoffeeWithKaran9 #SalmanKhan #KaranJohar #JioHotstar #BuzzNow",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-10-14-koffee-salman",
+      "vertical": "BUZZ NOW",
+      "format": "news",
+      "industry": "bollywood",
+      "hook_type": "name-first"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-14",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-14-R1",
+    "edition": "editions/2026-10-14",
+    "key": "R1",
+    "due_ist": "2026-10-14T09:00:00",
+    "kind": "reel",
+    "files": [
+      "koffee-salman-post.mp4"
+    ],
+    "text": "Koffee With Karan 9 starts today. Guess who Karan picked first.\n\nSalman Khan. He is the first guest of the ninth and final season, streaming on JioHotstar from 14 October, and he announces his own return in the promo.\nHe opened Season 4 too, on 1 December 2013, his first time on the couch. His father, Salim Khan, joined partway through.\nIn Season 5 he came back with his brothers Arbaaz and Sohail Khan for the 100th episode.\nThe show began on Star World in November 2004. Karan Johar says Season 9 is the last.\nSeason 4 opened with Salman. So does the last.\n\nSource: JioHotstar promo, Variety India, Pinkvilla, India TV, Wikipedia (Koffee with Karan)\nPhotos: Salman Khan, Bollywood Hungama, CC BY 3.0 · Karan Johar, Bollywood Hungama, CC BY 3.0 · Karan Johar, Kacy Bao, CC BY-SA 4.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #KoffeeWithKaran9 #KoffeeWithKaran #SalmanKhan #KaranJohar #JioHotstar #Bollywood #BuzzNow",
+    "yt_title": "Koffee With Karan 9: Salman Khan Opens the Final Season | JioHotstar, 14 October | Buzzora",
+    "tags": [
+      "Koffee With Karan 9",
+      "Koffee With Karan Season 9",
+      "Salman Khan",
+      "Karan Johar",
+      "Koffee With Karan Salman Khan",
+      "JioHotstar",
+      "Koffee With Karan final season",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-10-14-koffee-salman",
+      "vertical": "BUZZ NOW",
+      "format": "news",
+      "industry": "bollywood",
+      "hook_type": "question",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp",
+      "cut": "early"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-14",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-14-C1",
+    "edition": "editions/2026-10-14",
+    "key": "C1",
+    "due_ist": "2026-10-14T10:30:00",
+    "kind": "carousel",
+    "files": [
+      "born-01.jpg",
+      "born-02.jpg",
+      "born-03.jpg",
+      "born-04.jpg",
+      "born-05.jpg",
+      "born-06.jpg",
+      "born-07.jpg"
+    ],
+    "text": "Born in India. Famous in Britain.\n\nCliff Richard turns 86 today. He was born in Lucknow, and he isn't the only one.\nCliff Richard (Lucknow, 1940): the only singer with a UK No. 1 single in each of five consecutive decades.\nEngelbert Humperdinck (Madras, 1936): in 1967 his \"Release Me\" kept the Beatles' \"Strawberry Fields Forever\" / \"Penny Lane\" off No. 1 in the UK.\nPete Best (Madras, 1941): the Beatles' drummer from 1960 to 1962, until Ringo Starr replaced him.\nVivien Leigh (Darjeeling, 1913): two Best Actress Oscars, for Gone with the Wind and A Streetcar Named Desire.\nJulie Christie (Chabua, Assam, 1940): Best Actress Oscar for Darling (1965), the same year as Doctor Zhivago.\nWhich one surprised you?\n\nSource: Wikipedia (Cliff Richard, Engelbert Humperdinck, Pete Best, Vivien Leigh, Julie Christie)\nPhotos: Rumi Darwaza and Asafi Imambara, Lucknow, Mohammad Anees Qamar, CC0 · Cliff Richard, Allan Warren, derivative by Jan Arkesteijn, CC BY-SA 3.0 · Engelbert Humperdinck, Rockinred1969, CC BY 3.0 · Pete Best, Urbankayaker at English Wikipedia, public domain · Vivien Leigh, trailer screenshot, derivative by Wilfredor, public domain · Julie Christie, news service, public domain · Cliff Richard in concert, 2017, Raph_PH, CC BY 2.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #CliffRichard #Lucknow #EngelbertHumperdinck #PeteBest #VivienLeigh #JulieChristie #DeepCut",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-10-14-born-in-india",
+      "vertical": "DEEP CUT",
+      "format": "list",
+      "industry": "music",
+      "hook_type": "claim"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-14",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-14-R2",
+    "edition": "editions/2026-10-14",
+    "key": "R2",
+    "due_ist": "2026-10-14T11:30:00",
+    "kind": "reel",
+    "files": [
+      "cliff-richard-post.mp4"
+    ],
+    "text": "One of Britain's biggest pop stars was born in Lucknow.\n\nCliff Richard was born Harry Rodger Webb at King George's Hospital, Lucknow, on 14 October 1940. He turns 86 today. His family sailed to England in 1948.\nHe is the only singer with a UK No. 1 single in each of five consecutive decades.\nHis first hit, \"Move It\" (1958), reached No. 2. Then came 14 UK No. 1s and 67 UK Top 10 singles, second only to Elvis.\nHe had sold more than 250 million records by the late 1990s, and was knighted in 1995.\nBorn in Lucknow. No. 1 in five decades.\n\nSource: Wikipedia (Cliff Richard)\nPhotos: Cliff Richard, Allan Warren, derivative by Jan Arkesteijn, CC BY-SA 3.0 · Cliff Richard with the Shadows, Harry Pot for Anefo, CC0 · via Wikimedia Commons. Shared under CC BY-SA.\nFootage: Cityscapes: Lucknow (Ministry of External Affairs / Indian Diplomacy, CC BY 3.0), via Wikimedia Commons. It is Lucknow context, not Cliff Richard footage. No music track is used.\n\n#Buzzora #CliffRichard #SirCliff #Lucknow #MoveIt #ListenUp",
+    "yt_title": "Cliff Richard Was Born in Lucknow | Sir Cliff Richard Turns 86, 14 October | Buzzora",
+    "tags": [
+      "Cliff Richard",
+      "Cliff Richard Lucknow",
+      "Cliff Richard birthday",
+      "Cliff Richard 86",
+      "Sir Cliff Richard",
+      "Move It",
+      "Lucknow",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-10-14-cliff-richard",
+      "vertical": "LISTEN UP",
+      "format": "deep-cut",
+      "industry": "music",
+      "hook_type": "claim",
+      "length": "standard",
+      "visual": "motion",
+      "audio": "temp",
+      "cut": "early"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-14",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-14-P2",
+    "edition": "editions/2026-10-14",
+    "key": "P2",
+    "due_ist": "2026-10-14T13:00:00",
+    "kind": "post",
+    "files": [
+      "first-film-138.jpg"
+    ],
+    "text": "The oldest surviving film is 138 today.\n\nLouis Le Prince shot Roundhay Garden Scene in a garden in Roundhay, Leeds, on 14 October 1888: four people walking, about two seconds long, on his own single-lens camera.\nIn September 1890 he boarded a train from Dijon to Paris and was never seen again.\nTwo seconds that started everything.\n\nSource: Wikipedia (Roundhay Garden Scene, Louis Le Prince)\nPhoto: Roundhay Garden Scene (1888), Louis Le Prince, public domain · via Wikimedia Commons.\n\n#Buzzora #RoundhayGardenScene #LouisLePrince #FilmHistory #DeepCut",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-10-14-first-film",
+      "vertical": "DEEP CUT",
+      "format": "anniversary",
+      "industry": "other",
+      "hook_type": "claim"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-14",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-14-R3",
+    "edition": "editions/2026-10-14",
+    "key": "R3",
+    "due_ist": "2026-10-14T14:00:00",
+    "kind": "reel",
+    "files": [
+      "kaithi-post.mp4"
+    ],
+    "text": "A Tamil star film with no songs and no heroine. It started a universe.\n\nKaithi (2019, Tamil), written and directed by Lokesh Kanagaraj, happens over one night: a lorry full of poisoned police officers, a hospital miles away, and gangs on the road. Karthi drives.\nHe plays Dilli, an ex-convict out of jail that day, who only wants to meet the daughter he has never seen.\nIt made an estimated ₹105 crore worldwide on a ₹25 crore budget. Bollywood remade it as Bholaa (2023).\nThen Kamal Haasan's Vikram (2022) and Vijay's Leo (2023) joined Kaithi's world. Kaithi 2 is in development.\nNo songs. No heroine. One night.\n\nSource: Wikipedia (Kaithi, Lokesh Cinematic Universe)\nPhotos: Karthi, Sriram Narasimhan, Silverscreen, CC BY-SA 3.0 · Karthi with Suriya, Dani Charles, Silverscreen, CC BY-SA 3.0 · Lokesh Kanagaraj, Sriram Narasimhan, Silverscreen, CC BY-SA 3.0 · Kamal Haasan, Gage Skidmore, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #Kaithi #Karthi #LokeshKanagaraj #LCU #Vikram #Leo #Tamil #Kollywood #MidweekWatch",
+    "yt_title": "Kaithi: The Tamil Film With No Songs That Started the LCU | Karthi, Lokesh Kanagaraj | Buzzora",
+    "tags": [
+      "Kaithi",
+      "Karthi",
+      "Lokesh Kanagaraj",
+      "LCU",
+      "Lokesh Cinematic Universe",
+      "Kaithi 2",
+      "Vikram",
+      "Leo",
+      "Tamil movie",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-10-14-kaithi",
+      "vertical": "WATCH THIS",
+      "format": "recommendation",
+      "industry": "tamil",
+      "hook_type": "claim",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp",
+      "cut": "late"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-14",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-14-C2",
+    "edition": "editions/2026-10-14",
+    "key": "C2",
+    "due_ist": "2026-10-14T15:30:00",
+    "kind": "carousel",
+    "files": [
+      "lcu-01.jpg",
+      "lcu-02.jpg",
+      "lcu-03.jpg",
+      "lcu-04.jpg",
+      "lcu-05.jpg",
+      "lcu-06.jpg"
+    ],
+    "text": "Kaithi started it. Here's the order.\n\nLokesh Kanagaraj's connected films, in order:\n1. Kaithi (2019): Karthi's Dilli, one night, a lorry of poisoned cops. No songs, no heroine.\n2. Vikram (2022): Kamal Haasan as Agent Vikram, with Fahadh Faasil's Amar and Vijay Sethupathi's Sandhanam.\nThe cameo: Suriya's Rolex, at the end of Vikram. A standalone Rolex film is planned, with no date yet.\n3. Leo (2023): Vijay as Parthiban. Kamal Haasan's Vikram turns up, by voice.\nNext: Benz, with Raghava Lawrence, is in production. Kaithi 2 is still in pre-production.\nWhich one do you rewatch?\n\nSource: Wikipedia (Lokesh Cinematic Universe, Kaithi, Vikram, Leo)\nPhotos: Karthi with Suriya, Dani Charles, Silverscreen, CC BY-SA 3.0 · Karthi, Sriram Narasimhan, Silverscreen, CC BY-SA 3.0 · Kamal Haasan, Gage Skidmore, CC BY-SA 3.0 · Suriya, Epsajeevan, CC BY-SA 4.0 · Vijay, U.S. Consulate General Chennai, public domain · Lokesh Kanagaraj, Sriram Narasimhan, Silverscreen, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #LCU #LokeshCinematicUniverse #Kaithi #Vikram #Leo #Rolex #Tamil #WatchThis",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-10-14-lcu-order",
+      "vertical": "WATCH THIS",
+      "format": "list",
+      "industry": "tamil",
+      "hook_type": "claim"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-14",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-14-R4",
+    "edition": "editions/2026-10-14",
+    "key": "R4",
+    "due_ist": "2026-10-14T17:00:00",
+    "kind": "reel",
+    "files": [
+      "visionquest-post.mp4"
+    ],
+    "text": "Vision died in Infinity War. Today he gets his own show.\n\nVisionQuest premieres on Disney+ on 14 October with episodes 1 and 2 (JioHotstar in India). Paul Bettany returns as the rebooted White Vision.\nJames Spader is back as Ultron, the role he first played in Avengers: Age of Ultron (2015).\nA bounty forces Vision into hiding with Thomas Shepherd, a teenager who may be his son Tommy, reborn. Terry Matalas is the showrunner.\nEight episodes: two a week until 28 October, then one a week. The finale lands on 11 November.\nVision died in 2018. Today: VisionQuest.\n\nSource: Marvel.com, Empire, TechRadar, Netflix Junkie\nPhotos: Paul Bettany, Kevin Paul, CC BY 4.0 · James Spader, Gage Skidmore, CC BY-SA 3.0 · Paul Bettany, Gage Skidmore, CC BY-SA 2.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #VisionQuest #Vision #PaulBettany #Ultron #JamesSpader #Marvel #MCU #DisneyPlus #WatchThis",
+    "yt_title": "VisionQuest: Episodes 1 and 2 Out Today | Paul Bettany, James Spader's Ultron Returns | Buzzora",
+    "tags": [
+      "VisionQuest",
+      "VisionQuest episode 1",
+      "VisionQuest release date",
+      "Paul Bettany",
+      "White Vision",
+      "Ultron",
+      "James Spader",
+      "Marvel",
+      "Disney Plus",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-10-14-visionquest",
+      "vertical": "WATCH THIS",
+      "format": "news",
+      "industry": "hollywood",
+      "hook_type": "claim",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp",
+      "cut": "early"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-14",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-14-P3",
+    "edition": "editions/2026-10-14",
+    "key": "P3",
+    "due_ist": "2026-10-14T18:30:00",
+    "kind": "post",
+    "files": [
+      "usher-48.jpg"
+    ],
+    "text": "Usher turns 48 today.\n\nBorn in Dallas on 14 October 1978. \"Yeah!\" (2004), then Confessions, which has sold over 20 million copies.\nEight Grammys, and the Super Bowl LVIII halftime show in 2024.\nWhich era is yours?\n\nSource: Wikipedia (Usher)\nPhoto: Usher, Ames Friedman, CC BY 2.0 · via Wikimedia Commons.\n\n#Buzzora #Usher #Confessions #Yeah #ListenUp",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-10-14-usher-48",
+      "vertical": "LISTEN UP",
+      "format": "anniversary",
+      "industry": "music",
+      "hook_type": "name-first"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-14",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-14-R5",
+    "edition": "editions/2026-10-14",
+    "key": "R5",
+    "due_ist": "2026-10-14T19:30:00",
+    "kind": "reel",
+    "files": [
+      "first-film-post.mp4"
+    ],
+    "text": "The oldest surviving film is 2 seconds long. The man who shot it vanished.\n\nRoundhay Garden Scene was filmed 138 years ago today, on 14 October 1888, in a garden in Roundhay, Leeds: four people walking. About two seconds survive.\nLouis Le Prince, a Frenchman working in Leeds, shot it on his own single-lens camera, on paper film.\nThe same year he filmed carts and people crossing Leeds Bridge, from an ironmonger's window.\nOn 16 September 1890 he boarded a train from Dijon to Paris and was never seen again. His luggage was never found.\nTwo seconds of film. Then he vanished.\n\nSource: Wikipedia (Roundhay Garden Scene, Louis Le Prince)\nPhotos: Louis Le Prince, unknown author, public domain · Le Prince's blue plaque, Leeds, Immanuel Giel, CC0 · via Wikimedia Commons.\nFootage: Roundhay Garden Scene and Traffic Crossing Leeds Bridge (Louis Le Prince, 1888, public domain), via Wikimedia Commons. No music track is used.\n\n#Buzzora #RoundhayGardenScene #LouisLePrince #FilmHistory #Leeds #DeepCut",
+    "yt_title": "Roundhay Garden Scene: The Oldest Surviving Film and Louis Le Prince Who Vanished | Buzzora",
+    "tags": [
+      "Roundhay Garden Scene",
+      "Louis Le Prince",
+      "oldest film",
+      "first film ever",
+      "film history",
+      "Leeds",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-10-14-first-film",
+      "vertical": "DEEP CUT",
+      "format": "deep-cut",
+      "industry": "other",
+      "hook_type": "claim",
+      "length": "standard",
+      "visual": "motion",
+      "audio": "temp",
+      "cut": "early"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-14",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-14-C3",
+    "edition": "editions/2026-10-14",
+    "key": "C3",
+    "due_ist": "2026-10-14T21:00:00",
+    "kind": "carousel",
+    "files": [
+      "vd-01.jpg",
+      "vd-02.jpg",
+      "vd-03.jpg",
+      "vd-04.jpg",
+      "vd-05.jpg",
+      "vd-06.jpg"
+    ],
+    "text": "Ranabaali opens Friday. Start here.\n\nFive Vijay Deverakonda films to watch before Ranabaali, in cinemas on 16 October:\nPelli Choopulu (2016): his first lead role, directed by Tharun Bhascker. National Award for Best Feature Film in Telugu.\nArjun Reddy (2017): the self-destructive surgeon. Filmfare Award for Best Actor (Telugu).\nMahanati (2018): Keerthy Suresh plays Savitri; he plays Vijay Anthony, a small but pivotal role.\nGeetha Govindam (2018): with Rashmika Mandanna, his Ranabaali co-star. His highest grosser, about ₹130 crore worldwide.\nTaxiwaala (2018): Rahul Sankrityan's horror comedy. Ranabaali is their second film together.\nRanabaali: Friday, 16 October.\n\nSource: Wikipedia (Vijay Deverakonda filmography), The Hollywood Reporter India, IANS\nPhotos: Vijay Deverakonda, Trending Clips, CC BY 3.0 · Ritu Varma, Lakumen, CC BY-SA 4.0 · Shalini Pandey, Bollywood Hungama, CC BY 3.0 · Keerthy Suresh, Verghese TK, CC BY-SA 4.0 · Rashmika Mandanna, Bollywood Hungama, CC BY 3.0 · Priyanka Jawalkar, Tollywood Nagar, CC BY 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #VijayDeverakonda #Ranabaali #ArjunReddy #GeethaGovindam #Taxiwaala #Telugu #Tollywood #WatchThis",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-10-14-vd-start-here",
+      "vertical": "WATCH THIS",
+      "format": "list",
+      "industry": "telugu",
+      "hook_type": "claim"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-14",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-14-R6",
+    "edition": "editions/2026-10-14",
+    "key": "R6",
+    "due_ist": "2026-10-14T22:00:00",
+    "kind": "reel",
+    "files": [
+      "taxiwaala-post.mp4"
+    ],
+    "text": "Ranabaali's director and Vijay Deverakonda made one film before. It leaked 10 days early.\n\nTaxiwaala (2018, Telugu), directed by Rahul Sankrityan. A pirated copy went online ten days before release. It opened on schedule anyway, and made an estimated ₹42 crore: a hit.\nVijay plays Shiva, who buys a second-hand Contessa taxi. Someone else is already riding in it.\nMalavika Nair plays Sisira, and her story turns the horror comedy into something stranger: astral projection.\nJakes Bejoy's music, with Sid Sriram's \"Maate Vinadhuga\". Priyanka Jawalkar plays Anusha.\nRanabaali, their second film, is in cinemas on Friday 16 October.\nLeaked early. Still a hit.\n\nSource: Wikipedia (Taxiwaala), The Hollywood Reporter India\nPhotos: Vijay Deverakonda, Dani Charles, silverscreen.in, CC BY-SA 3.0 · A Hindustan Contessa (not the film's car), Andrew Bone from Weymouth, England, CC BY 2.0 · Malavika Nair, MeherKilaru, CC BY-SA 4.0 · Priyanka Jawalkar, Tollywood Nagar, CC BY 3.0 · Vijay Deverakonda, Trending Clips, CC BY 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #Taxiwaala #VijayDeverakonda #RahulSankrityan #Ranabaali #MalavikaNair #Telugu #Tollywood #WatchThis",
+    "yt_title": "Watch Taxiwaala Before Ranabaali | Vijay Deverakonda, Rahul Sankrityan | Buzzora",
+    "tags": [
+      "Taxiwaala",
+      "Ranabaali",
+      "Vijay Deverakonda",
+      "Rahul Sankrityan",
+      "Malavika Nair",
+      "Telugu movie",
+      "Ranabaali release",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-10-14-taxiwaala",
+      "vertical": "WATCH THIS",
+      "format": "recommendation",
+      "industry": "telugu",
+      "hook_type": "claim",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp",
+      "cut": "late"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-14",
+    "status": "queued"
   }
 ]
