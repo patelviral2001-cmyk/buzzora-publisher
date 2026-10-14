@@ -1098,45 +1098,6 @@
     "error": "instagram: HTTP 403 on https://graph.facebook.com/v21.0/17841423692689376/media_publish\n{\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think that we've made a mistake.\",\"fbtrace_id\":\"AFrPf_JCZPyBwFuqmvKjwAp\"}}"
   },
   {
-    "id": "2026-09-29-R1",
-    "edition": "editions/2026-09-29",
-    "key": "R1",
-    "due_ist": "2026-09-29T09:00:00",
-    "kind": "reel",
-    "files": [
-      "bku-ott-post.mp4"
-    ],
-    "text": "The biggest Malayalam film ever is coming home.\n\nBethlehem Kudumba Unit streams on JioHotstar from Friday, 2 October, in Malayalam, Tamil, Telugu, Hindi and Kannada. Girish A.D.'s rom-com crossed ₹300 crore worldwide and is now the highest-grossing Malayalam film.\nNivin Pauly's Justin, and Mamitha Baiju's Ashley, who moves in next door. That's the whole plan for your weekend.\nSeen it in a theatre yet?\n\nSource: The Week, The Statesman, Sacnilk, Gulf News\nPhotos: Nivin Pauly, Achayan, CC BY-SA 4.0 · Mamitha Baiju, Redcarpet Connect, CC BY 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #BethlehemKudumbaUnit #NivinPauly #MamithaBaiju #JioHotstar #Malayalam #WeekendWatch",
-    "yt_title": "Bethlehem Kudumba Unit on JioHotstar This Friday | Nivin Pauly, Mamitha Baiju | Buzzora",
-    "tags": [
-      "Bethlehem Kudumba Unit",
-      "Bethlehem Kudumba Unit OTT",
-      "JioHotstar",
-      "Nivin Pauly",
-      "Mamitha Baiju",
-      "Girish AD",
-      "Malayalam cinema",
-      "Malayalam OTT",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-09-29-bku-ott",
-      "vertical": "WATCH THIS",
-      "format": "recommendation",
-      "industry": "malayalam",
-      "hook_type": "claim",
-      "length": "short"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-29",
-    "status": "published",
-    "result": {
-      "facebook": "2462991134190390",
-      "instagram": "18636630031041307",
-      "youtube": "bv7rypRMkq8"
-    },
-    "published_at": "2026-09-29T10:05:05.060220+05:30"
-  },
-  {
     "id": "2026-09-29-C1",
     "edition": "editions/2026-09-29",
     "key": "C1",
@@ -1168,49 +1129,6 @@
     "error": "instagram: HTTP 403 on https://graph.facebook.com/v21.0/17841423692689376/media_publish\n{\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think that we've made a mistake.\",\"fbtrace_id\":\"AS2X0lG4tff4Ow52VlHlcLu\"}}"
   },
   {
-    "id": "2026-09-29-R2",
-    "edition": "editions/2026-09-29",
-    "key": "R2",
-    "due_ist": "2026-09-29T11:30:00",
-    "kind": "reel",
-    "files": [
-      "ykym-post.mp4"
-    ],
-    "text": "Nivin Pauly plays a man who is 8,822 years old.\n\nYezhu Kadal Yezhu Malai opens in cinemas on Thursday, 1 October. An immortal meets an ordinary man (Soori) on a train, and he's still looking for the woman he lost. Anjali co-stars. There is also a rat.\nThe film waited too: shooting began in 2021, it wrapped in 2022 and premiered at Rotterdam in 2024. Ram directs (Peranbu, Taramani), with Yuvan Shankar Raja's music. It's Nivin's first Tamil lead since Richie.\nWorth the wait?\n\nSource: DT Next / IANS, Pinkvilla, Onmanorama, Wikipedia\nPhotos: Nivin Pauly, Achayan, CC BY-SA 4.0 · Soori, Silverscreen Media, CC BY-SA 3.0 · Director Ram, Dani Charles/Silverscreen Media, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #YezhuKadalYezhuMalai #NivinPauly #DirectorRam #Soori #Anjali #YuvanShankarRaja #TamilCinema #BuzzNow",
-    "yt_title": "Yezhu Kadal Yezhu Malai: Nivin Pauly Is 8,822 Years Old | Ram, Soori, Anjali | Buzzora",
-    "tags": [
-      "Yezhu Kadal Yezhu Malai",
-      "Nivin Pauly",
-      "Director Ram",
-      "Soori",
-      "Anjali",
-      "Yuvan Shankar Raja",
-      "Tamil cinema",
-      "IFFR",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-09-29-ykym",
-      "vertical": "BUZZ NOW",
-      "format": "news",
-      "industry": "tamil",
-      "hook_type": "name-first",
-      "length": "standard"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-29",
-    "status": "published",
-    "staged": {
-      "facebook": "2911850379191457",
-      "youtube": "JzUKYDsHQu0"
-    },
-    "result": {
-      "facebook": "2911850379191457",
-      "youtube": "JzUKYDsHQu0",
-      "instagram": "17880834360691166"
-    },
-    "published_at": "2026-09-29T11:30:53.873987+05:30"
-  },
-  {
     "id": "2026-09-29-P2",
     "edition": "editions/2026-09-29",
     "key": "P2",
@@ -1235,47 +1153,6 @@
       "facebook": "122112856605475707"
     },
     "error": "instagram: HTTP 403 on https://graph.facebook.com/v21.0/17841423692689376/media_publish\n{\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think that we've made a mistake.\",\"fbtrace_id\":\"Ab7sCshU9Ry9ILxHr6_GGrR\"}}"
-  },
-  {
-    "id": "2026-09-29-R3",
-    "edition": "editions/2026-09-29",
-    "key": "R3",
-    "due_ist": "2026-09-29T14:00:00",
-    "kind": "reel",
-    "files": [
-      "bairi-piya-post.mp4"
-    ],
-    "text": "Shreya Ghoshal's first Bollywood song had a title. So does her new one.\n\nIn 2002 it was 'Bairi Piya' from Devdas, with Udit Narayan, for Sanjay Leela Bhansali. She was 16, and it won her a National Award.\nThis week she released a new independent single on Universal Music India. Its name: 'Bairi Piya'. It's a new song, not a remake; she calls it a \"softer, contemporary space\".\nSame title, 24 years apart. Which one's yours?\n\nSource: ANI, Asianet Newsable, Wikipedia\nPhotos: Shreya Ghoshal, Bollywood Hungama, CC BY 3.0 · Sanjay Leela Bhansali, Elena Ternovaja, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #ShreyaGhoshal #BairiPiya #Devdas #ListenUp #IndieMusic",
-    "yt_title": "Shreya Ghoshal's New Song Bairi Piya: Same Title as Her Devdas Debut | Buzzora",
-    "tags": [
-      "Shreya Ghoshal",
-      "Bairi Piya",
-      "Bairi Piya Shreya Ghoshal 2026",
-      "Devdas",
-      "Sanjay Leela Bhansali",
-      "Udit Narayan",
-      "Universal Music India",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-09-29-bairi-piya",
-      "vertical": "LISTEN UP",
-      "format": "news",
-      "industry": "music",
-      "hook_type": "name-first",
-      "length": "short"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-29",
-    "status": "published",
-    "staged": {
-      "facebook": "1107938015055809"
-    },
-    "result": {
-      "facebook": "1107938015055809",
-      "instagram": "18079360253705948",
-      "youtube": "Xy36GwCU0So"
-    },
-    "published_at": "2026-09-29T14:01:07.749638+05:30"
   },
   {
     "id": "2026-09-29-C2",
@@ -1309,48 +1186,6 @@
     "error": "instagram: HTTP 403 on https://graph.facebook.com/v21.0/17841423692689376/media_publish\n{\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think that we've made a mistake.\",\"fbtrace_id\":\"Asat0xGez5ZEhs2Rn_PheoC\"}}"
   },
   {
-    "id": "2026-09-29-R4",
-    "edition": "editions/2026-09-29",
-    "key": "R4",
-    "due_ist": "2026-09-29T17:00:00",
-    "kind": "reel",
-    "files": [
-      "ranabaali-vosloo-post.mp4"
-    ],
-    "text": "Vijay Deverakonda's next villain once played The Mummy.\n\nArnold Vosloo, Imhotep in The Mummy (1999), plays Sir Theodore Hector, a British commissioner, in Ranabaali. Vijay Deverakonda is a 19th-century warrior who raids British grain supplies to feed his people. Rashmika Mandanna plays his wife, Jayamma.\nBefore it opens on 16 October: a four-part docuseries, Ranabaali Never Forget, on Mythri Movie Makers' channels. Episode 1 came out on 28 September.\nImhotep vs Ranabaali. Who wins?\n\nSource: Pinkvilla, Sacnilk, 123Telugu, TechnoSports\nPhotos: Vijay Deverakonda, Trending Clips, CC BY 3.0 · Arnold Vosloo, The Nerd Machine, CC BY 3.0 · Rashmika Mandanna, PuthuYugamTV, CC BY 3.0 · via Wikimedia Commons.\n\n#Buzzora #Ranabaali #VijayDeverakonda #ArnoldVosloo #RashmikaMandanna #TheMummy #Telugu #BuzzNow",
-    "yt_title": "Ranabaali: The Mummy's Arnold Vosloo vs Vijay Deverakonda | Rashmika Mandanna | 16 October | Buzzora",
-    "tags": [
-      "Ranabaali",
-      "Vijay Deverakonda",
-      "Arnold Vosloo",
-      "Rashmika Mandanna",
-      "Rahul Sankrityan",
-      "Mythri Movie Makers",
-      "Ranabaali Never Forget",
-      "Telugu cinema",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-09-29-ranabaali-vosloo",
-      "vertical": "BUZZ NOW",
-      "format": "news",
-      "industry": "telugu",
-      "hook_type": "name-first",
-      "length": "standard"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-29",
-    "status": "published",
-    "staged": {
-      "facebook": "2327615018041695"
-    },
-    "result": {
-      "facebook": "2327615018041695",
-      "instagram": "17973218772160449",
-      "youtube": "6mHv84dUk_8"
-    },
-    "published_at": "2026-09-29T17:00:50.723849+05:30"
-  },
-  {
     "id": "2026-09-29-P3",
     "edition": "editions/2026-09-29",
     "key": "P3",
@@ -1375,50 +1210,6 @@
       "facebook": "122112858441475707"
     },
     "error": "instagram: HTTP 403 on https://graph.facebook.com/v21.0/17841423692689376/media_publish\n{\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think that we've made a mistake.\",\"fbtrace_id\":\"Aw3abEYIlojI8SprjZx0DaA\"}}"
-  },
-  {
-    "id": "2026-09-29-R5",
-    "edition": "editions/2026-09-29",
-    "key": "R5",
-    "due_ist": "2026-09-29T19:30:00",
-    "kind": "reel",
-    "files": [
-      "ghajini-tamil-post.mp4"
-    ],
-    "text": "Aamir's Ghajini started the ₹100 crore club. It was a remake.\n\nThe original is Suriya's Ghajini, released on 29 September 2005: 21 years ago today, from the same director, A.R. Murugadoss.\nHis memory lasts 15 minutes; photos, notes and tattoos do the rest. Murugadoss says he'd written half the story when he saw Nolan's Memento, and borrowed only the 15-minute man. Asin played Kalpana, then played her again in Hindi.\nMade for ₹7 crore, it grossed about ₹50 crore.\nSuriya or Aamir: which Ghajini did you see first?\n\nSource: Wikipedia (Ghajini 2005, Ghajini 2008)\nPhotos: Aamir Khan, Bollywood Hungama, CC BY 3.0 · Suriya, Shiva CK, CC BY-SA 4.0 · Christopher Nolan, Georges Biard, CC BY-SA 4.0 · Asin, Thejas Panarkandy, CC BY 2.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #Ghajini #Suriya #Asin #ARMurugadoss #AamirKhan #Memento #TamilCinema #WhyHaveYouNotSeenThis",
-    "yt_title": "Why Have You Not Seen the Tamil Ghajini? Suriya, Asin, A.R. Murugadoss (2005) | Buzzora",
-    "tags": [
-      "Ghajini",
-      "Ghajini 2005",
-      "Ghajini Tamil",
-      "Suriya",
-      "Asin",
-      "AR Murugadoss",
-      "Aamir Khan",
-      "Memento",
-      "Christopher Nolan",
-      "Tamil cinema",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-09-29-ghajini-tamil",
-      "vertical": "WATCH THIS",
-      "format": "recommendation",
-      "industry": "tamil",
-      "hook_type": "claim",
-      "length": "standard"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-29",
-    "status": "published",
-    "staged": {
-      "facebook": "839004042603567"
-    },
-    "result": {
-      "facebook": "839004042603567",
-      "instagram": "17982664584083661",
-      "youtube": "SZ5uaAZiJek"
-    },
-    "published_at": "2026-09-29T19:31:42.437557+05:30"
   },
   {
     "id": "2026-09-29-C3",
@@ -1450,49 +1241,6 @@
       "facebook": "1383947794794733_122112904167475707"
     },
     "error": "instagram: HTTP 403 on https://graph.facebook.com/v21.0/17841423692689376/media_publish\n{\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think that we've made a mistake.\",\"fbtrace_id\":\"AAP1dHqBasv2fPfPX2lGoCB\"}}"
-  },
-  {
-    "id": "2026-09-29-R6",
-    "edition": "editions/2026-09-29",
-    "key": "R6",
-    "due_ist": "2026-09-29T22:00:00",
-    "kind": "reel",
-    "files": [
-      "sarpatta-round2-post.mp4"
-    ],
-    "text": "Round 2 of Pa. Ranjith's boxing film goes back in time.\n\nSarpatta Parambarai Round 2 started shooting on 28 September. It's titled \"The Origin of Sarpatta\": a prequel, with Arya back as Kabilan.\nRound 1 (2021) is on Prime Video: 1970s North Madras during the Emergency, two boxing clans, one grudge. Pasupathy's coach Rangan Vaathiyar, Dushara Vijayan's Mariyamma, Santhosh Narayanan's music. Tamil Nadu State Awards for Arya and Pasupathy.\nRound 2 goes back. Round 1 is waiting. Seen it yet?\n\nSource: The Hollywood Reporter India, Variety India, SocialNews.xyz, Wikipedia\nPhotos: Pa. Ranjith, Hemalataeditor, CC BY-SA 4.0, and PuthuYugamTV, CC BY 3.0 · Pasupathy, Sriram Narasimhan/Silverscreen Media, CC BY-SA 3.0 · Dushara Vijayan, Amudham TV, CC BY 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #SarpattaParambarai #Sarpatta2 #PaRanjith #Arya #Pasupathy #DusharaVijayan #TamilCinema #WatchThis",
-    "yt_title": "Watch Sarpatta Parambarai Before Round 2 | Pa. Ranjith, Arya | The Origin of Sarpatta | Buzzora",
-    "tags": [
-      "Sarpatta Parambarai",
-      "Sarpatta Parambarai Round 2",
-      "Sarpatta 2",
-      "Pa Ranjith",
-      "Arya",
-      "Pasupathy",
-      "Dushara Vijayan",
-      "Tamil cinema",
-      "Prime Video",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-09-29-sarpatta-round2",
-      "vertical": "WATCH THIS",
-      "format": "recommendation",
-      "industry": "tamil",
-      "hook_type": "name-first",
-      "length": "standard"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-29",
-    "status": "published",
-    "staged": {
-      "facebook": "28796023633395293"
-    },
-    "result": {
-      "facebook": "28796023633395293",
-      "instagram": "18111348989027451",
-      "youtube": "pFhZg-ecuCo"
-    },
-    "published_at": "2026-09-29T22:00:54.889482+05:30"
   },
   {
     "id": "2026-09-30-P1",
@@ -5605,5 +5353,365 @@
       "facebook": "1072392569184828",
       "youtube": "ebYeCnb_IC4"
     }
+  },
+  {
+    "id": "2026-10-15-P1",
+    "edition": "editions/2026-10-15",
+    "key": "P1",
+    "due_ist": "2026-10-15T08:00:00",
+    "kind": "post",
+    "files": [
+      "jailer2-today.jpg"
+    ],
+    "text": "Jailer 2 is out today.\n\nRajinikanth is back as \"Tiger\" Muthuvel Pandian, three years after Jailer became the second-biggest Tamil film ever.\nNelson Dilipkumar directs, Anirudh Ravichander scores, and S.J. Suryah, Mithun Chakraborty and Vidya Balan join the cast. In cinemas and IMAX from 15 October.\nFirst day, first show, or waiting for the weekend?\n\nSource: Wikipedia (Jailer 2, Jailer), India TV, Koimoi\nPhoto: Rajinikanth, Dani Charles, Silverscreen, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #Jailer2 #Rajinikanth #Nelson #Anirudh #Kollywood #Tamil #BuzzNow",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-10-15-jailer2-today",
+      "vertical": "BUZZ NOW",
+      "format": "news",
+      "industry": "tamil",
+      "hook_type": "name-first"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-15",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-15-R1",
+    "edition": "editions/2026-10-15",
+    "key": "R1",
+    "due_ist": "2026-10-15T09:00:00",
+    "kind": "reel",
+    "files": [
+      "jailer-before-post.mp4"
+    ],
+    "text": "Jailer 2 opens today. The first one did something only 2.0 had done.\n\nJailer (2023, Tamil, on Prime Video) made an estimated ₹605–650 crore worldwide: the second-biggest Tamil film ever, behind 2.0.\nRajinikanth plays \"Tiger\" Muthuvel Pandian, a retired jailer. Vinayakan's Varman, an idol smuggler, makes the mistake of threatening his family.\nMohanlal and Shiva Rajkumar drop in from Malayalam and Kannada cinema, plus Jackie Shroff.\nAnd Tamannaah's \"Kaavaalaa\", scored by Anirudh, came out a month before the film and went everywhere.\nOnly 2.0 did better. Part two: today.\n\nSource: Wikipedia (Jailer, Jailer 2)\nPhotos: Rajinikanth, Dani Charles, Silverscreen, CC BY-SA 3.0 · Vinayakan, Rolex369, CC BY-SA 4.0 · Mohanlal, SidhardhRamesh, CC BY-SA 3.0 · Tamannaah Bhatia, Pavithrasri, CC BY-SA 3.0 · Rajinikanth, Dani Charles, Silverscreen, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\nNo music track is used.\n\n#Buzzora #Jailer #Jailer2 #Rajinikanth #Vinayakan #Kaavaalaa #Tamil #WatchThis",
+    "yt_title": "Jailer 2 Out Today: Watch Jailer First | Rajinikanth, Nelson, Anirudh | Buzzora",
+    "tags": [
+      "Jailer 2",
+      "Jailer",
+      "Jailer 2 release",
+      "Rajinikanth",
+      "Jailer 2 Rajinikanth",
+      "Nelson Dilipkumar",
+      "Kaavaalaa",
+      "Vinayakan",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-10-15-jailer-before",
+      "vertical": "WATCH THIS",
+      "format": "recommendation",
+      "industry": "tamil",
+      "hook_type": "claim",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp",
+      "cut": "late"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-15",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-15-C1",
+    "edition": "editions/2026-10-15",
+    "key": "C1",
+    "due_ist": "2026-10-15T10:30:00",
+    "kind": "carousel",
+    "files": [
+      "carp-01.jpg",
+      "carp-02.jpg",
+      "carp-03.jpg",
+      "carp-04.jpg",
+      "carp-05.jpg",
+      "carp-06.jpg"
+    ],
+    "text": "Richard Carpenter is 80. The other Carpenter.\n\nKaren sang. Richard, born 15 October 1946, built the sound around her voice.\n\"(They Long to Be) Close to You\" went to No. 1 in the US in July 1970 and stayed four weeks.\n\"We've Only Just Begun\" reached No. 2 three months later. Paul Williams and Roger Nichols first wrote it for a bank commercial.\nKaren started as the band's drummer. Richard put her out front to sing, and wrote the arrangements.\n\"Top of the World\" became their second US No. 1 in 1973. \"Yesterday Once More\", the same year, became their biggest hit worldwide.\nMore than 100 million records sold, and Best New Artist at the 1971 Grammys.\nWhich one do you still hum?\n\nSource: Wikipedia (The Carpenters, We've Only Just Begun), Wells Fargo History\nPhotos: Karen and Richard Carpenter, 1974, A&M Records, public domain · Karen Carpenter, 1973, A&M Records, public domain · Karen and Richard Carpenter, A&M Records, public domain · Karen Carpenter, 1972, Robert L. Knudsen, White House, public domain · Karen Carpenter, unknown author, derivative by TheCuriousGnome, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #TheCarpenters #RichardCarpenter #KarenCarpenter #CloseToYou #YesterdayOnceMore #ListenUp",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-10-15-carpenters-80",
+      "vertical": "LISTEN UP",
+      "format": "anniversary",
+      "industry": "music",
+      "hook_type": "claim"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-15",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-15-R2",
+    "edition": "editions/2026-10-15",
+    "key": "R2",
+    "due_ist": "2026-10-15T11:30:00",
+    "kind": "reel",
+    "files": [
+      "anirudh-rajini-post.mp4"
+    ],
+    "text": "Rajinikanth's composer for Jailer 2 is family.\n\nAnirudh Ravichander is the nephew of Latha Rajinikanth, Rajinikanth's wife.\nHis first song was \"Why This Kolaveri Di\" (2011), for 3, a film directed by his cousin Aishwarya Rajinikanth. It has more than 590 million views.\nThen came Petta, Darbar, Jailer, Vettaiyan and Coolie: five Rajinikanth films.\nJailer 2, in cinemas from today, is his sixth with Rajinikanth and his fifth with director Nelson.\nRajinikanth's composer. Also his nephew.\n\nSource: Wikipedia (Anirudh Ravichander, Jailer 2, Coolie soundtrack)\nPhotos: Anirudh Ravichander, Surajram Kumaravel, CC BY 3.0 · Rajinikanth, Dani Charles, Silverscreen, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\nFootage: Danny Montell rock concert, Vilnius (Stuart Baillie Strong, CC0) and Chennai bird's-eye view (SlowPhoton, CC BY-SA 4.0), via Wikimedia Commons. It is context footage, not Anirudh. No music track is used.\n\n#Buzzora #Anirudh #AnirudhRavichander #Rajinikanth #Jailer2 #WhyThisKolaveriDi #Kollywood #ListenUp",
+    "yt_title": "Anirudh Is Rajinikanth's Nephew | Jailer 2 Music, Why This Kolaveri Di | Buzzora",
+    "tags": [
+      "Anirudh",
+      "Anirudh Ravichander",
+      "Rajinikanth",
+      "Jailer 2",
+      "Jailer 2 songs",
+      "Why This Kolaveri Di",
+      "Anirudh Rajinikanth",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-10-15-anirudh-rajini",
+      "vertical": "LISTEN UP",
+      "format": "deep-cut",
+      "industry": "tamil",
+      "hook_type": "claim",
+      "length": "standard",
+      "visual": "motion",
+      "audio": "temp",
+      "cut": "early"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-15",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-15-P2",
+    "edition": "editions/2026-10-15",
+    "key": "P2",
+    "due_ist": "2026-10-15T13:00:00",
+    "kind": "post",
+    "files": [
+      "roadies-rebirth.jpg"
+    ],
+    "text": "Roadies is back tomorrow.\n\nSeason 21, Roadies Rebirth, starts on Friday 16 October, with Rannvijay Singha hosting.\nThe twist: OGs vs NewGs. Nikhil Chinapa, Neha Dhupia and Prince Narula take on Abhishek Malhan, Bani J and Baseer Ali.\nFridays and Saturdays at 7 pm on JioHotstar and MTV.\nTeam OG or team NewG?\n\nSource: Esquire India, UNI, Daily Jagran\nPhoto: Rannvijay Singha and Prince Narula with photographer Ashish J Parmar, Ashish J Parmar, CC BY-SA 4.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #Roadies #RoadiesRebirth #Rannvijay #NehaDhupia #PrinceNarula #JioHotstar #BuzzNow",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-10-15-roadies-rebirth",
+      "vertical": "BUZZ NOW",
+      "format": "news",
+      "industry": "ott",
+      "hook_type": "claim"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-15",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-15-R3",
+    "edition": "editions/2026-10-15",
+    "key": "R3",
+    "due_ist": "2026-10-15T14:00:00",
+    "kind": "reel",
+    "files": [
+      "traitors-telugu-post.mp4"
+    ],
+    "text": "20 Telugu celebrities. Some of them are lying.\n\nThe Traitors Telugu streams on Prime Video from today, 15 October. Ten episodes, with a new one every Thursday at noon.\nHidden Traitors pick players off. The Innocents have to unmask them first.\nSinger Chinmayi Sripada is one of the 20, with Harsha Vardhan, Pragathi and Shreedevi Chowdary.\nHanuMan's Teja Sajja makes his hosting debut.\n20 players. Some are lying.\n\nSource: The Hollywood Reporter India, NewsBytes, Deccan Chronicle, The Hans India\nPhotos: Teja Sajja, Championdaku, CC BY-SA 4.0 · Teja Sajja, Bollywood Hungama, CC BY 3.0 · Chinmayi Sripada, Chinmayi Sripada, CC0 · Chinmayi Sripada, Rajkumar R, CC BY-SA 2.0 · via Wikimedia Commons. Shared under CC BY-SA.\nNo music track is used.\n\n#Buzzora #TheTraitorsTelugu #TheTraitors #TejaSajja #Chinmayi #PrimeVideo #Telugu #BuzzNow",
+    "yt_title": "The Traitors Telugu Starts Today on Prime Video | Teja Sajja, Chinmayi Sripada | Buzzora",
+    "tags": [
+      "The Traitors Telugu",
+      "The Traitors",
+      "Teja Sajja",
+      "Chinmayi Sripada",
+      "Prime Video",
+      "The Traitors Telugu contestants",
+      "Telugu reality show",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-10-15-traitors-telugu",
+      "vertical": "BUZZ NOW",
+      "format": "news",
+      "industry": "telugu",
+      "hook_type": "number",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp",
+      "cut": "early"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-15",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-15-C2",
+    "edition": "editions/2026-10-15",
+    "key": "C2",
+    "due_ist": "2026-10-15T15:30:00",
+    "kind": "carousel",
+    "files": [
+      "ani-01.jpg",
+      "ani-02.jpg",
+      "ani-03.jpg",
+      "ani-04.jpg",
+      "ani-05.jpg",
+      "ani-06.jpg",
+      "ani-07.jpg"
+    ],
+    "text": "Six Rajinikanth films. One composer.\n\nJailer 2 is out today. Anirudh Ravichander, Rajinikanth's nephew, has scored all six:\nPetta (2019): Karthik Subbaraj's film, the first time nephew and uncle worked together.\nDarbar (2020): A.R. Murugadoss directs Rajinikanth as a Mumbai police commissioner.\nJailer (2023): Nelson Dilipkumar's hit, with \"Kaavaalaa\" and \"Hukum\".\nVettaiyan (2024): T.J. Gnanavel's film, with Amitabh Bachchan.\nCoolie (2025): Lokesh Kanagaraj's first film with Rajinikanth.\nJailer 2 (2026): Nelson again, Anirudh's fifth film with him. In cinemas from 15 October.\nWhich album wins?\n\nSource: Wikipedia (Anirudh Ravichander, Coolie soundtrack, Vettaiyan soundtrack, Jailer 2)\nPhotos: Anirudh Ravichander, Surajram Kumaravel, CC BY 3.0 · Karthik Subbaraj, Silverscreen, CC BY-SA 3.0 · A.R. Murugadoss, Bollywood Hungama, CC BY 3.0 · Nelson Dilipkumar, Naveen Thavaneshwar, CC0 · Amitabh Bachchan, Studio Harcourt, CC BY 3.0 · Lokesh Kanagaraj, Sriram Narasimhan, Silverscreen, CC BY-SA 3.0 · Rajinikanth, Dani Charles, Silverscreen, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #Anirudh #Rajinikanth #Jailer2 #Petta #Jailer #Coolie #Vettaiyan #Kollywood",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-10-15-anirudh-six",
+      "vertical": "WHY IS EVERYONE TALKING ABOUT THIS?",
+      "format": "list",
+      "industry": "tamil",
+      "hook_type": "number"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-15",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-15-R4",
+    "edition": "editions/2026-10-15",
+    "key": "R4",
+    "due_ist": "2026-10-15T17:00:00",
+    "kind": "reel",
+    "files": [
+      "hanuman-post.mp4"
+    ],
+    "text": "Today's new reality-show host was a superhero first.\n\nHanuMan (2024, Telugu), directed by Prasanth Varma, won three National Awards: Best Film in AVGC, Best VFX Supervisor and Best Stunt Choreography.\nTeja Sajja, who hosts The Traitors Telugu from today, plays Hanumanthu, a petty thief who finds a gem that gives him Hanuman's powers.\nReleased at Sankranti in January 2024, it made an estimated ₹298–350 crore worldwide. The Hindi version alone made over ₹45 crore.\nThe sequel, Jai Hanuman, is in development, with Rishab Shetty as Hanuman.\nSuperhero first. Host today.\n\nSource: Wikipedia (Hanu-Man), The Hollywood Reporter India\nPhotos: Teja Sajja, Championdaku, CC BY-SA 4.0 · Teja Sajja, Bollywood Hungama, CC BY 3.0 · Amritha Aiyer, Verghese TK, CC BY-SA 4.0 · Rishab Shetty, Rudhra Varma, CC BY-SA 4.0 · via Wikimedia Commons. Shared under CC BY-SA.\nNo music track is used.\n\n#Buzzora #HanuMan #TejaSajja #PrasanthVarma #JaiHanuman #TheTraitorsTelugu #Telugu #WatchThis",
+    "yt_title": "Watch HanuMan: Teja Sajja Before The Traitors Telugu | Prasanth Varma | Buzzora",
+    "tags": [
+      "HanuMan",
+      "Hanu-Man",
+      "Teja Sajja",
+      "Prasanth Varma",
+      "Jai Hanuman",
+      "The Traitors Telugu",
+      "Telugu movie",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-10-15-hanuman",
+      "vertical": "WATCH THIS",
+      "format": "recommendation",
+      "industry": "telugu",
+      "hook_type": "claim",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp",
+      "cut": "late"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-15",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-15-P3",
+    "edition": "editions/2026-10-15",
+    "key": "P3",
+    "due_ist": "2026-10-15T18:30:00",
+    "kind": "post",
+    "files": [
+      "diplomat-s4.jpg"
+    ],
+    "text": "The Diplomat S4 drops today.\n\nAll eight episodes land on Netflix at once on 15 October. Keri Russell is back as Ambassador Kate Wyler, with Rufus Sewell, Allison Janney and Bradley Whitford.\nTwo marriages, one very bad plan.\n\nSource: Netflix, The Week, TVLine\nPhoto: Keri Russell, Gage Skidmore, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #TheDiplomat #TheDiplomatSeason4 #KeriRussell #Netflix #WatchThis",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-10-15-diplomat-s4",
+      "vertical": "WATCH THIS",
+      "format": "news",
+      "industry": "ott",
+      "hook_type": "name-first"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-15",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-15-R5",
+    "edition": "editions/2026-10-15",
+    "key": "R5",
+    "due_ist": "2026-10-15T19:30:00",
+    "kind": "reel",
+    "files": [
+      "victor-banerjee-post.mp4"
+    ],
+    "text": "One Indian actor was cast by Satyajit Ray and David Lean.\n\nVictor Banerjee, born 15 October 1946, turns 80 today. He received the Padma Bhushan in 2022.\nRay cast him twice: in Shatranj Ke Khilari (1977) and in Ghare Baire, with Soumitra Chatterjee, which won him the National Award for Best Supporting Actor.\nDavid Lean made him the lead of A Passage to India (1984), as Dr Aziz. It earned him a BAFTA nomination for Best Actor.\nHe has acted in English, Hindi, Bengali and Assamese, for Mrinal Sen and Shyam Benegal too.\nRay. Then Lean. Victor Banerjee, 80.\n\nSource: Wikipedia (Victor Banerjee), Filmibeat\nPhotos: Victor Banerjee, Bollywood Hungama, CC BY 3.0 · Satyajit Ray, Dinu Alam Newyork, CC BY-SA 4.0 · David Lean, Anonymous / Kar-Air Oy, public domain · Soumitra Chatterjee, Biswarup Ganguly, CC BY 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\nNo music track is used.\n\n#Buzzora #VictorBanerjee #SatyajitRay #DavidLean #APassageToIndia #GhareBaire #DeepCut",
+    "yt_title": "Victor Banerjee Turns 80: Cast by Satyajit Ray and David Lean | A Passage to India | Buzzora",
+    "tags": [
+      "Victor Banerjee",
+      "Victor Banerjee birthday",
+      "Satyajit Ray",
+      "David Lean",
+      "A Passage to India",
+      "Ghare Baire",
+      "Shatranj Ke Khilari",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-10-15-victor-banerjee",
+      "vertical": "DEEP CUT",
+      "format": "deep-cut",
+      "industry": "other",
+      "hook_type": "claim",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp",
+      "cut": "early"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-15",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-15-C3",
+    "edition": "editions/2026-10-15",
+    "key": "C3",
+    "due_ist": "2026-10-15T21:00:00",
+    "kind": "carousel",
+    "files": [
+      "mira-01.jpg",
+      "mira-02.jpg",
+      "mira-03.jpg",
+      "mira-04.jpg",
+      "mira-05.jpg",
+      "mira-06.jpg",
+      "mira-07.jpg"
+    ],
+    "text": "Mira Nair turns 69. Start here.\n\nSalaam Bombay! (1988): shot with real street kids. Caméra d'Or at Cannes, an Oscar nomination, and Irrfan Khan's first role.\nMississippi Masala (1991): Denzel Washington and Sarita Choudhury in a Mississippi love story that tests both their families.\nMonsoon Wedding (2001): the Golden Lion at Venice, the first won by a woman. Shot in 30 days.\nThe Namesake (2006): Tabu and Irrfan Khan as Ashima and Ashoke. Kal Penn plays their son, Gogol.\nQueen of Katwe (2016): Disney's true story of a Ugandan chess prodigy, with Lupita Nyong'o and David Oyelowo.\nA Suitable Boy (2020): the BBC's Vikram Seth series, with Tabu as Saeeda Bai and Ishaan Khatter as Maan.\nWhich one first?\n\nSource: Wikipedia (Mira Nair, Salaam Bombay!, The Namesake, A Suitable Boy), The Week\nPhotos: Mira Nair, Adjoajo, CC BY-SA 3.0 · Irrfan Khan, Bollywood Hungama, CC BY 3.0 · Denzel Washington, GabboT, CC BY-SA 2.0 · Naseeruddin Shah, Bollywood Hungama, CC BY 3.0 · Tabu, Bollywood Hungama, CC BY 3.0 · Lupita Nyong'o, Gage Skidmore, CC BY-SA 3.0 · Ishaan Khatter, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #MiraNair #SalaamBombay #MonsoonWedding #TheNamesake #ASuitableBoy #Irrfan #WatchThis",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-10-15-mira-nair-start",
+      "vertical": "WATCH THIS",
+      "format": "list",
+      "industry": "bollywood",
+      "hook_type": "claim"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-15",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-15-R6",
+    "edition": "editions/2026-10-15",
+    "key": "R6",
+    "due_ist": "2026-10-15T22:00:00",
+    "kind": "reel",
+    "files": [
+      "salaam-bombay-post.mp4"
+    ],
+    "text": "Irrfan Khan's first film role lasted two minutes.\n\nSalaam Bombay! (1988, Hindi) was Mira Nair's first feature, and she turns 69 today. Irrfan plays a letter writer.\nThe film was nominated for the Oscar for Best Foreign Language Film.\nStreet children played the child roles: about 130 came to the first rehearsal, and 24 were trained for the film.\nIt won the Caméra d'Or at Cannes, the first Indian film to do so.\nNana Patekar and Raghuvir Yadav co-star, with Shafiq Syed as Krishna, a boy alone in Bombay.\nTwo minutes of Irrfan. One Caméra d'Or.\n\nSource: Wikipedia (Salaam Bombay!, Mira Nair)\nPhotos: Irrfan Khan, Bollywood Hungama, CC BY 3.0 · Mira Nair, Adjoajo, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\nFootage: Street in Mumbai (Nicolas Vigier, CC0) and Local train starting from Mumbai CSTM (Suyash Dwivedi, CC BY-SA 4.0), via Wikimedia Commons. Context footage, not from the film. No music track is used.\n\n#Buzzora #SalaamBombay #MiraNair #IrrfanKhan #NanaPatekar #Cannes #Bollywood #WatchThis",
+    "yt_title": "Watch Salaam Bombay: Irrfan Khan's Two-Minute Debut | Mira Nair Turns 69 | Buzzora",
+    "tags": [
+      "Salaam Bombay",
+      "Mira Nair",
+      "Irrfan Khan",
+      "Irrfan Khan first film",
+      "Nana Patekar",
+      "Camera d'Or",
+      "Mira Nair birthday",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-10-15-salaam-bombay",
+      "vertical": "WATCH THIS",
+      "format": "recommendation",
+      "industry": "bollywood",
+      "hook_type": "claim",
+      "length": "standard",
+      "visual": "motion",
+      "audio": "temp",
+      "cut": "early"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-15",
+    "status": "queued"
   }
 ]
