@@ -5646,11 +5646,17 @@
       "cut": "late"
     },
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-15",
-    "status": "queued",
+    "status": "published",
     "staged": {
       "facebook": "2865725327130684",
       "youtube": "__INvKfSICs"
-    }
+    },
+    "result": {
+      "facebook": "2865725327130684",
+      "youtube": "__INvKfSICs",
+      "instagram": "17930733756410497"
+    },
+    "published_at": "2026-10-15T17:00:50.092855+05:30"
   },
   {
     "id": "2026-10-15-P3",
