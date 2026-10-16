@@ -1269,49 +1269,6 @@
     "error": "instagram: HTTP 403 on https://graph.facebook.com/v21.0/17841423692689376/media_publish\n{\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think that we've made a mistake.\",\"fbtrace_id\":\"AwFvlbuq_-k681IImGLXsrb\"}}"
   },
   {
-    "id": "2026-09-30-R1",
-    "edition": "editions/2026-09-30",
-    "key": "R1",
-    "due_ist": "2026-09-30T09:00:00",
-    "kind": "reel",
-    "files": [
-      "jailer2-album-post.mp4"
-    ],
-    "text": "Jailer 2 isn't dropping a song today. It's dropping more.\n\nSun Pictures says Jailer 2's full album streams today, 30 September, with Anirudh performing the songs live at an invite-only \"Jailer 2 Rave\". The film opens in cinemas on 15 October: Rajinikanth is back as Tiger Muthuvel Pandian, with Mohanlal, Shiva Rajkumar and Vijay Sethupathi dropping in.\nThe whole album, fifteen days early. Which track are you playing first?\n\nSource: Sun Pictures via OnlyKollywood, 123Telugu, Wikipedia\nPhotos: Rajinikanth, Dani Charles, Silverscreen Media, CC BY-SA 3.0 · Anirudh Ravichander, Surajram Kumaravel, CC BY 3.0 · Rajinikanth, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #Jailer2 #Rajinikanth #Anirudh #Jailer2Album #Tamil #Kollywood #ListenUp",
-    "yt_title": "Jailer 2 Full Album Out Today | Anirudh's Jailer 2 Rave | Rajinikanth, 15 October | Buzzora",
-    "tags": [
-      "Jailer 2",
-      "Jailer 2 songs",
-      "Jailer 2 album",
-      "Jailer 2 Rave",
-      "Rajinikanth",
-      "Anirudh Ravichander",
-      "Nelson Dilipkumar",
-      "Sun Pictures",
-      "Tamil cinema",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-09-30-jailer2-album",
-      "vertical": "LISTEN UP",
-      "format": "news",
-      "industry": "tamil",
-      "hook_type": "claim",
-      "length": "short"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-30",
-    "status": "published",
-    "staged": {
-      "facebook": "1430271315720676"
-    },
-    "result": {
-      "facebook": "1430271315720676",
-      "instagram": "17999210430006765",
-      "youtube": "MLmNfSqWRLc"
-    },
-    "published_at": "2026-09-30T09:00:52.389916+05:30"
-  },
-  {
     "id": "2026-09-30-C1",
     "edition": "editions/2026-09-30",
     "key": "C1",
@@ -1343,49 +1300,6 @@
     "error": "instagram: HTTP 403 on https://graph.facebook.com/v21.0/17841423692689376/media_publish\n{\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think that we've made a mistake.\",\"fbtrace_id\":\"ATiC2TY8zYsgcenw0oS55_6\"}}"
   },
   {
-    "id": "2026-09-30-R2",
-    "edition": "editions/2026-09-30",
-    "key": "R2",
-    "due_ist": "2026-09-30T11:30:00",
-    "kind": "reel",
-    "files": [
-      "nkpk-baththa-post.mp4"
-    ],
-    "text": "He hits his head playing cricket. The wedding is in two days.\n\nThat's Naduvula Konjam Pakkatha Kaanom (2012). Vijay Sethupathi's Prem can't keep hold of his memory, so his friends hide it and push the wedding through anyway. It really happened, to cinematographer C. Prem Kumar, and director Balaji Tharaneetharan was one of the friends there. Made for ₹80 lakh, remade in six languages.\nTomorrow, Thursday 1 October, the two reunite for Baththa, with Lijomol Jose.\nSeen it yet?\n\nSource: Wikipedia, Silverscreen India, The Hollywood Reporter India, Gulf News\nPhotos: Vijay Sethupathi, Bollywood Hungama, CC BY 3.0 · Vijay Sethupathi, Silverscreen Media, CC BY-SA 3.0 · Gayathrie, PuthuYugamTV, CC BY 3.0 · Lijomol Jose, Anupriya0123, CC BY-SA 4.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #NaduvulaKonjamPakkathaKaanom #Baththa #VijaySethupathi #BalajiTharaneetharan #Tamil #WatchThis",
-    "yt_title": "Watch Naduvula Konjam Pakkatha Kaanom Before Baththa | Vijay Sethupathi | Buzzora",
-    "tags": [
-      "Naduvula Konjam Pakkatha Kaanom",
-      "NKPK",
-      "Baththa",
-      "Vijay Sethupathi",
-      "Balaji Tharaneetharan",
-      "Lijomol Jose",
-      "Tamil movie recommendation",
-      "Tamil cinema",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-09-30-nkpk-baththa",
-      "vertical": "WATCH THIS",
-      "format": "recommendation",
-      "industry": "tamil",
-      "hook_type": "claim",
-      "length": "standard"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-30",
-    "status": "published",
-    "staged": {
-      "facebook": "2200214220877048",
-      "youtube": "c5mY9J1Qqok"
-    },
-    "result": {
-      "facebook": "2200214220877048",
-      "youtube": "c5mY9J1Qqok",
-      "instagram": "18072698072767426"
-    },
-    "published_at": "2026-09-30T11:30:52.261462+05:30"
-  },
-  {
     "id": "2026-09-30-P2",
     "edition": "editions/2026-09-30",
     "key": "P2",
@@ -1410,48 +1324,6 @@
       "facebook": "122113241505475707"
     },
     "error": "instagram: HTTP 403 on https://graph.facebook.com/v21.0/17841423692689376/media_publish\n{\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think that we've made a mistake.\",\"fbtrace_id\":\"Ayi5rJE8uBY9QbU5bki37SM\"}}"
-  },
-  {
-    "id": "2026-09-30-R3",
-    "edition": "editions/2026-09-30",
-    "key": "R3",
-    "due_ist": "2026-09-30T14:00:00",
-    "kind": "reel",
-    "files": [
-      "birdman-digger-post.mp4"
-    ],
-    "text": "Tom Cruise's new director once made a whole film look like one shot.\n\nThat's Birdman (2014): Michael Keaton as a washed-up superhero actor betting everything on a Broadway play, with no visible cuts. It won four Oscars, including Best Picture and Best Director for Alejandro G. Iñárritu. His Tom Cruise comedy, Digger, opens in cinemas on Friday, 2 October.\nSeen Birdman yet?\n\nSource: Wikipedia, The Hollywood Reporter India, Variety\nPhotos: Tom Cruise, Gage Skidmore, CC BY-SA 3.0 · Michael Keaton, Harald Krichel, CC BY-SA 4.0 · Alejandro G. Iñárritu, Bart Michiels, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #Birdman #Digger #TomCruise #MichaelKeaton #Inarritu #WatchThis",
-    "yt_title": "Watch Birdman Before Digger | Iñárritu's One-Shot Oscar Winner | Tom Cruise | Buzzora",
-    "tags": [
-      "Birdman",
-      "Digger",
-      "Digger movie",
-      "Tom Cruise",
-      "Michael Keaton",
-      "Alejandro G. Inarritu",
-      "movie recommendation",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-09-30-birdman-digger",
-      "vertical": "WATCH THIS",
-      "format": "recommendation",
-      "industry": "hollywood",
-      "hook_type": "claim",
-      "length": "short"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-30",
-    "status": "published",
-    "staged": {
-      "facebook": "2010153029700788",
-      "youtube": "DRUs-lDewR0"
-    },
-    "result": {
-      "facebook": "2010153029700788",
-      "youtube": "DRUs-lDewR0",
-      "instagram": "18066533243786891"
-    },
-    "published_at": "2026-09-30T14:00:46.875346+05:30"
   },
   {
     "id": "2026-09-30-C2",
@@ -1485,50 +1357,6 @@
     "error": "instagram: HTTP 403 on https://graph.facebook.com/v21.0/17841423692689376/media_publish\n{\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think that we've made a mistake.\",\"fbtrace_id\":\"At7WdOgCVVxXAUXQ9yZDCy7\"}}"
   },
   {
-    "id": "2026-09-30-R4",
-    "edition": "editions/2026-09-30",
-    "key": "R4",
-    "due_ist": "2026-09-30T17:00:00",
-    "kind": "reel",
-    "files": [
-      "bail-shivanna-post.mp4"
-    ],
-    "text": "Shiva Rajkumar has two big films in October. Only one is his.\n\nOn Friday, 2 October, he leads Bail as a hard-headed cop who won't drop a dangerous case. Malayalam star Jayaram, Sai Kumar and Dheekshith Shetty are in the cast; B. Ajaneesh Loknath does the music; Pavan Wadeyar (Googly, Natasaarvabhowma) directs. Then on 15 October he's back as Narasimha in Rajinikanth's Jailer 2.\nThe lead or the cameo: which one are you booking?\n\nSource: The Hollywood Reporter India, Glamsham, Wikipedia\nPhotos: Shiva Rajkumar, Vinay R Manuka, CC0 · Shiva Rajkumar, Vinay R Manuka, CC0 · Jayaram, Syedklm, CC BY 4.0 · Yash, Bollywood Hungama, CC BY 3.0 · Rajinikanth, Dani Charles, Silverscreen Media, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #Bail #ShivaRajkumar #Shivanna #Jayaram #PavanWadeyar #Jailer2 #Kannada #Sandalwood",
-    "yt_title": "Bail: Shiva Rajkumar's Cop Film Opens 2 October, Then Jailer 2 | Kannada | Buzzora",
-    "tags": [
-      "Bail",
-      "Bail Kannada movie",
-      "Shiva Rajkumar",
-      "Shivanna",
-      "Jayaram",
-      "Pavan Wadeyar",
-      "Jailer 2",
-      "Kannada cinema",
-      "Sandalwood",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-09-30-bail-shivanna",
-      "vertical": "BUZZ NOW",
-      "format": "news",
-      "industry": "kannada",
-      "hook_type": "claim",
-      "length": "standard"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-30",
-    "status": "published",
-    "staged": {
-      "facebook": "1636056354791630",
-      "youtube": "g7qWVtr2Ba4"
-    },
-    "result": {
-      "facebook": "1636056354791630",
-      "youtube": "g7qWVtr2Ba4",
-      "instagram": "17910485790508733"
-    },
-    "published_at": "2026-09-30T17:00:53.578442+05:30"
-  },
-  {
     "id": "2026-09-30-P3",
     "edition": "editions/2026-09-30",
     "key": "P3",
@@ -1553,49 +1381,6 @@
       "facebook": "122113381575475707"
     },
     "error": "instagram: HTTP 403 on https://graph.facebook.com/v21.0/17841423692689376/media_publish\n{\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think that we've made a mistake.\",\"fbtrace_id\":\"AmyRDAku4icE7hJZK4x34G2\"}}"
-  },
-  {
-    "id": "2026-09-30-R5",
-    "edition": "editions/2026-09-30",
-    "key": "R5",
-    "due_ist": "2026-09-30T19:30:00",
-    "kind": "reel",
-    "files": [
-      "drishyam-zero-cuts-post.mp4"
-    ],
-    "text": "Vijay Salgaonkar's last case just faced the censor board.\n\nThe CBFC passed Drishyam: The Conclusion with a U/A 16+ certificate on 28 September: no cuts, no audio or visual changes. It runs 150 minutes, eight minutes longer than Drishyam 2. Jaideep Ahlawat joins as SP Rajveer Singh Tomar; Tabu, Shriya Saran, Ishita Dutta and Mrunal Jadhav are back. Abhishek Pathak directs. In cinemas Friday, 2 October.\nDoes Vijay get away a third time?\n\nSource: Bollywood Hungama, NewsBytes, Variety India, The Hollywood Reporter India\nPhotos: Ajay Devgn, Bollywood Hungama, CC BY 3.0 · Tabu, Bollywood Hungama, CC BY 3.0 · Jaideep Ahlawat, Bollywood Hungama, CC BY 3.0 · Shriya Saran, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons.\n\n#Buzzora #DrishyamTheConclusion #Drishyam3 #AjayDevgn #JaideepAhlawat #Tabu #Bollywood #BuzzNow",
-    "yt_title": "Drishyam: The Conclusion Cleared With Zero Cuts | Drishyam 3 | Ajay Devgn | Buzzora",
-    "tags": [
-      "Drishyam The Conclusion",
-      "Drishyam 3",
-      "Drishyam 3 runtime",
-      "Ajay Devgn",
-      "Jaideep Ahlawat",
-      "Tabu",
-      "CBFC",
-      "Bollywood",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-09-30-drishyam-zero-cuts",
-      "vertical": "BUZZ NOW",
-      "format": "news",
-      "industry": "bollywood",
-      "hook_type": "claim",
-      "length": "standard"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-30",
-    "status": "published",
-    "staged": {
-      "facebook": "1536325781735933",
-      "youtube": "RF3KVYodZEA"
-    },
-    "result": {
-      "facebook": "1536325781735933",
-      "youtube": "RF3KVYodZEA",
-      "instagram": "18408153409093900"
-    },
-    "published_at": "2026-09-30T19:30:49.611167+05:30"
   },
   {
     "id": "2026-09-30-C3",
@@ -1628,49 +1413,6 @@
       "facebook": "1383947794794733_122113442877475707"
     },
     "error": "instagram: HTTP 403 on https://graph.facebook.com/v21.0/17841423692689376/media_publish\n{\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"Action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think that we've made a mistake.\",\"fbtrace_id\":\"AAT2HzK45h-8zQ1-sO2Cwjj\"}}"
-  },
-  {
-    "id": "2026-09-30-R6",
-    "edition": "editions/2026-09-30",
-    "key": "R6",
-    "due_ist": "2026-09-30T22:00:00",
-    "kind": "reel",
-    "files": [
-      "sardar-before-2-post.mp4"
-    ],
-    "text": "Karthi wore about 15 disguises in one film.\n\nThat's Sardar (2022). He plays both parts: a spy the country wrote off, and his son, a cop who loves publicity. The old spy comes out of hiding to stop a company's plan for the nation's water. It made ₹100 crore worldwide.\nSardar 2 streams on Prime Video from tomorrow, Thursday 1 October, in Tamil, Telugu, Hindi, Malayalam and Kannada, with S. J. Suryah as the villain. It struggled in cinemas; this is its second shot.\nSeen the first one?\n\nSource: Wikipedia (Sardar, Sardar 2), Filmibeat, 123Telugu, Pinkvilla\nPhotos: Karthi, Sriram Narasimhan Silverscreen Media, CC BY-SA 3.0 · Karthi, Dani Charles Silverscreen Media, CC BY-SA 3.0 · Raashii Khanna, Bollywood Hungama, CC BY 3.0 · S. J. Suryah, Silverscreen Media, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #Sardar #Sardar2 #Karthi #SJSuryah #PrimeVideo #Tamil #Kollywood #WatchThis",
-    "yt_title": "Watch Sardar Before Sardar 2 Streams | Karthi's 15-Disguise Spy Hit | Buzzora",
-    "tags": [
-      "Sardar",
-      "Sardar 2",
-      "Sardar 2 OTT",
-      "Karthi",
-      "S. J. Suryah",
-      "P. S. Mithran",
-      "Prime Video",
-      "Tamil movie recommendation",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-09-30-sardar-before-2",
-      "vertical": "WATCH THIS",
-      "format": "recommendation",
-      "industry": "tamil",
-      "hook_type": "claim",
-      "length": "standard"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-09-30",
-    "status": "published",
-    "staged": {
-      "facebook": "920362880867111",
-      "youtube": "qjd_F1Ng4Nc"
-    },
-    "result": {
-      "facebook": "920362880867111",
-      "youtube": "qjd_F1Ng4Nc",
-      "instagram": "17902957170597386"
-    },
-    "published_at": "2026-09-30T22:00:52.159979+05:30"
   },
   {
     "id": "2026-10-01-P1",
@@ -1722,48 +1464,6 @@
     "status": "held"
   },
   {
-    "id": "2026-10-01-R1",
-    "edition": "editions/2026-10-01",
-    "key": "R1",
-    "due_ist": "2026-10-01T13:00:00",
-    "kind": "reel",
-    "files": [
-      "vidya-balki-tamil-post.mp4"
-    ],
-    "text": "R. Balki has only made Hindi films. Until now.\n\nVidya Balan has started shooting a new Tamil film directed by R. Balki, his first in Tamil. She shared the first photo from the set on 29 September: \"New Beginnings. New Tamil Film with R. Balki.\" The title, cast and release date haven't been announced. It's their first film together since Paa (2009), where she played mother to Amitabh Bachchan's Auro.\nBalki in Tamil. Are you in?\n\nSource: The Hollywood Reporter India, Variety India, India TV\nPhotos: Vidya Balan, Bollywood Hungama, CC BY 3.0 · R. Balki, Bollywood Hungama, CC BY 3.0 · Amitabh Bachchan, Studio Harcourt, CC BY 3.0 · via Wikimedia Commons.\n\n#Buzzora #VidyaBalan #RBalki #Paa #TamilCinema #Kollywood #BuzzNow",
-    "yt_title": "Vidya Balan × R. Balki: His First Tamil Film, 17 Years After Paa | Buzzora",
-    "tags": [
-      "Vidya Balan",
-      "R. Balki",
-      "Vidya Balan Tamil film",
-      "R Balki Tamil film",
-      "Paa",
-      "Amitabh Bachchan",
-      "Tamil cinema",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-10-01-vidya-balki-tamil",
-      "vertical": "BUZZ NOW",
-      "format": "news",
-      "industry": "tamil",
-      "hook_type": "claim",
-      "length": "short"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-01",
-    "status": "published",
-    "staged": {
-      "facebook": "1095222793492415",
-      "youtube": "sgh7ldXLkO4"
-    },
-    "result": {
-      "facebook": "1095222793492415",
-      "youtube": "sgh7ldXLkO4",
-      "instagram": "18150413146556024"
-    },
-    "published_at": "2026-10-01T13:01:03.350483+05:30"
-  },
-  {
     "id": "2026-10-01-P2",
     "edition": "editions/2026-10-01",
     "key": "P2",
@@ -1784,91 +1484,6 @@
     },
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-01",
     "status": "held"
-  },
-  {
-    "id": "2026-10-01-R3",
-    "edition": "editions/2026-10-01",
-    "key": "R3",
-    "due_ist": "2026-10-01T14:00:00",
-    "kind": "reel",
-    "files": [
-      "king100-villain-post.mp4"
-    ],
-    "text": "Nagarjuna's 100th film has its villain. He usually plays the nice guy.\n\nREPORTED: Tamil star Ashok Selvan (Oh My Kadavule, Por Thozhil) plays the antagonist in King 100, according to a THR India source close to the film. Tabu is also in it: her first film with Nagarjuna since Aavida Maa Aavide (1998). R.A. Karthik writes and directs, Devi Sri Prasad does the music, and Annapurna Studios produces. It opens worldwide on 24 December.\nKing vs the nice guy. Who wins?\n\nSource: The Hollywood Reporter India (exclusive), 123Telugu, Pinkvilla\nPhotos: Nagarjuna Akkineni, Bollywood Hungama, CC BY 3.0 · Ashok Selvan, Karthik sk, CC BY-SA 4.0 · Tabu, Bollywood Hungama, CC BY 3.0 · Ashok Selvan, Dani Charles Silverscreen Media, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #King100 #Nagarjuna #AshokSelvan #Tabu #Tollywood #Telugu #BuzzNow",
-    "yt_title": "King 100: Ashok Selvan Is Nagarjuna's Villain? Tabu Returns | 24 December | Buzzora",
-    "tags": [
-      "King 100",
-      "Nagarjuna 100th film",
-      "Nagarjuna",
-      "Ashok Selvan",
-      "Tabu",
-      "R.A. Karthik",
-      "Telugu cinema",
-      "Tollywood",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-10-01-king100-villain",
-      "vertical": "BUZZ NOW",
-      "format": "news",
-      "industry": "telugu",
-      "hook_type": "claim",
-      "length": "standard"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-01",
-    "status": "published",
-    "staged": {
-      "facebook": "1117519067482758",
-      "youtube": "uvuXCoj7wZY"
-    },
-    "result": {
-      "facebook": "1117519067482758",
-      "youtube": "uvuXCoj7wZY",
-      "instagram": "18110602538130752"
-    },
-    "published_at": "2026-10-01T14:01:18.152713+05:30"
-  },
-  {
-    "id": "2026-10-01-R2",
-    "edition": "editions/2026-10-01",
-    "key": "R2",
-    "due_ist": "2026-10-01T15:30:00",
-    "kind": "reel",
-    "files": [
-      "maheshinte-prathikaaram-post.mp4"
-    ],
-    "text": "He lost a fight in the street. So he stopped wearing slippers.\n\nThat's Maheshinte Prathikaaram (2016). Fahadh Faasil's Mahesh, a small-town photographer in Idukki, vows to go barefoot until he gets his revenge. Then the rival moves to Dubai. It won two National Awards, including Best Original Screenplay for Syam Pushkaran.\nWhy now: director Dileesh Pothan's next is Nedumkandam Miracle with Mohanlal. He told THR India the script is in its third draft, aiming for 2027.\nOne fight. No slippers. Seen it yet?\n\nSource: Wikipedia, The Hollywood Reporter India\nPhotos: Fahadh Faasil, Asianet, CC BY 3.0 · Soubin Shahir, Asianet, CC BY 3.0 · Aparna Balamurali, Asianet, CC BY 3.0 · Dileesh Pothan, Asianet, CC BY 3.0 · via Wikimedia Commons.\n\n#Buzzora #MaheshintePrathikaaram #FahadhFaasil #DileeshPothan #Mohanlal #Malayalam #Mollywood #WatchThis",
-    "yt_title": "Why Have You Not Seen Maheshinte Prathikaaram? Fahadh Faasil | Dileesh Pothan | Buzzora",
-    "tags": [
-      "Maheshinte Prathikaaram",
-      "Fahadh Faasil",
-      "Dileesh Pothan",
-      "Nedumkandam Miracle",
-      "Mohanlal",
-      "Aparna Balamurali",
-      "Malayalam movie recommendation",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-10-01-maheshinte-prathikaaram",
-      "vertical": "WATCH THIS",
-      "format": "recommendation",
-      "industry": "malayalam",
-      "hook_type": "claim",
-      "length": "standard"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-01",
-    "status": "published",
-    "staged": {
-      "facebook": "27824405117238340",
-      "youtube": "bzbsmVxn_No"
-    },
-    "result": {
-      "facebook": "27824405117238340",
-      "youtube": "bzbsmVxn_No",
-      "instagram": "18188796295406565"
-    },
-    "published_at": "2026-10-01T15:30:50.062753+05:30"
   },
   {
     "id": "2026-10-01-C2",
@@ -1898,48 +1513,6 @@
     "status": "held"
   },
   {
-    "id": "2026-10-01-R4",
-    "edition": "editions/2026-10-01",
-    "key": "R4",
-    "due_ist": "2026-10-01T17:00:00",
-    "kind": "reel",
-    "files": [
-      "stevie-key-of-life-post.mp4"
-    ],
-    "text": "Stevie Wonder kept four songs to himself for 50 years.\n\nNow they're out. Songs in the Key of Life 50: The EP has four unreleased recordings from the 1976 sessions, chosen by Wonder himself: \"It's Easier\", \"My Life Story of Love\", \"I Can See the Sun in Late December\" and \"I'm Into Livin'\". They went live at 4:54 a.m. Pacific time on 29 September, which Rolling Stone says is when the original sessions wrapped. The album turned 50 on 28 September, and he's touring all 17 original tracks.\nWhich one are you playing first?\n\nSource: Rolling Stone, Rolling Stone India, The Irish Times, Euronews\nPhotos: Stevie Wonder (1973), Motown Records, public domain · Stevie Wonder, Nan Palmero, CC BY 2.0 · Stevie Wonder, Antonio Cruz/ABr, CC BY 3.0 br · Stevie Wonder, White House Photo Office, public domain · via Wikimedia Commons.\n\n#Buzzora #StevieWonder #SongsInTheKeyOfLife #NewMusic #Motown #ListenUp",
-    "yt_title": "Stevie Wonder's 4 Unheard Songs in the Key of Life Tracks, 50 Years Later | Buzzora",
-    "tags": [
-      "Stevie Wonder",
-      "Songs in the Key of Life",
-      "Songs in the Key of Life 50",
-      "Stevie Wonder new songs",
-      "It's Easier",
-      "I Can See the Sun in Late December",
-      "Motown",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-10-01-stevie-key-of-life-ep",
-      "vertical": "LISTEN UP",
-      "format": "news",
-      "industry": "music",
-      "hook_type": "claim",
-      "length": "standard"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-01",
-    "status": "published",
-    "staged": {
-      "facebook": "1691056355949159",
-      "youtube": "SiwvFRsdnUs"
-    },
-    "result": {
-      "facebook": "1691056355949159",
-      "youtube": "SiwvFRsdnUs",
-      "instagram": "18158222068509300"
-    },
-    "published_at": "2026-10-01T17:00:51.705208+05:30"
-  },
-  {
     "id": "2026-10-01-P3",
     "edition": "editions/2026-10-01",
     "key": "P3",
@@ -1960,48 +1533,6 @@
     },
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-01",
     "status": "held"
-  },
-  {
-    "id": "2026-10-01-R5",
-    "edition": "editions/2026-10-01",
-    "key": "R5",
-    "due_ist": "2026-10-01T19:30:00",
-    "kind": "reel",
-    "files": [
-      "room-brie-larson-post.mp4"
-    ],
-    "text": "A five-year-old thinks one room is the whole world.\n\nThat's Room (2015), and Brie Larson turns 37 today. She plays Ma, held captive for seven years; her son Jack has never seen outside. Lenny Abrahamson directs from Emma Donoghue's novel. Larson won the Best Actress Oscar, plus the Golden Globe, BAFTA and SAG. Jacob Tremblay was seven during filming.\nHeavy, but full of hope. Seen it yet?\n\nSource: Wikipedia (Room, Brie Larson)\nPhotos: Brie Larson, Gage Skidmore, CC BY-SA 2.0 · Brie Larson, Ian Smith (derivative: RanZag), CC BY-SA 2.0 · Jacob Tremblay, Gage Skidmore, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #Room #BrieLarson #JacobTremblay #WatchThis #BrainOnCinema #Hollywood",
-    "yt_title": "Why Have You Not Seen Room? Brie Larson's Oscar Film | Brie Larson Turns 37 | Buzzora",
-    "tags": [
-      "Room",
-      "Room 2015",
-      "Brie Larson",
-      "Jacob Tremblay",
-      "Lenny Abrahamson",
-      "Oscar winning movies",
-      "movie recommendation",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-10-01-room-brie-larson",
-      "vertical": "WATCH THIS",
-      "format": "recommendation",
-      "industry": "hollywood",
-      "hook_type": "claim",
-      "length": "short"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-01",
-    "status": "published",
-    "staged": {
-      "facebook": "1780012199787324",
-      "youtube": "cU8WksUahUA"
-    },
-    "result": {
-      "facebook": "1780012199787324",
-      "youtube": "cU8WksUahUA",
-      "instagram": "17960414744996746"
-    },
-    "published_at": "2026-10-01T19:30:51.846837+05:30"
   },
   {
     "id": "2026-10-01-C3",
@@ -2029,49 +1560,6 @@
     },
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-01",
     "status": "held"
-  },
-  {
-    "id": "2026-10-01-R6",
-    "edition": "editions/2026-10-01",
-    "key": "R6",
-    "due_ist": "2026-10-01T22:00:00",
-    "kind": "reel",
-    "files": [
-      "drishyam-global-post.mp4"
-    ],
-    "text": "One cover-up has fooled audiences in seven languages. It's not done.\n\nDirector Abhishek Pathak told THR India that Drishyam's Korean remake goes into production in about a month, a Spanish version is underway, and a Hollywood version is being written, all with Panorama Studios.\nIt started with Jeethu Joseph's Malayalam film with Mohanlal (2013), the first Malayalam film to make ₹50 crore. Then came Kannada, Telugu, Tamil (Papanasam) and Hindi, plus Sri Lanka's Dharmayuddhaya and China's Sheep Without a Shepherd. Drishyam: The Conclusion opens tomorrow, Friday 2 October.\nWhich version did you see first?\n\nSource: The Hollywood Reporter India (exclusive), Wikipedia (Drishyam)\nPhotos: Mohanlal, Sanu N, CC BY-SA 4.0 · Ajay Devgn, Bollywood Hungama, CC BY 3.0 · Jeethu Joseph, Sicp, CC BY 3.0 · V. Ravichandran, Jhankar Music, CC BY 3.0 · Venkatesh, Bollywood Hungama, CC BY 3.0 · Kamal Haasan, Gage Skidmore, CC BY-SA 3.0 · Joan Chen, ReverendPoppins, CC BY 4.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #Drishyam #DrishyamTheConclusion #Drishyam3 #Mohanlal #AjayDevgn #KamalHaasan #Papanasam #WhyIsEveryoneTalkingAboutThis",
-    "yt_title": "Drishyam Goes Global: Korean, Spanish and Hollywood Remakes | Drishyam 3 Out Tomorrow | Buzzora",
-    "tags": [
-      "Drishyam",
-      "Drishyam remake",
-      "Drishyam Korean remake",
-      "Drishyam Hollywood remake",
-      "Drishyam The Conclusion",
-      "Drishyam 3",
-      "Mohanlal",
-      "Ajay Devgn",
-      "Papanasam",
-      "Buzzora"
-    ],
-    "meta": {
-      "story_id": "2026-10-01-drishyam-global-remakes",
-      "vertical": "WHY IS EVERYONE TALKING ABOUT THIS?",
-      "format": "news",
-      "industry": "malayalam",
-      "hook_type": "claim",
-      "length": "standard"
-    },
-    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-01",
-    "status": "published",
-    "staged": {
-      "facebook": "1095028059603616"
-    },
-    "result": {
-      "facebook": "1095028059603616",
-      "instagram": "18218959027353614",
-      "youtube": "mHMiHKuotug"
-    },
-    "published_at": "2026-10-01T22:01:22.763796+05:30"
   },
   {
     "id": "2026-10-06-P1",
