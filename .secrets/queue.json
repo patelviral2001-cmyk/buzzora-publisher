@@ -5605,11 +5605,12 @@
       "cut": "early"
     },
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-16",
-    "status": "queued",
+    "status": "failed",
     "staged": {
       "facebook": "2085310125438094",
       "youtube": "DHD3QyHH1Oc"
-    }
+    },
+    "error": "instagram: Instagram rejected the media: Error: Media upload has failed with error code 2207082"
   },
   {
     "id": "2026-10-16-C3",
