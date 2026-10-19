@@ -6240,11 +6240,17 @@
       "cut": "late"
     },
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-19",
-    "status": "queued",
+    "status": "published",
     "staged": {
       "facebook": "2315952389171694",
       "youtube": "DtNotXC4ylc"
-    }
+    },
+    "result": {
+      "facebook": "2315952389171694",
+      "youtube": "DtNotXC4ylc",
+      "instagram": "18090701975230201"
+    },
+    "published_at": "2026-10-19T11:30:52.457055+05:30"
   },
   {
     "id": "2026-10-19-P2",
