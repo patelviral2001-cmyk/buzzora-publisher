@@ -6820,5 +6820,357 @@
       "facebook": "945025438410255",
       "youtube": "iGzaHOi_Ue4"
     }
+  },
+  {
+    "id": "2026-10-29-P1",
+    "edition": "editions/2026-10-29",
+    "key": "P1",
+    "due_ist": "2026-10-29T08:00:00",
+    "kind": "post",
+    "files": [
+      "ramayana-runtime.jpg"
+    ],
+    "text": "195 minutes. Pack snacks.\n\nRamayana: Part 1 reportedly runs 3 hours 15 minutes, one of the longest big Indian releases this year.\nRanbir Kapoor is Rama, Sai Pallavi is Sita, Yash is Ravana and Sunny Deol is Hanuman. A.R. Rahman and Hans Zimmer score; Nitesh Tiwari directs.\nIn cinemas 5 November.\n\nSource: Sacnilk (reported runtime; full-feature certificate not yet confirmed)\nPhoto: Ranbir Kapoor, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons.\n\n#Buzzora #Ramayana #RanbirKapoor #SaiPallavi #Yash #NiteshTiwari #BuzzNow",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-10-29-ramayana-runtime",
+      "vertical": "BUZZ NOW",
+      "format": "news",
+      "industry": "bollywood",
+      "hook_type": "number"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-29",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-29-R1",
+    "edition": "editions/2026-10-29",
+    "key": "R1",
+    "due_ist": "2026-10-29T09:00:00",
+    "kind": "reel",
+    "files": [
+      "dharman-nayanthara-post.mp4"
+    ],
+    "text": "Dharman: Rajinikanth's next has its heroine. They've done this five times before.\n\nNayanthara joins Dharman (formerly Thalaivar 173), her sixth film with Rajinikanth after Chandramukhi, Sivaji, Kuselan, Darbar and Annaatthe.\nAshwath Marimuthu directs. Kamal Haasan produces under Raaj Kamal Films. Anirudh scores; Raashii Khanna and Simran co-star. The director says the shoot wraps in October.\n\nSource: The Hollywood Reporter India (26 October)\nPhotos: Rajinikanth, Dani Charles, Silverscreen, CC BY-SA 3.0 · Nayanthara, Bollywood Hungama, CC BY 3.0 · Kamal Haasan, Gage Skidmore, CC BY-SA 3.0 · Anirudh Ravichander, Surajram Kumaravel, CC BY 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\nNo music track is used.\n\n#Buzzora #Dharman #Rajinikanth #Nayanthara #KamalHaasan #Anirudh #Thalaivar173 #Kollywood #BuzzNow",
+    "yt_title": "Dharman: Nayanthara Joins Rajinikanth for Their Sixth Film | Thalaivar 173 | Buzzora",
+    "tags": [
+      "Dharman",
+      "Thalaivar 173",
+      "Rajinikanth",
+      "Nayanthara",
+      "Kamal Haasan",
+      "Ashwath Marimuthu",
+      "Anirudh",
+      "Tamil movie",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-10-29-dharman-nayanthara",
+      "vertical": "BUZZ NOW",
+      "format": "news",
+      "industry": "tamil",
+      "hook_type": "name-first",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-29",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-29-C1",
+    "edition": "editions/2026-10-29",
+    "key": "C1",
+    "due_ist": "2026-10-29T10:30:00",
+    "kind": "carousel",
+    "files": [
+      "rn-01.jpg",
+      "rn-02.jpg",
+      "rn-03.jpg",
+      "rn-04.jpg",
+      "rn-05.jpg",
+      "rn-06.jpg",
+      "rn-07.jpg"
+    ],
+    "text": "Rajini and Nayanthara. Film No. 6.\n\nShe joins his Dharman. The five before it:\n2005 · Chandramukhi (P. Vasu)\n2007 · Sivaji (Shankar), a song appearance\n2008 · Kuselan (P. Vasu)\n2020 · Darbar (A.R. Murugadoss)\n2021 · Annaatthe (Siva)\nNext: Dharman. Kamal Haasan produces, Ashwath Marimuthu directs, Anirudh scores.\n\nSource: The Hollywood Reporter India; Wikipedia\nPhotos: Nayanthara, Bollywood Hungama, CC BY 3.0 · Jyothika, Sicp, CC BY 3.0 · Shankar, Bollywood Hungama, CC BY 3.0 · Rajinikanth, Bollywood Hungama, CC BY 3.0 · Rajinikanth, Dani Charles, Silverscreen, CC BY-SA 3.0 · Kamal Haasan, Gage Skidmore, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #Rajinikanth #Nayanthara #Dharman #Chandramukhi #Sivaji #Darbar #Annaatthe #DeepCut",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-10-29-dharman-nayanthara",
+      "vertical": "DEEP CUT",
+      "format": "list",
+      "industry": "tamil",
+      "hook_type": "number"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-29",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-29-R2",
+    "edition": "editions/2026-10-29",
+    "key": "R2",
+    "due_ist": "2026-10-29T11:30:00",
+    "kind": "reel",
+    "files": [
+      "jailer2-day13-post.mp4"
+    ],
+    "text": "Jailer 2 box office: Rajinikanth's Jailer 2 is slowing down. Here's how far it got first.\n\nAfter 13 days, Sacnilk estimates ₹744 crore worldwide: ₹415.65 crore net in India and ₹257.5 crore overseas. Tuesday, day 13, added about ₹7.5 crore in India. It's the first Tamil film past ₹700 crore, per trade trackers.\nAnd last Friday, Rajinikanth slipped into a Chennai screening, his first with fans in 40 years, IANS reports.\nTrade estimates only; trackers differ and the producers haven't confirmed.\n\nSource: Sacnilk, ETV Bharat, Zee Business (trade estimates; REPORTED); DT Next / IANS\nPhotos: Rajinikanth, Dani Charles, Silverscreen, CC BY-SA 3.0 · Nelson Dilipkumar, Naveen Thavaneshwar, CC0 · Rajinikanth, Bollywood Hungama, CC BY 3.0 · Anirudh Ravichander, Surajram Kumaravel, CC BY 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\nNo music track is used.\n\n#Buzzora #Jailer2 #Rajinikanth #Jailer2BoxOffice #Nelson #Kollywood #BoxOffice",
+    "yt_title": "Jailer 2 Box Office Day 13: Rajinikanth's Sequel at ₹744 Crore Worldwide (Trade Estimate) | Buzzora",
+    "tags": [
+      "Jailer 2",
+      "Jailer 2 box office",
+      "Jailer 2 collection day 13",
+      "Rajinikanth",
+      "Nelson Dilipkumar",
+      "Tamil box office",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-10-29-jailer2-day13",
+      "vertical": "BUZZ NOW",
+      "format": "news",
+      "industry": "tamil",
+      "hook_type": "name-first",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-29",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-29-P2",
+    "edition": "editions/2026-10-29",
+    "key": "P2",
+    "due_ist": "2026-10-29T13:00:00",
+    "kind": "post",
+    "files": [
+      "jailer2-post.jpg"
+    ],
+    "text": "Jailer 2: ₹744 crore. And slowing down.\n\nAfter 13 days, Sacnilk puts Jailer 2 at about ₹744 crore worldwide: ₹415.65 crore net in India, ₹257.5 crore overseas. Tuesday added about ₹7.5 crore in India.\nTrade estimates only; the producers haven't confirmed.\n\nSource: Sacnilk, ETV Bharat (trade estimates)\nPhoto: Rajinikanth, Dani Charles, Silverscreen, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #Jailer2 #Rajinikanth #BoxOffice #Kollywood",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-10-29-jailer2-day13",
+      "vertical": "BUZZ NOW",
+      "format": "news",
+      "industry": "tamil",
+      "hook_type": "number"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-29",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-29-R3",
+    "edition": "editions/2026-10-29",
+    "key": "R3",
+    "due_ist": "2026-10-29T14:00:00",
+    "kind": "reel",
+    "files": [
+      "ramayana-rahman-zimmer-post.mp4"
+    ],
+    "text": "Ramayana runtime: A.R. Rahman scored a 3-hour-15-minute epic. He didn't do it alone.\n\nHans Zimmer (The Lion King, Dune) shares Ramayana's score with Rahman. Two themes are out so far: the Introduction theme (2025) and the Rama Theme (April 2026).\nThe reported runtime is 195 minutes, one of the year's longest. Ranbir Kapoor is Rama, Sai Pallavi Sita, Yash Ravana, Sunny Deol Hanuman. Nitesh Tiwari directs.\nIn cinemas 5 November.\n\nSource: Sacnilk (reported runtime), Film Music Reporter, Wikipedia\nPhotos: A.R. Rahman, Bollywood Hungama, CC BY 3.0 · Hans Zimmer, ColliderVideo, CC BY 3.0 · Ranbir Kapoor, Bollywood Hungama, CC BY 3.0 · Yash, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons.\nNo song audio is used; the soundtrack is a synthesized bed.\n\n#Buzzora #Ramayana #ARRahman #HansZimmer #RanbirKapoor #Yash #ListenUp",
+    "yt_title": "Ramayana Runtime 3 Hours 15 Minutes: A.R. Rahman and Hans Zimmer's Score | Buzzora",
+    "tags": [
+      "Ramayana",
+      "Ramayana runtime",
+      "A.R. Rahman",
+      "Hans Zimmer",
+      "Ramayana music",
+      "Ranbir Kapoor",
+      "Yash",
+      "Nitesh Tiwari",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-10-29-ramayana-rahman-zimmer",
+      "vertical": "LISTEN UP",
+      "format": "news",
+      "industry": "bollywood",
+      "hook_type": "name-first",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-29",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-29-C2",
+    "edition": "editions/2026-10-29",
+    "key": "C2",
+    "due_ist": "2026-10-29T15:30:00",
+    "kind": "carousel",
+    "files": [
+      "hw-01.jpg",
+      "hw-02.jpg",
+      "hw-03.jpg",
+      "hw-04.jpg",
+      "hw-05.jpg",
+      "hw-06.jpg"
+    ],
+    "text": "Halloween is Saturday. Five Indian horror films to watch.\n\nBulbbul (Hindi, 2020, Netflix): Anvita Dutt's gothic fable, with Tripti Dimri.\nStree (Hindi, 2018): the town that writes 'come back tomorrow' on its walls.\nPari (Hindi, 2018): Anushka Sharma, chained in a hut.\nEzra (Malayalam, 2017): Prithviraj buys an antique box. It came with a dybbuk.\nBramayugam (Malayalam, 2024, SonyLIV): black and white, and Mammootty as a very wrong host.\n\nSource: Wikipedia\nPhotos: Tripti Dimri, Bollywood Hungama, CC BY 3.0 · Shraddha Kapoor, Bollywood Hungama, CC BY 3.0 · Anushka Sharma, Bollywood Hungama, CC BY 3.0 · Prithviraj Sukumaran, Bollywood Hungama, CC BY 3.0 · Mammootty, Anees Kodiyathur, CC BY 3.0 · via Wikimedia Commons.\n\n#Buzzora #ActuallyScary #Halloween #Bulbbul #Stree #Pari #Ezra #Bramayugam #IndianHorror",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-10-29-halloween-horror",
+      "vertical": "WATCH THIS",
+      "format": "recommendation",
+      "industry": "other",
+      "hook_type": "claim"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-29",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-29-R4",
+    "edition": "editions/2026-10-29",
+    "key": "R4",
+    "due_ist": "2026-10-29T17:00:00",
+    "kind": "reel",
+    "files": [
+      "dangal-before-ramayana-post.mp4"
+    ],
+    "text": "Watch Dangal before Ramayana. Aamir Khan made India's biggest hit with Ramayana's director.\n\nDangal (2016, Hindi) is still the highest-grossing Indian film worldwide, at an estimated ₹2,000 crore. Aamir Khan plays Mahavir Singh Phogat, who trains his daughters Geeta and Babita to wrestle. It won Filmfare's Best Film, Director and Actor.\nNitesh Tiwari directed it. His Ramayana, with Ranbir Kapoor, opens 5 November.\n\nSource: Wikipedia (Dangal), Sacnilk (Ramayana)\nPhotos: Aamir Khan, Bollywood Hungama, CC BY 3.0 · Nitesh Tiwari, Bollywood Hungama, CC BY 3.0 · Ranbir Kapoor, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons.\nNo music track is used.\n\n#Buzzora #Dangal #AamirKhan #NiteshTiwari #Ramayana #WatchThis",
+    "yt_title": "Watch Dangal Before Ramayana: Aamir Khan's Record Hit From Nitesh Tiwari | Buzzora",
+    "tags": [
+      "Dangal",
+      "Ramayana",
+      "Aamir Khan",
+      "Nitesh Tiwari",
+      "Ranbir Kapoor",
+      "Bollywood",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-10-29-dangal-before-ramayana",
+      "vertical": "WATCH THIS",
+      "format": "recommendation",
+      "industry": "bollywood",
+      "hook_type": "name-first",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-29",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-29-P3",
+    "edition": "editions/2026-10-29",
+    "key": "P3",
+    "due_ist": "2026-10-29T18:30:00",
+    "kind": "post",
+    "files": [
+      "mookuthi-amman-rec.jpg"
+    ],
+    "text": "A goddess. A godman. A very bad week.\n\nIn Mookuthi Amman (2020), a Nagercoil news anchor teams up with a goddess, played by Nayanthara, to expose a fake godman. RJ Balaji co-directs and stars, with Urvashi as his mum.\nNayanthara returns in Mookuthi Amman 2, directed by Sundar C, in cinemas 6 November.\n\nSource: Wikipedia (Mookuthi Amman, Mookuthi Amman 2)\nPhoto: Nayanthara, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons.\n\n#Buzzora #MookuthiAmman #MookuthiAmman2 #Nayanthara #RJBalaji #WatchThis",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-10-29-mookuthi-amman-rec",
+      "vertical": "WATCH THIS",
+      "format": "recommendation",
+      "industry": "tamil",
+      "hook_type": "claim"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-29",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-29-R5",
+    "edition": "editions/2026-10-29",
+    "key": "R5",
+    "due_ist": "2026-10-29T19:30:00",
+    "kind": "reel",
+    "files": [
+      "rc17-sukumar-post.mp4"
+    ],
+    "text": "RC17: Ram Charan grew a ponytail. Blame the director of Rangasthalam.\n\nSukumar (Pushpa) reunites with Ram Charan for RC17, eight years after Rangasthalam, for Mythri Movie Makers. A viral photo shows Ram Charan's makeover for the role: ponytail, glasses.\nProducer Ravi Shankar says the pooja is on Sunday, 1 November (the launch was earlier expected on 26 or 27 October). The heroine isn't announced yet.\n\nSource: Gulte, Deccan Chronicle (launch date REPORTED)\nPhotos: Ram Charan, Bollywood Hungama, CC BY 3.0 · Samantha, Dani Charles, Silverscreen Media Inc., CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\nNo music track is used.\n\n#Buzzora #RC17 #RamCharan #Sukumar #MythriMovieMakers #Rangasthalam #Tollywood #BuzzNow",
+    "yt_title": "RC17: Ram Charan and Sukumar Reunite After Rangasthalam, Pooja on 1 November | Buzzora",
+    "tags": [
+      "RC17",
+      "Ram Charan",
+      "Sukumar",
+      "Ram Charan new look",
+      "Rangasthalam",
+      "Mythri Movie Makers",
+      "Telugu movie",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-10-29-rc17-sukumar",
+      "vertical": "BUZZ NOW",
+      "format": "news",
+      "industry": "telugu",
+      "hook_type": "name-first",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-29",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-29-C3",
+    "edition": "editions/2026-10-29",
+    "key": "C3",
+    "due_ist": "2026-10-29T21:00:00",
+    "kind": "carousel",
+    "files": [
+      "rm-01.jpg",
+      "rm-02.jpg",
+      "rm-03.jpg",
+      "rm-04.jpg",
+      "rm-05.jpg",
+      "rm-06.jpg"
+    ],
+    "text": "Why is everyone talking about Ramayana? It opens 5 November. Who's who.\n\nRanbir Kapoor: Rama (he has confirmed a second role too).\nSai Pallavi: Sita. On 20 November she's also a cop in Om.\nYash: Ravana.\nSunny Deol: Hanuman, missing from the trailer.\nNitesh Tiwari directs; A.R. Rahman and Hans Zimmer score. Part 1 of two; reported runtime 3 hours 15 minutes.\n\nSource: Sacnilk, Gulf News, Wikipedia\nPhotos: Sai Pallavi, Bollywood Hungama, CC BY 3.0 · Ranbir Kapoor, Bollywood Hungama, CC BY 3.0 · Yash, Bollywood Hungama, CC BY 3.0 · Sunny Deol, Bollywood Hungama, CC BY 3.0 · Nitesh Tiwari, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons.\n\n#Buzzora #Ramayana #RanbirKapoor #SaiPallavi #Yash #SunnyDeol #NiteshTiwari",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-10-29-ramayana-runtime",
+      "vertical": "WHY IS EVERYONE TALKING ABOUT THIS?",
+      "format": "explainer",
+      "industry": "bollywood",
+      "hook_type": "claim"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-29",
+    "status": "queued"
+  },
+  {
+    "id": "2026-10-29-R6",
+    "edition": "editions/2026-10-29",
+    "key": "R6",
+    "due_ist": "2026-10-29T22:00:00",
+    "kind": "reel",
+    "files": [
+      "dare-devil-ajith-post.mp4"
+    ],
+    "text": "Dare Devil: Ajith Kumar starts a new film on Monday. The first poster was a hint.\n\nThe first look: white suit, salt-and-pepper hair, a red chair and a die in his hand. Director Adhik Ravichandran (Good Bad Ugly) says filming begins on 2 November.\nIt's Ajith's 64th film. Anirudh scores, his third Ajith film after Vedhalam and Vidaamuyarchi. Shalini Ajith Kumar produces, her debut as a producer.\n\nSource: NewsBytes, Pinkvilla, DT Next, Gulte\nPhotos: Ajith Kumar, Bollywood Hungama, CC BY 3.0 · Anirudh Ravichander, Surajram Kumaravel, CC BY 3.0 · via Wikimedia Commons.\nNo music track is used.\n\n#Buzzora #DareDevil #AjithKumar #AK64 #AdhikRavichandran #Anirudh #Kollywood #BuzzNow",
+    "yt_title": "Dare Devil: Ajith Kumar's AK64 With Adhik Ravichandran Starts Shooting 2 November | Buzzora",
+    "tags": [
+      "Dare Devil",
+      "AK64",
+      "Ajith Kumar",
+      "Adhik Ravichandran",
+      "Anirudh",
+      "Shalini Ajith",
+      "Tamil movie",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-10-29-dare-devil-ajith",
+      "vertical": "BUZZ NOW",
+      "format": "news",
+      "industry": "tamil",
+      "hook_type": "name-first",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-29",
+    "status": "queued"
   }
 ]
