@@ -6839,11 +6839,17 @@
       "audio": "temp"
     },
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-10-28",
-    "status": "queued",
+    "status": "published",
     "staged": {
       "facebook": "945025438410255",
       "youtube": "iGzaHOi_Ue4"
-    }
+    },
+    "result": {
+      "facebook": "945025438410255",
+      "youtube": "iGzaHOi_Ue4",
+      "instagram": "18150112159564652"
+    },
+    "published_at": "2026-10-28T22:00:49.761976+05:30"
   },
   {
     "id": "2026-10-29-P1",
