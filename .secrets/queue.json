@@ -7897,5 +7897,350 @@
       "facebook": "990511320768599",
       "youtube": "sgb2982p-Vo"
     }
+  },
+  {
+    "id": "2026-11-03-P1",
+    "edition": "editions/2026-11-03",
+    "key": "P1",
+    "due_ist": "2026-11-03T08:00:00",
+    "kind": "post",
+    "files": [
+      "bachelor-party-deux.jpg"
+    ],
+    "text": "Bachelor Party is back. 14 years later.\n\nAmal Neerad's Bachelor Party D'eux opens in cinemas on 19 November, 14 years after his 2012 black comedy Bachelor Party. Naslen leads; Kunchacko Boban, Soubin Shahir, Sharafudheen, Sreenath Bhasi and Chandhu Salimkumar are in the gang, and Tovino Thomas has a cameo. Christo Xavier does the music.\n\nSource: The Hollywood Reporter India, Onmanorama\nPhoto: Naslen, Square457, CC0 · via Wikimedia Commons.\n\n#Buzzora #BachelorPartyDeux #Naslen #AmalNeerad #KunchackoBoban #Malayalam #TheDrop",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-11-03-bachelor-party-deux",
+      "vertical": "THE DROP",
+      "format": "news",
+      "industry": "malayalam",
+      "hook_type": "claim"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-03",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-03-R1",
+    "edition": "editions/2026-11-03",
+    "key": "R1",
+    "due_ist": "2026-11-03T09:00:00",
+    "kind": "reel",
+    "files": [
+      "ak47-weekend-post.mp4"
+    ],
+    "text": "AK47 box office: Venkatesh's AK47 kept growing. Sunday was its best day.\n\n₹50.95 crore gross worldwide in its first three days (30 October to 1 November), per trade tracker Sacnilk.\nIndia net: ₹9.75 crore on Friday, ₹10.4 crore on Saturday, ₹11.25 crore on Sunday. Overseas: ₹14.1 crore.\nThese are trade estimates, not producer figures. Ramayana opens on 5 November.\n\nSource: Sacnilk (trade estimates)\nPhotos: Venkatesh, Bollywood Hungama, CC BY 3.0 · Trivikram Srinivas, Dhanunjaya Naidu, CC BY-SA 4.0 · Srinidhi Shetty, Dani Charles, Silverscreen, CC BY-SA 3.0 · Ranbir Kapoor, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\nNo music track is used.\n\n#Buzzora #AK47 #AadarshaKutumbam #Venkatesh #Trivikram #BoxOffice",
+    "yt_title": "AK47 Box Office Day 3: Venkatesh's Film Crosses ₹50 Crore Worldwide | Buzzora",
+    "tags": [
+      "AK47",
+      "AK47 box office",
+      "AK47 day 3 collection",
+      "Aadarsha Kutumbam",
+      "Venkatesh",
+      "Trivikram",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-11-03-ak47-weekend",
+      "vertical": "BUZZ NOW",
+      "format": "news",
+      "industry": "telugu",
+      "hook_type": "name-first",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-03",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-03-C1",
+    "edition": "editions/2026-11-03",
+    "key": "C1",
+    "due_ist": "2026-11-03T10:30:00",
+    "kind": "carousel",
+    "files": [
+      "ss-01.jpg",
+      "ss-02.jpg",
+      "ss-03.jpg",
+      "ss-04.jpg",
+      "ss-05.jpg",
+      "ss-06.jpg"
+    ],
+    "text": "Sushin Shyam goes Tamil. Hear these first.\n\nHis first Tamil film, Suriya's Scene, opens on 6 November. Four Malayalam scores to know before it:\nKumbalangi Nights (2019): the Kerala State Award one, with \"Cherathukal\".\nVarathan (2018): his first SIIMA Best Music Director.\nBheeshma Parvam (2022): Mammootty's gangster saga and \"Be Notorious\".\nAavesham (2024): Jithu Madhavan's gangster comedy, Filmfare Best Music Director (Malayalam).\nScene reunites him with Jithu Madhavan.\n\nSource: Wikipedia (Sushin Shyam), DT Next\nPhotos: Sushin Shyam, Sai K shanmugam, CC BY-SA 4.0 · Soubin Shahir, Asianet, CC BY 3.0 · Fahadh Faasil, Asianet, CC BY 3.0 · Mammootty, Firoze Edassery, CC BY-SA 4.0 · Fahadh Faasil, AhamBrahmasmi, CC BY-SA 4.0 · Suriya, Epsajeevan, CC BY-SA 4.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #SushinShyam #Scene #KumbalangiNights #Aavesham #BheeshmaParvam #ListenUp",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-11-03-sushin-shyam-start",
+      "vertical": "LISTEN UP",
+      "format": "list",
+      "industry": "music",
+      "hook_type": "name-first"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-03",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-03-R2",
+    "edition": "editions/2026-11-03",
+    "key": "R2",
+    "due_ist": "2026-11-03T11:30:00",
+    "kind": "reel",
+    "files": [
+      "scene-trailer-post.mp4"
+    ],
+    "text": "Scene trailer: Suriya quits the police. It doesn't last.\n\nThe trailer, launched in Chennai on 31 October: Suriya's Inbaraj resigns, then his old senior Stephen pulls him back in to investigate a murder. Naslen plays Eeswaran, a criminal as sharp as the cop. Nazriya Nazim is Maya, who turns up as house help and turns out to be much more. It signs off with a nod to Suriya's Singam cop, Durai Singam.\nJithu Madhavan directs; Sushin Shyam does the music. In cinemas on 6 November.\n\nSource: Outlook India, DT Next\nPhotos: Suriya, Epsajeevan, CC BY-SA 4.0 · Naslen, Square457, CC0 · Nazriya Nazim, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\nNo music track is used.\n\n#Buzzora #Scene #SceneTrailer #Suriya #Naslen #NazriyaNazim #JithuMadhavan",
+    "yt_title": "Scene Trailer: Suriya Quits the Police, Naslen and Nazriya Join Jithu Madhavan's Film | Buzzora",
+    "tags": [
+      "Scene trailer",
+      "Scene movie",
+      "Suriya",
+      "Suriya Scene",
+      "Naslen",
+      "Nazriya Nazim",
+      "Jithu Madhavan",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-11-03-scene-trailer",
+      "vertical": "BUZZ NOW",
+      "format": "news",
+      "industry": "tamil",
+      "hook_type": "name-first",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-03",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-03-P2",
+    "edition": "editions/2026-11-03",
+    "key": "P2",
+    "due_ist": "2026-11-03T13:00:00",
+    "kind": "post",
+    "files": [
+      "suriya-thanks-deva.jpg"
+    ],
+    "text": "Suriya's big night. A thank-you to Deva.\n\nAt Scene's audio and trailer launch in Chennai on 31 October, Suriya opened his speech by honouring composer Deva, who scored his debut film, Nerukku Ner (1997). He also thanked Dhanush for moving Om, which kept the two films from clashing.\nScene opens on 6 November.\n\nSource: DT Next\nPhoto: Suriya, Epsajeevan, CC BY-SA 4.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #Suriya #Deva #Scene #NerukkuNer #TamilCinema",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-11-03-suriya-thanks-deva",
+      "vertical": "BUZZ NOW",
+      "format": "news",
+      "industry": "tamil",
+      "hook_type": "name-first"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-03",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-03-R3",
+    "edition": "editions/2026-11-03",
+    "key": "R3",
+    "due_ist": "2026-11-03T14:00:00",
+    "kind": "reel",
+    "files": [
+      "rc17-anirudh-post.mp4"
+    ],
+    "text": "RC17: Ram Charan and Sukumar are back. Guess who's on music.\n\nVariety India reports that Anirudh Ravichander is scoring RC17. The makers haven't announced a composer yet. It would be Sukumar's first film with Anirudh; he has usually worked with Devi Sri Prasad. Anirudh was once set to score Ram Charan's Bruce Lee (2015) but left over dates.\nThe film launched with a pooja in Hyderabad on 1 November, where Chiranjeevi gave the first clap. Mythri Movie Makers and Sukumar Writings produce with T-Series.\n\nSource: Variety India (reported), Pinkvilla, Sakshi Post\nPhotos: Ram Charan, Bollywood Hungama, CC BY 3.0 · Anirudh Ravichander, Surajram Kumaravel, CC BY 3.0 · Sukumar, Film Companion South, CC BY 3.0 · Chiranjeevi, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons.\nNo music track is used.\n\n#Buzzora #RC17 #RamCharan #Sukumar #Anirudh #Chiranjeevi #ListenUp",
+    "yt_title": "RC17: Anirudh Ravichander to Score Ram Charan and Sukumar's Film? | Buzzora",
+    "tags": [
+      "RC17",
+      "Ram Charan",
+      "Sukumar",
+      "Anirudh Ravichander",
+      "RC17 music director",
+      "Chiranjeevi",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-11-03-rc17-anirudh",
+      "vertical": "LISTEN UP",
+      "format": "news",
+      "industry": "telugu",
+      "hook_type": "name-first",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-03",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-03-C2",
+    "edition": "editions/2026-11-03",
+    "key": "C2",
+    "due_ist": "2026-11-03T15:30:00",
+    "kind": "carousel",
+    "files": [
+      "sa-01.jpg",
+      "sa-02.jpg",
+      "sa-03.jpg",
+      "sa-04.jpg",
+      "sa-05.jpg",
+      "sa-06.jpg"
+    ],
+    "text": "20 films. One director. Now, his son.\n\nSathyan Anthikad says he has directed 20 of Mohanlal's films. His son Anoop Sathyan has just started L368 with Mohanlal. Four to know first:\nT. P. Balagopalan M. A. (1986): Mohanlal's first Kerala State Award for Best Actor.\nNadodikkattu (1987): Dasan and Vijayan. Sreenivasan wrote it and co-starred.\nRasathanthram (2006): written and directed by Anthikad, with Meera Jasmine.\nHridayapoorvam (2025): their latest reunion.\n\nSource: Onmanorama, Wikipedia (Sathyan Anthikad, T. P. Balagopalan M. A., Nadodikkattu, Rasathanthram)\nPhotos: Mohanlal, SidhardhRamesh, CC BY-SA 3.0 · Mohanlal, Bollywood Hungama, CC BY 3.0 · Sreenivasan, Anees Kodiyathur, CC BY 3.0 · Sathyan Anthikad, Qbeats00, CC0 · Mukesh, Fotokannan, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #Mohanlal #SathyanAnthikad #AnoopSathyan #L368 #Nadodikkattu #DeepCut",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-11-03-anthikad-mohanlal",
+      "vertical": "DEEP CUT",
+      "format": "list",
+      "industry": "malayalam",
+      "hook_type": "number"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-03",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-03-R4",
+    "edition": "editions/2026-11-03",
+    "key": "R4",
+    "due_ist": "2026-11-03T17:00:00",
+    "kind": "reel",
+    "files": [
+      "kgf2-before-ramayana-post.mp4"
+    ],
+    "text": "Watch KGF Chapter 2 before Ramayana: Yash plays Ravana on 5 November. First, the film that made him huge.\n\nKGF: Chapter 2 (2022, Kannada, Prime Video) made ₹1,215 crore worldwide, per Sacnilk. It's still Yash's only ₹1,000-crore film.\nPrashanth Neel's sequel follows Rocky, the boy from Bombay who takes over the Kolar gold fields. Sanjay Dutt plays Adheera; Raveena Tandon plays Prime Minister Ramika Sen.\nYash's Monster Mind Creations also co-produces Ramayana.\n\nSource: Sacnilk, Wikipedia (KGF: Chapter 2), Bollywood Hungama (Prime Video)\nPhotos: Yash, Bollywood Hungama, CC BY 3.0 · Prashanth Neel, Sriram Narasimhan, CC BY-SA 3.0 · Sanjay Dutt, Bollywood Hungama, CC BY 3.0 · Raveena Tandon, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\nNo music track is used.\n\n#Buzzora #KGFChapter2 #Yash #Ramayana #PrashanthNeel #SanjayDutt #WatchThis",
+    "yt_title": "Watch KGF Chapter 2 Before Ramayana: Yash Plays Ravana on 5 November | Prime Video | Buzzora",
+    "tags": [
+      "KGF Chapter 2",
+      "Yash",
+      "Ramayana",
+      "Yash Ravana",
+      "Prashanth Neel",
+      "Prime Video",
+      "Kannada",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-11-03-kgf2-before-ramayana",
+      "vertical": "WATCH THIS",
+      "format": "recommendation",
+      "industry": "kannada",
+      "hook_type": "name-first",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-03",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-03-P3",
+    "edition": "editions/2026-11-03",
+    "key": "P3",
+    "due_ist": "2026-11-03T18:30:00",
+    "kind": "post",
+    "files": [
+      "romancham-rec.jpg"
+    ],
+    "text": "Hidden gem before Scene: Seven bachelors. One spirit board. Bad idea.\n\nRomancham (2023) is where Scene's director Jithu Madhavan started: a Malayalam horror comedy about seven bachelors in a Bengaluru house. Made for under ₹3 crore, it grossed about ₹70 crore. Soubin Shahir and Arjun Ashokan star; Sushin Shyam did the music. On JioHotstar.\n\nSource: Wikipedia (Romancham)\nPhoto: Soubin Shahir, Asianet, CC BY 3.0 · via Wikimedia Commons.\n\n#Buzzora #Romancham #JithuMadhavan #SoubinShahir #HiddenGem #Malayalam",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-11-03-romancham-rec",
+      "vertical": "WATCH THIS",
+      "format": "recommendation",
+      "industry": "malayalam",
+      "hook_type": "claim"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-03",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-03-R5",
+    "edition": "editions/2026-11-03",
+    "key": "R5",
+    "due_ist": "2026-11-03T19:30:00",
+    "kind": "reel",
+    "files": [
+      "mohanlal-l368-post.mp4"
+    ],
+    "text": "Mohanlal L368: Mohanlal's new director is a familiar name. Sort of.\n\nAnoop Sathyan, son of Sathyan Anthikad, directs L368, which started shooting in Kochi after a pooja on 30 October. His father says he has made 20 films with Mohanlal; this is Anoop's second film, six years after Varane Avashyamund (2020).\nMukesh co-stars. Aashirvad Cinemas and Binu George Alexander produce. L368 is a working title.\n\nSource: Onmanorama, ap7am, Wikipedia\nPhotos: Mohanlal, SidhardhRamesh, CC BY-SA 3.0 · Sathyan Anthikad, Qbeats00, CC0 · Mukesh, Fotokannan, CC BY-SA 3.0 · Mohanlal, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\nNo music track is used.\n\n#Buzzora #Mohanlal #L368 #AnoopSathyan #SathyanAnthikad #Mukesh #Malayalam",
+    "yt_title": "Mohanlal L368: Sathyan Anthikad's Son Anoop Sathyan Directs | Buzzora",
+    "tags": [
+      "Mohanlal",
+      "L368",
+      "Mohanlal new movie",
+      "Anoop Sathyan",
+      "Sathyan Anthikad",
+      "Mukesh",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-11-03-mohanlal-l368",
+      "vertical": "BUZZ NOW",
+      "format": "news",
+      "industry": "malayalam",
+      "hook_type": "name-first",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-03",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-03-C3",
+    "edition": "editions/2026-11-03",
+    "key": "C3",
+    "due_ist": "2026-11-03T21:00:00",
+    "kind": "carousel",
+    "files": [
+      "ak-01.jpg",
+      "ak-02.jpg",
+      "ak-03.jpg",
+      "ak-04.jpg",
+      "ak-05.jpg"
+    ],
+    "text": "₹50.95 crore. Three days.\n\nAK47's opening weekend worldwide, per trade tracker Sacnilk. India net: ₹9.75 crore Friday, ₹10.4 crore Saturday, ₹11.25 crore Sunday. Overseas: ₹14.1 crore.\nTrade estimates, not producer figures. Ramayana arrives on 5 November.\n\nSource: Sacnilk (trade estimates)\nPhotos: Venkatesh, Bollywood Hungama, CC BY 3.0 · Trivikram Srinivas, Dhanunjaya Naidu, CC BY-SA 4.0 · Srinidhi Shetty, Dani Charles, Silverscreen, CC BY-SA 3.0 · S. Thaman, Gowrishanker Siva, Silverscreen Media Inc., CC BY-SA 3.0 · Ranbir Kapoor, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #AK47 #Venkatesh #Trivikram #BoxOffice #Telugu",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-11-03-ak47-weekend",
+      "vertical": "BUZZ NOW",
+      "format": "list",
+      "industry": "telugu",
+      "hook_type": "number"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-03",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-03-R6",
+    "edition": "editions/2026-11-03",
+    "key": "R6",
+    "due_ist": "2026-11-03T22:00:00",
+    "kind": "reel",
+    "files": [
+      "we-were-here-post.mp4"
+    ],
+    "text": "We Were Here: Priyanka Chopra Jonas backed an Indian short. So did a Fleabag star.\n\nPriyanka has joined Pranav Bhasin's short film We Were Here as an executive producer, alongside Andrew Scott. \"I jumped at the opportunity,\" she told THR India.\nIt's a comedy about three retired men in a small Indian town who protest automation by pretending to be household appliances. It has played 80+ festivals and won 20+ awards, including two at Palm Springs ShortFest, which made it Oscar-eligible. The New Yorker bought it and will premiere it on its YouTube channels.\n\nSource: The Hollywood Reporter India\nPhotos: Priyanka Chopra Jonas, Bollywood Hungama, CC BY 3.0 · Andrew Scott, Elena Ternovaja, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\nNo music track is used.\n\n#Buzzora #WeWereHere #PriyankaChopra #AndrewScott #PranavBhasin #ShortFilm",
+    "yt_title": "Priyanka Chopra and Andrew Scott Back Oscar-Eligible Short We Were Here | Buzzora",
+    "tags": [
+      "Priyanka Chopra",
+      "Andrew Scott",
+      "We Were Here short film",
+      "Pranav Bhasin",
+      "Oscar",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-11-03-we-were-here",
+      "vertical": "BUZZ NOW",
+      "format": "news",
+      "industry": "bollywood",
+      "hook_type": "name-first",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-03",
+    "status": "queued"
   }
 ]
