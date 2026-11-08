@@ -8639,5 +8639,359 @@
       "facebook": "1835869447561637",
       "youtube": "fLAURoCa6-g"
     }
+  },
+  {
+    "id": "2026-11-09-P1",
+    "edition": "editions/2026-11-09",
+    "key": "P1",
+    "due_ist": "2026-11-09T08:00:00",
+    "kind": "post",
+    "files": [
+      "last-man-in-tower-zee5.jpg"
+    ],
+    "text": "Missed it in cinemas? Last Man in Tower is streaming on ZEE5.\n\nManoj Bajpayee plays Yogesh Mishra, a retired teacher who refuses to leave his Mumbai building when everyone else wants the builder's payout. Boman Irani plays the builder; it's their first film together. Ben Rekhi directs, from Aravind Adiga's novel, and Rana Daggubati co-produces. Divya Dutta also stars.\n\nSource: The Hollywood Reporter India, NewsBytes, 123Telugu\nPhoto: Manoj Bajpayee, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons.\n\n#Buzzora #LastManInTower #ManojBajpayee #BomanIrani #ZEE5",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-11-09-last-man-in-tower-zee5",
+      "vertical": "WATCH THIS",
+      "format": "recommendation",
+      "industry": "ott",
+      "hook_type": "claim"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-09",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-09-R1",
+    "edition": "editions/2026-11-09",
+    "key": "R1",
+    "due_ist": "2026-11-09T09:00:00",
+    "kind": "reel",
+    "files": [
+      "jailer2-prime-video-post.mp4"
+    ],
+    "text": "Jailer 2 OTT: Rajinikanth's Jailer 2 streams on Prime Video from Thursday, 12 November. Prime Video announced the date on 5 November.\n\nThat's four weeks after its 15 October release, in India and 240-plus countries, in Tamil, Telugu, Hindi, Malayalam and Kannada. Director Nelson Dilipkumar told THR India it joins Jailer on the platform.\nVidya Balan, SJ Suryah and Shivarajkumar are in the cast; Mohanlal, Hrithik Roshan and Vijay Sethupathi make special appearances. THR India calls it the highest-grossing Tamil film ever.\n\nSource: Prime Video (announcement, 5 Nov), The Hollywood Reporter India, DT Next\nPhotos: Rajinikanth, Dani Charles, Silverscreen, CC BY-SA 3.0 · Nelson Dilipkumar, Naveen Thavaneshwar, CC0 · Vidya Balan, Bollywood Hungama, CC BY 3.0 · Mohanlal, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\nNo music track is used.\n\n#Buzzora #Jailer2 #Rajinikanth #PrimeVideo #Tamil #OTT",
+    "yt_title": "Jailer 2 OTT Release Date: Rajinikanth's Sequel on Prime Video From 12 November | Buzzora",
+    "tags": [
+      "Jailer 2",
+      "Jailer 2 OTT",
+      "Jailer 2 OTT release date",
+      "Rajinikanth",
+      "Prime Video",
+      "Nelson Dilipkumar",
+      "Tamil movie",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-11-06-jailer2-prime-video",
+      "vertical": "BUZZ NOW",
+      "format": "news",
+      "industry": "tamil",
+      "hook_type": "name-first",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-09",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-09-C1",
+    "edition": "editions/2026-11-09",
+    "key": "C1",
+    "due_ist": "2026-11-09T10:30:00",
+    "kind": "carousel",
+    "files": [
+      "wm-01.jpg",
+      "wm-02.jpg",
+      "wm-03.jpg",
+      "wm-04.jpg",
+      "wm-05.jpg",
+      "wm-06.jpg"
+    ],
+    "text": "What you missed this weekend:\n\nKamal Haasan's KH237 is Sandiyar. S.U. Arun Kumar directs, Anirudh scores, and the shoot began on 7 November.\nOm, out 20 November, is Mammootty's first Tamil film in almost eight years, with Dhanush and Sai Pallavi.\nVrushakarma's first single, Swag Of Arjun, is sung by its composer, Ajaneesh Loknath. The film opens on 4 December.\nJailer 2 streams on Prime Video from 12 November.\nRanbir Kapoor hopes to direct in two or three years, he told BBC Asian Network.\nWhich one are you waiting for?\n\nSource: The Week / IANS, Onmanorama, 123Telugu, Prime Video, Variety India\nPhotos: Ranbir Kapoor, Bollywood Hungama, CC BY 3.0 · Kamal Haasan, Gage Skidmore, CC BY-SA 3.0 · Mammootty, Firoze Edassery, CC BY-SA 4.0 · Naga Chaitanya, Winman Emotions, CC BY 4.0 · Rajinikanth, Dani Charles, Silverscreen, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #WhatYouMissed #Sandiyar #Om #Vrushakarma #Jailer2 #RanbirKapoor",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-11-09-what-you-missed-9-nov",
+      "vertical": "WHAT YOU MISSED",
+      "format": "list",
+      "industry": "other",
+      "hook_type": "claim"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-09",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-09-R2",
+    "edition": "editions/2026-11-09",
+    "key": "R2",
+    "due_ist": "2026-11-09T11:30:00",
+    "kind": "reel",
+    "files": [
+      "sandiyar-kh237-post.mp4"
+    ],
+    "text": "Sandiyar: Kamal Haasan's KH237 has a title, and it started shooting on his birthday, 7 November.\n\nS.U. Arun Kumar (Chithha, Veera Dheera Sooran) directs a revenge action thriller set in Madurai. Anirudh Ravichander scores, Anbariv handle the stunts and Sunil K.S. shoots it. Raaj Kamal Films International produces. Per The Week, the first schedule is in Chengalpattu, Madurai follows after Pongal, and there's no CGI de-ageing.\n\nSource: Raaj Kamal Films International, The Week / IANS, Telangana Today\nPhotos: Kamal Haasan, Gage Skidmore, CC BY-SA 3.0 · Anirudh Ravichander, Surajram Kumaravel, CC BY 3.0 · Meenakshi Temple, Madurai, Dr. Suchet Chaudhary, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\nNo music track is used.\n\n#Buzzora #Sandiyar #KH237 #KamalHaasan #Anirudh #TamilCinema",
+    "yt_title": "Sandiyar: Kamal Haasan's KH237 Title Revealed, Anirudh Scores, Shoot Begins | Buzzora",
+    "tags": [
+      "Sandiyar",
+      "KH237",
+      "Kamal Haasan",
+      "Kamal Haasan new movie",
+      "Anirudh",
+      "S.U. Arun Kumar",
+      "Anbariv",
+      "Tamil movie",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-11-09-sandiyar-kh237",
+      "vertical": "BUZZ NOW",
+      "format": "news",
+      "industry": "tamil",
+      "hook_type": "name-first",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-09",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-09-P2",
+    "edition": "editions/2026-11-09",
+    "key": "P2",
+    "due_ist": "2026-11-09T13:00:00",
+    "kind": "post",
+    "files": [
+      "tamizh-padam-rec.jpg"
+    ],
+    "text": "Cult classic, before Tamizh Padam 3: Tamizh Padam (2010).\n\nC.S. Amudhan's debut is often called Tamil cinema's first feature-length spoof. Shiva gets rich during a single song, learns Bharatanatyam overnight and defeats villains with a banana peel. Every mass-hero cliche gets a turn.\nAmudhan announced Part 3 on 5 November, with Shiva back as the \"Intergalactic Superstar\"; filming has begun.\n\nSource: Wikipedia, The Hollywood Reporter India\nPhoto: Shiva, Priya.ananthanarayanan20, CC0 · via Wikimedia Commons.\n\n#Buzzora #TamizhPadam #TamizhPadam3 #Shiva #CultClassic #TamilCinema",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-11-06-tamizh-padam-rec",
+      "vertical": "WATCH THIS",
+      "format": "recommendation",
+      "industry": "tamil",
+      "hook_type": "claim"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-09",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-09-R3",
+    "edition": "editions/2026-11-09",
+    "key": "R3",
+    "due_ist": "2026-11-09T14:00:00",
+    "kind": "reel",
+    "files": [
+      "vrushakarma-swag-of-arjun-post.mp4"
+    ],
+    "text": "Vrushakarma's first song, Swag Of Arjun, is out, and the composer sings it himself: B. Ajaneesh Loknath, of Kantara.\n\nNaga Chaitanya plays Arjun, a treasure hunter. Abhinavakavi wrote the lyrics and Vijay Binni choreographed it. Karthik Dandu directs, Meenakshi Chaudhary is the female lead, Sparsh Shrivastava plays the villain, and SVCC and Sukumar Writings produce. In cinemas on 4 December.\n\nSource: 123Telugu, Gulte, The Hollywood Reporter India\nPhotos: Naga Chaitanya, Winman Emotions, CC BY 4.0 · Meenakshi Chaudhary, VIRAL NEWS, CC BY 3.0 · Sukumar, Film Companion South, CC BY 3.0 · via Wikimedia Commons.\nNo music track is used. The song itself is not used.\n\n#Buzzora #Vrushakarma #SwagOfArjun #NagaChaitanya #AjaneeshLoknath #Telugu",
+    "yt_title": "Vrushakarma Song Swag Of Arjun: Naga Chaitanya, Ajaneesh Loknath Sings, Out 4 December | Buzzora",
+    "tags": [
+      "Vrushakarma",
+      "Swag Of Arjun",
+      "Vrushakarma song",
+      "Naga Chaitanya",
+      "Ajaneesh Loknath",
+      "Meenakshi Chaudhary",
+      "Karthik Dandu",
+      "Telugu movie",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-11-09-vrushakarma-swag-of-arjun",
+      "vertical": "LISTEN UP",
+      "format": "news",
+      "industry": "telugu",
+      "hook_type": "name-first",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-09",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-09-C2",
+    "edition": "editions/2026-11-09",
+    "key": "C2",
+    "due_ist": "2026-11-09T15:30:00",
+    "kind": "carousel",
+    "files": [
+      "rn-01.jpg",
+      "rn-02.jpg",
+      "rn-03.jpg",
+      "rn-04.jpg",
+      "rn-05.jpg",
+      "rn-06.jpg",
+      "rn-07.jpg"
+    ],
+    "text": "Rajinikanth + Nayanthara: Dharman is film five. Or six.\n\nTHR India counts six films; NewsBytes and Deccan Chronicle count five. The difference is one song.\nChandramukhi (2005): P. Vasu's horror comedy, with Jyothika in the title role.\nSivaji: The Boss (2007): she appears in the song 'Balleilakka'.\nKuselan (2008): Rajinikanth plays a film star; Nayanthara plays herself.\nDarbar (2020): A.R. Murugadoss directed; she played Lilly.\nAnnaatthe (2021): she played Pattammal, an advocate.\nDharman: Ashwath Marimuthu directs, Kamal Haasan's banner produces.\nFive or six? You decide.\n\nSource: The Hollywood Reporter India, NewsBytes, Deccan Chronicle, Wikipedia\nPhotos: Rajinikanth, Dani Charles, Silverscreen, CC BY-SA 3.0 · Jyothika, Sicp, CC BY 3.0 · Shankar, Bollywood Hungama, CC BY 3.0 · Pasupathy, Sriram Narasimhan, Silverscreen, CC BY-SA 3.0 · A.R. Murugadoss, Bollywood Hungama, CC BY 3.0 · Nayanthara, Bollywood Hungama, CC BY 3.0 · Sreeleela, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #Rajinikanth #Nayanthara #Dharman #Chandramukhi #TamilCinema",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-11-06-rajini-nayanthara-films",
+      "vertical": "DEEP CUT",
+      "format": "list",
+      "industry": "tamil",
+      "hook_type": "number"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-09",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-09-R4",
+    "edition": "editions/2026-11-09",
+    "key": "R4",
+    "due_ist": "2026-11-09T17:00:00",
+    "kind": "reel",
+    "files": [
+      "oh-my-kadavule-before-dharman-post.mp4"
+    ],
+    "text": "Watch Oh My Kadavule before Dharman. Ashok Selvan gets a second chance at his marriage. From God himself.\n\nGod is Vijay Sethupathi, in an extended cameo. Ritika Singh plays Anu, Arjun's best friend turned wife; they're heading for divorce when he gets a do-over.\nIt was Ashwath Marimuthu's 2020 debut. He now directs Rajinikanth's Dharman, and he remade this one himself in Telugu as Ori Devuda. There's a Kannada version too, Lucky Man.\n\nSource: Wikipedia, The Hollywood Reporter India\nPhotos: Ashok Selvan, Karthik sk, CC BY-SA 4.0 · Vijay Sethupathi, Bollywood Hungama, CC BY 3.0 · Ritika Singh, Silverscreen, CC BY-SA 3.0 · Rajinikanth, Dani Charles, Silverscreen, CC BY-SA 3.0 · Ashok Selvan, Dani Charles, Silverscreen, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\nNo music track is used.\n\n#Buzzora #OhMyKadavule #AshokSelvan #VijaySethupathi #Dharman #TamilCinema",
+    "yt_title": "Watch Oh My Kadavule Before Dharman: Vijay Sethupathi Plays God for Ashok Selvan | Buzzora",
+    "tags": [
+      "Oh My Kadavule",
+      "Dharman",
+      "Ashwath Marimuthu",
+      "Ashok Selvan",
+      "Vijay Sethupathi",
+      "Ritika Singh",
+      "Tamil movie",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-11-06-oh-my-kadavule-before-dharman",
+      "vertical": "WATCH THIS",
+      "format": "recommendation",
+      "industry": "tamil",
+      "hook_type": "name-first",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-09",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-09-P3",
+    "edition": "editions/2026-11-09",
+    "key": "P3",
+    "due_ist": "2026-11-09T18:30:00",
+    "kind": "post",
+    "files": [
+      "jimmy-carr-india-2027.jpg"
+    ],
+    "text": "Jimmy Carr is bringing the Laughs Funny Tour to India: seven shows in six cities.\n\nBengaluru 27 Jan · Mumbai 30 and 31 Jan · Pune 2 Feb · Hyderabad 3 Feb · New Delhi 5 Feb · Kolkata 6 Feb (2027).\nTickets on District, from ₹999 to ₹1,499 depending on the city. Fukra Entertainment presents.\n\nSource: Rolling Stone India\nPhoto: Jimmy Carr, Albin Olsson, CC BY-SA 4.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #JimmyCarr #LaughsFunnyTour #StandUpComedy #India",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-11-09-jimmy-carr-india-2027",
+      "vertical": "THE DROP",
+      "format": "news",
+      "industry": "other",
+      "hook_type": "name-first"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-09",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-09-R5",
+    "edition": "editions/2026-11-09",
+    "key": "R5",
+    "due_ist": "2026-11-09T19:30:00",
+    "kind": "reel",
+    "files": [
+      "om-mammootty-tamil-post.mp4"
+    ],
+    "text": "Om: Chapter 1 opens worldwide on 20 November, and it's Mammootty's first Tamil film in almost eight years. His last was Peranbu (2019).\n\nHe shares the lead with Dhanush, whose Wunderbar Films produces. Sai Pallavi is the female lead, reuniting with her Amaran director Rajkumar Periasamy; Naseeruddin Shah, Sreeleela and Indrans also star. Sai Abhyankar composes. The audio launch was in Chennai on 6 November.\n\nSource: Onmanorama, Telangana Today, Outlook India, 123Telugu\nPhotos: Mammootty, Firoze Edassery, CC BY-SA 4.0 · Mammootty, Anees Kodiyathur, CC BY 3.0 · Dhanush, Dani Charles, Silverscreen, CC BY-SA 3.0 · Sai Pallavi, Ragalahari.com, CC BY-SA 4.0 · Naseeruddin Shah, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\nNo music track is used.\n\n#Buzzora #Om #Mammootty #Dhanush #SaiPallavi #TamilCinema",
+    "yt_title": "Om Chapter 1: Mammootty's First Tamil Film in 8 Years, With Dhanush, Out 20 November | Buzzora",
+    "tags": [
+      "Om",
+      "Om Chapter 1",
+      "Om movie",
+      "Mammootty",
+      "Dhanush",
+      "Sai Pallavi",
+      "Rajkumar Periasamy",
+      "Tamil movie",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-11-09-om-mammootty-tamil",
+      "vertical": "BUZZ NOW",
+      "format": "news",
+      "industry": "tamil",
+      "hook_type": "name-first",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-09",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-09-C3",
+    "edition": "editions/2026-11-09",
+    "key": "C3",
+    "due_ist": "2026-11-09T21:00:00",
+    "kind": "carousel",
+    "files": [
+      "kk-01.jpg",
+      "kk-02.jpg",
+      "kk-03.jpg",
+      "kk-04.jpg",
+      "kk-05.jpg",
+      "kk-06.jpg"
+    ],
+    "text": "Ladaku is Kabir Khan's next true story. He's told real ones before.\n\nKabul Express (2006): drawn from his own experiences as a documentary filmmaker, he has said.\nThe Forgotten Army: his 1999 documentary debut on Subhas Chandra Bose's Indian National Army, made into a series in 2020.\n83 (2021): Ranveer Singh as Kapil Dev, and India's 1983 World Cup win.\nChandu Champion (2024): Kartik Aaryan as Murlikant Petkar, India's first Paralympic gold medallist.\nLadaku: Kartik Aaryan, 18 June 2027.\nWhich was his best?\n\nSource: The Hollywood Reporter India, Variety India, Wikipedia\nPhotos: Kartik Aaryan, Segolene Liger, CC BY-SA 4.0 · Kabir Khan, Bollywood Hungama, CC BY 3.0 · Subhas Chandra Bose, Netaji Research Bureau, public domain · Kapil Dev, Bollywood Hungama, CC BY 3.0 · Murlikant Petkar, Komal Sambhudas, CC BY-SA 4.0 · Kartik Aaryan, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #KabirKhan #Ladaku #KartikAaryan #ChanduChampion #83",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-11-06-kabir-khan-true-stories",
+      "vertical": "DEEP CUT",
+      "format": "list",
+      "industry": "bollywood",
+      "hook_type": "claim"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-09",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-09-R6",
+    "edition": "editions/2026-11-09",
+    "key": "R6",
+    "due_ist": "2026-11-09T22:00:00",
+    "kind": "reel",
+    "files": [
+      "ranbir-kapoor-directing-post.mp4"
+    ],
+    "text": "Ranbir Kapoor calls this his last decade as an actor. Next: directing, within two or three years, he hopes.\n\nHe told BBC Asian Network, in a joint interview with Sai Pallavi, that he started writing a script a couple of months ago, and \"I don't want to direct myself for sure.\" He's thinking of a feel-good family drama, per Variety India. He assisted his father Rishi Kapoor on Aa Ab Laut Chalen (1999) and Sanjay Leela Bhansali on Black. No film has been announced yet; Ramayana Part 2, Love & War, Brahmastra 2 and Animal Park come first.\n\nSource: Variety India (BBC Asian Network interview), 123Telugu\nPhotos: Ranbir Kapoor, Bollywood Hungama, CC BY 3.0 · Rishi Kapoor, Bollywood Hungama, CC BY 3.0 · Sai Pallavi, Ragalahari.com, CC BY-SA 4.0 · via Wikimedia Commons. Shared under CC BY-SA.\nNo music track is used.\n\n#Buzzora #RanbirKapoor #Ramayana #Bollywood",
+    "yt_title": "Ranbir Kapoor Wants to Direct: His Last Decade as an Actor, Per Variety India | Buzzora",
+    "tags": [
+      "Ranbir Kapoor",
+      "Ranbir Kapoor director",
+      "Ranbir Kapoor directorial debut",
+      "Ramayana",
+      "Sai Pallavi",
+      "Rishi Kapoor",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-11-09-ranbir-kapoor-directing",
+      "vertical": "BUZZ NOW",
+      "format": "news",
+      "industry": "bollywood",
+      "hook_type": "name-first",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-09",
+    "status": "queued"
   }
 ]
