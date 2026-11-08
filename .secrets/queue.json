@@ -9030,6 +9030,9 @@
       "audio": "temp"
     },
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-09",
-    "status": "queued"
+    "status": "queued",
+    "staged": {
+      "facebook": "3453398444820800"
+    }
   }
 ]
