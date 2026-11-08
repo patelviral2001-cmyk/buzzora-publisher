@@ -8562,11 +8562,17 @@
       "audio": "temp"
     },
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-08",
-    "status": "queued",
+    "status": "published",
     "staged": {
       "facebook": "949151718051361",
       "youtube": "CI-cxkQWYdQ"
-    }
+    },
+    "result": {
+      "facebook": "949151718051361",
+      "youtube": "CI-cxkQWYdQ",
+      "instagram": "18132720520840926"
+    },
+    "published_at": "2026-11-08T17:00:47.202001+05:30"
   },
   {
     "id": "2026-11-08-R5",
