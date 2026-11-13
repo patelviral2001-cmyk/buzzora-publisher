@@ -9064,5 +9064,356 @@
       "instagram": "17973703035190041"
     },
     "published_at": "2026-11-12T22:00:48.941101+05:30"
+  },
+  {
+    "id": "2026-11-15-P1",
+    "edition": "editions/2026-11-15",
+    "key": "P1",
+    "due_ist": "2026-11-15T08:00:00",
+    "kind": "post",
+    "files": [
+      "ramayana-1000-crore.jpg"
+    ],
+    "text": "Ramayana has crossed ₹1,000 crore worldwide.\n\nRanbir Kapoor's epic grossed about ₹1,033.55 crore in its first eight days, by Sacnilk's estimate (trade figures, not producer-confirmed). Dhurandhar: The Revenge stood at about ₹1,078 crore at the same point. Nitesh Tiwari directs; Sai Pallavi plays Sita and Yash plays Ravana.\n\nSource: The Hollywood Reporter India, Sacnilk (estimates)\nPhoto: Ranbir Kapoor, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons.\n\n#Buzzora #Ramayana #RanbirKapoor #BoxOffice",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-11-15-ramayana-1000-crore",
+      "vertical": "BUZZ NOW",
+      "format": "news",
+      "industry": "bollywood",
+      "hook_type": "number"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-15",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-15-R1",
+    "edition": "editions/2026-11-15",
+    "key": "R1",
+    "due_ist": "2026-11-15T09:00:00",
+    "kind": "reel",
+    "files": [
+      "om-trailer-post.mp4"
+    ],
+    "text": "O.M trailer: Dhanush's new film spells out its name. O.M is Operation Mole, and Sai Pallavi runs it, as CBI officer Nithya Reddy.\n\nDhanush plays a woodcutter pulled into a red sandalwood smuggling syndicate. Mammootty is Burma Karthikeyan, in his first Tamil film since Peranbu (2019) and his first with Dhanush. Sreeleela plays Dhanush's wife. Rajkumar Periasamy (Amaran) writes and directs; Sai Abhyankkar scores. In cinemas Friday, 20 November.\n\nSource: Pinkvilla, Filmibeat, Outlook India\nPhotos: Dhanush, Bollywood Hungama, CC BY 3.0 · Sai Pallavi, Bollywood Hungama, CC BY 3.0 · Mammootty, Firoze Edassery, CC BY-SA 4.0 · Sreeleela, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\nNo music track is used.\n\n#Buzzora #OM #OperationMole #Dhanush #Mammootty #SaiPallavi #Tamil",
+    "yt_title": "O.M Trailer: Dhanush, Mammootty, Sai Pallavi in Operation Mole, Out 20 November | Buzzora",
+    "tags": [
+      "O.M trailer",
+      "OM trailer",
+      "Om Chapter 1",
+      "Operation Mole",
+      "Dhanush",
+      "Mammootty",
+      "Sai Pallavi",
+      "Sreeleela",
+      "Rajkumar Periasamy",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-11-15-om-trailer",
+      "vertical": "THE DROP",
+      "format": "news",
+      "industry": "tamil",
+      "hook_type": "name-first",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-15",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-15-C1",
+    "edition": "editions/2026-11-15",
+    "key": "C1",
+    "due_ist": "2026-11-15T10:30:00",
+    "kind": "carousel",
+    "files": [
+      "cin-01.jpg",
+      "cin-02.jpg",
+      "cin-03.jpg",
+      "cin-04.jpg",
+      "cin-05.jpg",
+      "cin-06.jpg"
+    ],
+    "text": "Five films, one week in cinemas:\n\nBachelor Party D'eux · Malayalam · 19 November.\nO.M · Tamil · 20 November.\nSathyavan Savithiri · Tamil · 20 November.\nSuryaa: Ant Se Aarambh Tak · Hindi · 20 November.\nKaali Kheti · Hindi · 20 November.\nScreenshot this.\n\nSource: The Hollywood Reporter India, Filmibeat, Sacnilk, NewsBytes\nPhotos: Dhanush, Bollywood Hungama, CC BY 3.0 · Naslen, Square457, CC0 · Mammootty, Firoze Edassery, CC BY-SA 4.0 · Keerthy Suresh, Verghese TK, CC BY-SA 4.0 · Sunny Deol, Bollywood Hungama, CC BY 3.0 · Jackie Shroff, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #BachelorPartyDeux #OM #SathyavanSavithiri #Suryaa #KaaliKheti",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-11-15-in-cinemas-15-nov",
+      "vertical": "5 THINGS",
+      "format": "list",
+      "industry": "other",
+      "hook_type": "number"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-15",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-15-R2",
+    "edition": "editions/2026-11-15",
+    "key": "R2",
+    "due_ist": "2026-11-15T11:30:00",
+    "kind": "reel",
+    "files": [
+      "earthshot-mumbai-karan-post.mp4"
+    ],
+    "text": "Karan Johar hosts the Earthshot Prize Awards in Mumbai on Tuesday, 17 November, the first time Prince William's environment prize comes to India. He'll attend.\n\nAlia Bhatt presents one of the five awards. Sonam Kapoor, Shreya Ghoshal, Rami Malek, Simone Ashley and Sachin Tendulkar are on the guest list; Take That play their first India show. Five winners get £1 million each. Prime Video streams the ceremony from 30 November.\n\nSource: The Hollywood Reporter India, The Earthshot Prize\nPhotos: Karan Johar, Bollywood Hungama, CC BY 3.0 · Prince William, Pierre, Sami & Roxi Cola, CC0 · Alia Bhatt, lauraleedooley, Flickr, CC BY 2.0 · Rami Malek, Dominick D, CC BY 2.0 · via Wikimedia Commons.\nNo music track is used.\n\n#Buzzora #EarthshotPrize #KaranJohar #PrinceWilliam #AliaBhatt #Mumbai",
+    "yt_title": "Earthshot Prize Mumbai 2026: Karan Johar Hosts, Prince William Attends, Alia Bhatt Presents",
+    "tags": [
+      "Earthshot Prize 2026",
+      "Earthshot Prize Mumbai",
+      "Karan Johar",
+      "Prince William",
+      "Alia Bhatt",
+      "Rami Malek",
+      "Take That",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-11-15-earthshot-mumbai-karan",
+      "vertical": "BUZZ NOW",
+      "format": "news",
+      "industry": "other",
+      "hook_type": "name-first",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-15",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-15-P2",
+    "edition": "editions/2026-11-15",
+    "key": "P2",
+    "due_ist": "2026-11-15T13:00:00",
+    "kind": "post",
+    "files": [
+      "pushpak-vimaan-netflix.jpg"
+    ],
+    "text": "Jaideep Ahlawat boards Pushpak Vimaan, a new Netflix crime-caper series.\n\nSudip Sharma (Paatal Lok, Kohrra) writes, showruns and directs; he co-created it with Abhishek Banerjee, who also stars alongside Barun Sobti. No release date yet.\n\nSource: The Hollywood Reporter India\nPhoto: Jaideep Ahlawat, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons.\n\n#Buzzora #PushpakVimaan #JaideepAhlawat #SudipSharma #Netflix",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-11-15-pushpak-vimaan-netflix",
+      "vertical": "THE DROP",
+      "format": "news",
+      "industry": "ott",
+      "hook_type": "name-first"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-15",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-15-R3",
+    "edition": "editions/2026-11-15",
+    "key": "R3",
+    "due_ist": "2026-11-15T14:00:00",
+    "kind": "reel",
+    "files": [
+      "sathyavan-savithiri-trailer-post.mp4"
+    ],
+    "text": "Sathyavan Savithiri trailer: Keerthy Suresh's first case is her own husband's. She plays Savithiri, a new lawyer defending Deepak (Charukesh) in a murder trial, against her senior Markandeyan, played by Mysskin.\n\nPraveen S Vijaay directs his first film; Sam CS scores; Zee Studios releases it. In cinemas Friday, 20 November.\n\nSource: The Hollywood Reporter India, DT Next\nPhotos: Keerthy Suresh, Verghese TK, CC BY-SA 4.0 · Mysskin, Rnaresh2011, CC BY-SA 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\nNo music track is used.\n\n#Buzzora #SathyavanSavithiri #KeerthySuresh #Mysskin #Tamil",
+    "yt_title": "Sathyavan Savithiri Trailer: Keerthy Suresh vs Mysskin in Court, Out 20 November | Buzzora",
+    "tags": [
+      "Sathyavan Savithiri",
+      "Sathyavan Savithiri trailer",
+      "Keerthy Suresh",
+      "Mysskin",
+      "Tamil courtroom drama",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-11-15-sathyavan-savithiri-trailer",
+      "vertical": "THE DROP",
+      "format": "news",
+      "industry": "tamil",
+      "hook_type": "name-first",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-15",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-15-C2",
+    "edition": "editions/2026-11-15",
+    "key": "C2",
+    "due_ist": "2026-11-15T15:30:00",
+    "kind": "carousel",
+    "files": [
+      "mam-01.jpg",
+      "mam-02.jpg",
+      "mam-03.jpg",
+      "mam-04.jpg",
+      "mam-05.jpg",
+      "mam-06.jpg"
+    ],
+    "text": "Mammootty in Tamil, before O.M opens on 20 November:\n\nMounam Sammadham (1990), his Tamil debut, as a lawyer.\nThalapathi (1991), as Deva, opposite Rajinikanth. Mani Ratnam.\nKandukondain Kandukondain (2000), as Major Bala. Rajiv Menon.\nPeranbu (2019), as Amudhavan. Ram.\nO.M (2026), as Burma Karthikeyan, opposite Dhanush.\nWhich one first?\n\nSource: Wikipedia (Mammootty filmography), Outlook India\nPhotos: Mammootty, Anees Kodiyathur, CC BY 3.0 · Rajinikanth, Dani Charles, Silverscreen, CC BY-SA 3.0 · Tabu, Bollywood Hungama, CC BY 3.0 · Mammootty, Firoze Edassery, CC BY-SA 4.0 · Dhanush, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #Mammootty #Thalapathi #Peranbu #OM #DeepCut",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-11-15-mammootty-tamil-before-om",
+      "vertical": "DEEP CUT",
+      "format": "deep-cut",
+      "industry": "tamil",
+      "hook_type": "name-first"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-15",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-15-R4",
+    "edition": "editions/2026-11-15",
+    "key": "R4",
+    "due_ist": "2026-11-15T17:00:00",
+    "kind": "reel",
+    "files": [
+      "asuran-before-om-post.mp4"
+    ],
+    "text": "Dhanush's O.M opens on Friday, 20 November. Watch his National Award role first: Asuran (2019).\n\nVetrimaaran adapted Poomani's novel Vekkai. Dhanush plays Sivasaami, a quiet farmer who flees with his son after a killing; Manju Warrier made her Tamil debut as his wife, Pachaiyamma. It won Dhanush Best Actor at the 67th National Film Awards, and Best Tamil Film. Venkatesh remade it in Telugu as Narappa.\n\nSource: Wikipedia (Asuran)\nPhotos: Dhanush, Dani Charles, Silverscreen, CC BY-SA 3.0 · Vetrimaaran, Silverscreen, CC BY-SA 3.0 · Manju Warrier, Irfan_kottaparamban, CC BY 3.0 · Dhanush, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\nNo music track is used.\n\n#Buzzora #Asuran #Dhanush #Vetrimaaran #ManjuWarrier #OM",
+    "yt_title": "Watch Asuran Before O.M: Dhanush's National Award Role, Vetrimaaran, Manju Warrier (2019) | Buzzora",
+    "tags": [
+      "Asuran",
+      "O.M",
+      "Om Chapter 1",
+      "Dhanush",
+      "Vetrimaaran",
+      "Manju Warrier",
+      "National Award",
+      "Tamil",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-11-15-asuran-before-om",
+      "vertical": "WATCH THIS",
+      "format": "recommendation",
+      "industry": "tamil",
+      "hook_type": "name-first",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-15",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-15-P3",
+    "edition": "editions/2026-11-15",
+    "key": "P3",
+    "due_ist": "2026-11-15T18:30:00",
+    "kind": "post",
+    "files": [
+      "mahanati-before-savithiri.jpg"
+    ],
+    "text": "Comfort watch, before Sathyavan Savithiri opens on 20 November: Mahanati (2018).\n\nKeerthy Suresh won the National Award for Best Actress playing the star Savitri in Nag Ashwin's Telugu biopic.\n\nSource: Wikipedia (Mahanati)\nPhoto: Keerthy Suresh, Verghese TK, CC BY-SA 4.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #Mahanati #KeerthySuresh #NagAshwin #ComfortWatch",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-11-15-mahanati-before-savithiri",
+      "vertical": "WATCH THIS",
+      "format": "recommendation",
+      "industry": "telugu",
+      "hook_type": "claim"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-15",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-15-R5",
+    "edition": "editions/2026-11-15",
+    "key": "R5",
+    "due_ist": "2026-11-15T19:30:00",
+    "kind": "reel",
+    "files": [
+      "scary-picture-kangana-post.mp4"
+    ],
+    "text": "Kangana Ranaut is back in horror. Rana Daggubati shared the first glimpse of Scary Picture on Friday the 13th; his family's Suresh Productions backs it, with his father Suresh Babu producing.\n\nTelugu horror director Ravi Babu (Avunu, Anasuya) makes his Hindi debut. Kangana's last Hindi horror was Raaz: The Mystery Continues (2009). It's due in 2027; no date or other cast yet.\n\nSource: Bollywood Hungama, The Hollywood Reporter India\nPhotos: Kangana Ranaut, Flickr user 146461623@N05, CC BY 2.0 · Rana Daggubati, Gage Skidmore, CC BY-SA 3.0 · Kangana Ranaut, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\nNo music track is used.\n\n#Buzzora #ScaryPicture #KanganaRanaut #RanaDaggubati #RaviBabu",
+    "yt_title": "Scary Picture: Kangana Ranaut's Horror Film With Ravi Babu, Revealed by Rana Daggubati | Buzzora",
+    "tags": [
+      "Scary Picture",
+      "Kangana Ranaut",
+      "Kangana Ranaut horror",
+      "Rana Daggubati",
+      "Ravi Babu",
+      "Suresh Productions",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-11-15-scary-picture-kangana",
+      "vertical": "THE DROP",
+      "format": "news",
+      "industry": "bollywood",
+      "hook_type": "name-first",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-15",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-15-C3",
+    "edition": "editions/2026-11-15",
+    "key": "C3",
+    "due_ist": "2026-11-15T21:00:00",
+    "kind": "carousel",
+    "files": [
+      "st-01.jpg",
+      "st-02.jpg",
+      "st-03.jpg",
+      "st-04.jpg",
+      "st-05.jpg",
+      "st-06.jpg"
+    ],
+    "text": "Five new streams from this week:\n\nJailer 2 · Prime Video.\nRanabaali · Netflix.\nDaayra · Netflix.\nStudent of the Year: After Dark · JioHotstar.\nParivarik ManuRanjan · SonyLIV.\nWhich one tonight?\n\nSource: Business Standard, Onmanorama, Sacnilk\nPhotos: Rajinikanth, Bollywood Hungama, CC BY 3.0 · Rajinikanth, Dani Charles, Silverscreen, CC BY-SA 3.0 · Vijay Deverakonda, Dani Charles, Silverscreen, CC BY-SA 3.0 · Kareena Kapoor Khan, Bollywood Hungama, CC BY 3.0 · Shanaya Kapoor, Bollywood Hungama, CC BY 3.0 · Pankaj Tripathi, Maximilian Bühn, CC BY-SA 4.0 · via Wikimedia Commons. Shared under CC BY-SA.\n\n#Buzzora #Jailer2 #Ranabaali #Daayra #StudentOfTheYear #ParivarikManuRanjan",
+    "yt_title": null,
+    "tags": [],
+    "meta": {
+      "story_id": "2026-11-15-weekend-streams-15-nov",
+      "vertical": "WATCH THIS",
+      "format": "list",
+      "industry": "ott",
+      "hook_type": "number"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-15",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-15-R6",
+    "edition": "editions/2026-11-15",
+    "key": "R6",
+    "due_ist": "2026-11-15T22:00:00",
+    "kind": "reel",
+    "files": [
+      "scene-2-jithu-madhavan-post.mp4"
+    ],
+    "text": "Suriya's Scene has passed ₹200 crore worldwide (₹205 crore, per Zhagaram Studios). So, Scene 2?\n\nDirector Jithu Madhavan: \"Aavesham 2 and Scene 2 are just assumptions. I haven't announced them.\" The only follow-up he has announced is Romancham 2. Scene is Suriya's third ₹200 crore film, after Vishwanath & Sons and Karuppu.\n\nSource: The Hollywood Reporter India\nPhotos: Suriya, TeachAIDS, CC BY-SA 2.0 · Fahadh Faasil, Asianet, CC BY 3.0 · Soubin Shahir, Asianet, CC BY 3.0 · Nazriya Nazim, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\nNo music track is used.\n\n#Buzzora #Scene #Suriya #JithuMadhavan #Aavesham #Romancham2",
+    "yt_title": "Scene 2 and Aavesham 2? Jithu Madhavan Answers as Suriya's Scene Passes ₹200 Crore | Buzzora",
+    "tags": [
+      "Scene 2",
+      "Aavesham 2",
+      "Scene box office",
+      "Suriya",
+      "Jithu Madhavan",
+      "Fahadh Faasil",
+      "Romancham 2",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-11-15-scene-2-jithu-madhavan",
+      "vertical": "BUZZ NOW",
+      "format": "news",
+      "industry": "tamil",
+      "hook_type": "claim",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp"
+    },
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-15",
+    "status": "queued"
   }
 ]
