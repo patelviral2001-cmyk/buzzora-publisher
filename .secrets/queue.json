@@ -8890,11 +8890,12 @@
       "audio": "temp"
     },
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-17",
-    "status": "queued",
+    "status": "failed",
     "staged": {
       "facebook": "2356917955070616",
       "youtube": "VtvqVH3KyCA"
-    }
+    },
+    "error": "instagram: Instagram rejected the media: Error: Media upload has failed with error code 2207077"
   },
   {
     "id": "2026-11-17-C2",
