@@ -9031,11 +9031,12 @@
       "audio": "temp"
     },
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-18",
-    "status": "queued",
+    "status": "failed",
     "staged": {
       "facebook": "1801104402022997",
       "youtube": "o2PfFLHp0eg"
-    }
+    },
+    "error": "instagram: Instagram rejected the media: Error: Media upload has failed with error code 2207077"
   },
   {
     "id": "2026-11-18-C2",
