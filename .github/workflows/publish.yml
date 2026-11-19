@@ -29,6 +29,7 @@ concurrency:
 permissions:
   contents: write   # commit queue state after every post
   actions: write    # dispatch the next shift
+  issues: write     # watchdog alerts (missing edition, Instagram block) -> email the owner
 
 env:
   BUZZORA_IG_USER_ID: ${{ secrets.BUZZORA_IG_USER_ID }}
@@ -66,6 +67,8 @@ jobs:
       # Commits state itself after every post, so nothing is lost if the job dies mid-shift.
       - name: Serve (publish each slot on time)
         if: inputs.dry_run != true
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: python -u tools/publish.py serve --hours 5.75
 
       # Only after a clean, full shift: a run that failed or ended early never re-dispatches, so a fault

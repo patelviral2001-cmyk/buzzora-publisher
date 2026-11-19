@@ -382,7 +382,7 @@ def publish_item(c, x, dry=False, skip_meta=False):
     if dry:
         nets = ["instagram"] + (["facebook"] if c.get("fb_page_id") else []) + \
                (["youtube"] if x["kind"] == "reel" and c.get("yt_refresh_token") else [])
-        done = list((x.get("result") or {}).keys())
+        done = list((x.get("result") or {}).keys()) + list(x.get("skip") or [])
         todo = [n for n in nets if n not in done]
         print(f"DRY {x['id']}  {x['kind']:<8} {x['files'][0]}  -> {', '.join(todo) or 'nothing left'}")
         return {"dry": True}
@@ -401,17 +401,37 @@ def publish_item(c, x, dry=False, skip_meta=False):
     if x["kind"] == "reel" and c.get("yt_refresh_token"):
         steps.append(("youtube", lambda: yt_upload(c, x, local_video(x))))
     errors = ["instagram/facebook: skipped - Meta API unavailable"] if skip_meta else []
+    skip = set(x.get("skip") or [])
     for net, fn in steps:
-        if net in res:
+        if net in res or net in skip:
             continue
         try:
             res[net] = fn()
             x["result"] = dict(res)
         except SystemExit as e:
+            if net == "instagram" and x["kind"] != "reel" and ig_action_blocked(str(e)):
+                # Instagram's integrity block on feed images (25-30 Sept). Retrying a blocked account
+                # can extend the block, so drop Instagram for this item and let the other networks
+                # count; publish_due then skips Instagram images for IG_BLOCK_COOLDOWN.
+                x["skip"] = sorted(skip | {"instagram"})
+                x["ig_blocked_at"] = datetime.now(IST).isoformat()
+                print(f"    instagram: action blocked (2207051) - skipping Instagram for {x['id']}")
+                continue
             errors.append(f"{net}: {e}")
     if errors:
         raise SystemExit(" | ".join(errors))
+    if not res:
+        raise SystemExit("nothing published: every network was skipped or blocked")
     return res
+
+
+IG_BLOCK_COOLDOWN = timedelta(hours=24)
+
+
+def ig_action_blocked(err):
+    """Instagram 'Action is blocked' (code 4, subcode 2207051): an account-level restriction,
+    not the app rate limit it is mislabelled as. Retrying does not help."""
+    return "2207051" in err or "Action is blocked" in err
 
 
 # ---------------------------------------------------------------- cloud runner (serve)
@@ -572,12 +592,24 @@ def publish_due(c, q, save_fn):
         skip_meta = True
         items = [x for x in items if x["kind"] == "reel" and "youtube" not in (x.get("result") or {})
                  and "youtube" not in (x.get("staged") or {})]
+    # Circuit breaker: after an Instagram image block, image items go to the other networks only
+    # for IG_BLOCK_COOLDOWN, so the account sees at most one blocked attempt a day (a daily probe).
+    blocks = [datetime.fromisoformat(r["ig_blocked_at"]) for r in q if r.get("ig_blocked_at")]
+    if blocks and now - max(blocks) < IG_BLOCK_COOLDOWN:
+        for x in items:
+            if x["kind"] != "reel" and "instagram" not in (x.get("result") or {}):
+                x["skip"] = sorted(set(x.get("skip") or []) | {"instagram"})
+        print(f"Instagram image block seen {max(blocks):%d %b %H:%M} - images skip Instagram until "
+              f"{max(blocks) + IG_BLOCK_COOLDOWN:%d %b %H:%M}")
     for x in items:
         fields = {}
+        if x["kind"] != "reel" and any(y.get("ig_blocked_at") for y in items if y is not x) \
+                and "instagram" not in (x.get("result") or {}):
+            x["skip"] = sorted(set(x.get("skip") or []) | {"instagram"})   # blocked earlier this round
         try:
             res = publish_item(c, x, skip_meta=skip_meta)
             fields = {"status": "published", "result": res, "published_at": datetime.now(IST).isoformat()}
-            print(f"OK  {x['id']} -> {res}")
+            print(f"OK  {x['id']} -> {res}" + (f"  (skipped: {', '.join(x['skip'])})" if x.get("skip") else ""))
         except SystemExit as e:
             part = bool(x.get("result"))
             fields = {"status": "partial" if part else "failed", "result": x.get("result"), "error": str(e)}
@@ -585,6 +617,9 @@ def publish_due(c, q, save_fn):
         except Exception as e:  # noqa: BLE001 - an unexpected error must not hide a live post
             fields = {"status": "unknown", "result": x.get("result"), "error": f"{type(e).__name__}: {e}"}
             print(f"ERROR {x['id']}: {fields['error']} - VERIFY on the account")
+        for k in ("skip", "ig_blocked_at"):
+            if x.get(k):
+                fields[k] = x[k]
 
         def m(q2, log, x=x, fields=fields):
             r = _row(q2, x["id"])
@@ -595,6 +630,54 @@ def publish_due(c, q, save_fn):
                 log.append({k: r[k] for k in ("id", "kind", "published_at", "result") if k in r})
         if not save_fn(m, f"publish {x['id']} {fields.get('status')}"):
             raise SystemExit("state could not be saved - stopping so nothing is posted twice")
+
+
+_ALERTED = set()   # titles already checked this shift
+
+
+def alert(title, body):
+    """Open a GitHub issue on the runner repo (GitHub emails the owner). One issue per title, ever:
+    an open or closed issue with the same title means it was already raised. Best-effort only."""
+    if title in _ALERTED:
+        return
+    _ALERTED.add(title)
+    repo = os.environ.get("GITHUB_REPOSITORY")
+    if not repo or not os.environ.get("GH_TOKEN"):
+        print(f"ALERT (not sent, no GitHub context): {title}")
+        return
+    try:
+        r = subprocess.run(["gh", "issue", "list", "--repo", repo, "--state", "all", "--search",
+                            f'"{title}" in:title', "--json", "title"], capture_output=True, text=True, timeout=60)
+        if r.returncode == 0 and any(i.get("title") == title for i in json.loads(r.stdout or "[]")):
+            return
+        subprocess.run(["gh", "issue", "create", "--repo", repo, "--title", title, "--body", body],
+                       capture_output=True, text=True, timeout=60)
+        print(f"ALERT raised: {title}")
+    except Exception as e:  # noqa: BLE001 - an alert must never stop publishing
+        print(f"ALERT failed ({e}): {title}")
+
+
+def watchdog(q, now):
+    """The PC builds editions; this runner is the only thing that is always on, so it notices when
+    a day was never queued (PC asleep, build died: 6, 13 and 14 Nov) and when Instagram blocks images."""
+    days = {x["due_ist"][:10] for x in q}
+    today = now.strftime("%Y-%m-%d")
+    tomorrow = (now + timedelta(days=1)).strftime("%Y-%m-%d")
+    if now.hour >= 8 and today not in days:
+        alert(f"No Buzzora edition queued for {today}",
+              f"At {now:%H:%M} IST the cloud queue has nothing for today ({today}). The PC build never "
+              f"pushed it. The next awake run of the daily-edition task will print RESCUE {today} and "
+              f"build a short same-day edition; wake the PC or run it by hand.")
+    if now.hour >= 20 and tomorrow not in days:
+        alert(f"No Buzzora edition queued for {tomorrow}",
+              f"At {now:%H:%M} IST nothing is queued for tomorrow ({tomorrow}). Make sure the PC is awake "
+              f"tonight so the daily-edition task can build it.")
+    blocked = sorted(x["ig_blocked_at"][:10] for x in q if x.get("ig_blocked_at"))
+    if blocked:
+        alert(f"Instagram blocked image posts on {blocked[-1]}",
+              "Instagram returned 'Action is blocked' (code 4, subcode 2207051) on a post or carousel. "
+              "Images now go to Facebook only and Instagram is retried once a day. Check Instagram → "
+              "Settings → Account Status and request a review if it shows a restriction.")
 
 
 def serve(hours):
@@ -631,6 +714,7 @@ def serve(hours):
         except Exception as e:  # noqa: BLE001 - a network blip must not end the shift
             print(f"!! {type(e).__name__}: {e}")
         q = load(QUEUE, [])
+        watchdog(q, now)
         upcoming = [_due_at(x) for x in q if x["status"] in ("queued", "partial") and _due_at(x) > now]
         wake = min([now + timedelta(minutes=10), end - timedelta(minutes=12)] + upcoming)
         time.sleep(max(20, (wake - datetime.now(IST)).total_seconds() + 5))
