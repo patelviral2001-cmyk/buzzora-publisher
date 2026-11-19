@@ -322,6 +322,7 @@ def build_queue(edition_dir):
                   "files": item["files"], "text": item["text"],
                   "yt_title": item.get("yt_title"), "tags": item.get("tags", []),
                   "meta": item.get("meta", {}),   # editorial tags for tools/metrics.py
+                  "skip": item.get("skip", []),   # networks this item must not go to (e.g. W46-2: ["youtube"])
                   "media_base": f"{MEDIA_BASE}/{date}", "status": "queued"})
         row = q[-1]
         old = prev.get(row["id"], {})
@@ -519,13 +520,14 @@ def stage_item(c, x, save_fn):
                 r.setdefault("staged", {})[net] = sid
         return save_fn(m, f"stage {x['id']} {net}")
 
-    if c.get("fb_page_id") and "facebook" not in staged:
+    skip = set(x.get("skip") or [])
+    if c.get("fb_page_id") and "facebook" not in staged and "facebook" not in skip:
         try:
             ok = record("facebook", fb_schedule(c, x, when)) and ok
             print(f"STAGED {x['id']} facebook for {when:%d %b %H:%M} IST")
         except SystemExit as e:
             print(f"stage failed {x['id']} facebook (will post live at slot): {e}")
-    if ok and x["kind"] == "reel" and c.get("yt_refresh_token") and "youtube" not in staged:
+    if ok and x["kind"] == "reel" and c.get("yt_refresh_token") and "youtube" not in staged and "youtube" not in skip:
         try:
             ok = record("youtube", yt_upload(c, x, local_video(x), publish_at=when)) and ok
             print(f"STAGED {x['id']} youtube for {when:%d %b %H:%M} IST")
