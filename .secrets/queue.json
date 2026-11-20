@@ -9136,10 +9136,15 @@
       "hook_type": "name-first"
     },
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-20",
-    "status": "queued",
+    "status": "published",
     "staged": {
       "facebook": "122130939081475707"
-    }
+    },
+    "result": {
+      "facebook": "122130939081475707",
+      "instagram": "17879361813658673"
+    },
+    "published_at": "2026-11-20T08:00:31.119307+05:30"
   },
   {
     "id": "2026-11-20-R1",
