@@ -9215,10 +9215,15 @@
       "hook_type": "number"
     },
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-20",
-    "status": "queued",
+    "status": "published",
     "staged": {
       "facebook": "1383947794794733_122130939411475707"
-    }
+    },
+    "result": {
+      "facebook": "1383947794794733_122130939411475707",
+      "instagram": "18038360510668055"
+    },
+    "published_at": "2026-11-20T10:30:44.545518+05:30"
   },
   {
     "id": "2026-11-20-R2",
