@@ -10744,11 +10744,17 @@
     },
     "skip": [],
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-27",
-    "status": "queued",
+    "status": "published",
     "staged": {
       "facebook": "1956719959030299",
       "youtube": "ZVWaadWf0tU"
-    }
+    },
+    "result": {
+      "facebook": "1956719959030299",
+      "youtube": "ZVWaadWf0tU",
+      "instagram": "18129323690297308"
+    },
+    "published_at": "2026-11-27T17:00:50.011447+05:30"
   },
   {
     "id": "2026-11-27-P3",
