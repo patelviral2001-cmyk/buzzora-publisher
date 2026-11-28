@@ -10985,6 +10985,9 @@
     },
     "skip": [],
     "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-28",
-    "status": "queued"
+    "status": "queued",
+    "staged": {
+      "facebook": "1186666210456181"
+    }
   }
 ]
