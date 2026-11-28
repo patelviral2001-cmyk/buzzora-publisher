@@ -10910,5 +10910,77 @@
       "instagram": "17922807468460912"
     },
     "published_at": "2026-11-27T22:00:46.970125+05:30"
+  },
+  {
+    "id": "2026-11-28-R1",
+    "edition": "editions/2026-11-28",
+    "key": "R1",
+    "due_ist": "2026-11-28T13:30:00",
+    "kind": "reel",
+    "files": [
+      "maharaja-tom-hanks-hollywood-remake-post.mp4"
+    ],
+    "text": "Vijay Sethupathi's Maharaja has a fan with two Oscars.\n\nKavita Gupta, an International Academy board member, told The Hollywood Reporter India that Tom Hanks said to her at the LACMA gala on 7 November: \"I still can't get over that girl... what an incredible actor.\" THR India's report points to Sachana Namidass, who plays Jothi, Maharaja's daughter. (That's her account; Hanks hasn't spoken about it himself.)\n\nSethupathi told THR India that Maharaja \"is going to be remade in Hollywood.\" No studio or cast has been named. Would he act in it? \"If they offer me a role, I'd gladly do it.\"\n\nMaharaja, Sethupathi's 50th film as lead, streams on Netflix.\n\nSource: The Hollywood Reporter India (25 Nov, two exclusives); Wikipedia\nPhotos: Vijay Sethupathi, Silverscreen, CC BY-SA 3.0 · Tom Hanks, John Bauld, CC BY 2.0 · Vijay Sethupathi, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons. Shared under CC BY-SA.\nNo music track is used.\n\n#Buzzora #Maharaja #VijaySethupathi #TomHanks #TamilCinema #Netflix",
+    "yt_title": "Maharaja Hollywood Remake: Vijay Sethupathi Says It's Coming; Tom Hanks Is a Fan | Buzzora",
+    "tags": [
+      "Maharaja",
+      "Maharaja Hollywood remake",
+      "Vijay Sethupathi",
+      "Tom Hanks",
+      "Tom Hanks Maharaja",
+      "Sachana Namidass",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-11-27-maharaja-tom-hanks-hollywood-remake",
+      "vertical": "BUZZ NOW",
+      "format": "news",
+      "industry": "tamil",
+      "hook_type": "name-first",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp",
+      "vo": false,
+      "rescue_from": "2026-11-27-R1"
+    },
+    "skip": [],
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-28",
+    "status": "queued"
+  },
+  {
+    "id": "2026-11-28-R2",
+    "edition": "editions/2026-11-28",
+    "key": "R2",
+    "due_ist": "2026-11-28T19:30:00",
+    "kind": "reel",
+    "files": [
+      "king-runtime-3-hours-17-minutes-post.mp4"
+    ],
+    "text": "Shah Rukh Khan's King may break a 20-year habit.\n\nKing is listed at 3 hours 17 minutes on the US ticketing site Fandango, Bollywood Hungama reports. If that holds, it would be his first film over three hours since Kabhi Alvida Naa Kehna (2006, 192 minutes). Earlier reports put King at 2 hours 35 minutes. The film hasn't been certified yet, so the censor certificate will settle it.\n\nSiddharth Anand's King opens in cinemas on 24 December, with Suhana Khan and Deepika Padukone.\n\nSource: Bollywood Hungama, citing Fandango (REPORTED); Wikipedia\nPhotos: Shah Rukh Khan, Bollywood Hungama, CC BY 3.0 · Rani Mukerji, Bollywood Hungama, CC BY 3.0 · Siddharth Anand, Bollywood Hungama, CC BY 3.0 · via Wikimedia Commons.\nNo music track is used.\n\n#Buzzora #King #ShahRukhKhan #SRK #SiddharthAnand #SuhanaKhan",
+    "yt_title": "King Runtime 3 Hours 17 Minutes? Shah Rukh Khan's First 3-Hour Film Since 2006 | Buzzora",
+    "tags": [
+      "King runtime",
+      "King movie",
+      "Shah Rukh Khan",
+      "SRK King",
+      "King 24 December",
+      "Kabhi Alvida Naa Kehna",
+      "Buzzora"
+    ],
+    "meta": {
+      "story_id": "2026-11-27-king-runtime-3-hours-17-minutes",
+      "vertical": "BUZZ NOW",
+      "format": "news",
+      "industry": "bollywood",
+      "hook_type": "name-first",
+      "length": "standard",
+      "visual": "still",
+      "audio": "temp",
+      "vo": false,
+      "rescue_from": "2026-11-27-R2"
+    },
+    "skip": [],
+    "media_base": "https://raw.githubusercontent.com/patelviral2001-cmyk/buzzora-media/main/2026-11-28",
+    "status": "queued"
   }
 ]
